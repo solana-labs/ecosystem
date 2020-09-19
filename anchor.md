@@ -1,5 +1,5 @@
 ---
-slug: "Anchor"
+slug: "anchor"
 date: "2020-04-03"
 title: "Anchor"
 logline: "Anchor is a savings protocol that aims to produce a simple and convenient savings product with broad appeal to everyday users."
