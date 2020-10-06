@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Terra"
 logline: "Terra is building a high speed token bridge to Solana, enabling the hyperfast transaction of Terra stablecoins on all of Solana’s Dapps."
 cta: "https://medium.com/terra-money/terra-partners-with-solana-to-establish-low-latency-bridge-expanding-its-stablecoin-ecosystem-to-15883bdbb0fb"
-logo: /img/ftx.svg
+logo: /img/terra.svg
 ---
 
 Terra is a thriving payments network that is supported by a basket of stablecoins pegged to the world’s largest currencies. Today, these stablecoins largely flow through Terra’s flagship app, CHAI, which recently crossed 1M MAU and over \$3M USD in daily transaction volume. Terra is backed by an impressive team and some of the world’s best investors.

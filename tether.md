@@ -4,6 +4,7 @@ date: "2020-04-03"
 title: "Tether"
 logline: "USDt is coming to the Solana ecosystem: Tether’s technical integration will integrate the largest stablecoin by market capitalization and enable exchange at an unprecedented speed."
 cta: "https://tether.to/tether-usdt-to-launch-on-solana/"
+logo: /img/tether.svg
 ---
 
 Tether is bringing the USDt stablecoin to the Solana network. The initiative was first announced on Tether’s website on September 9th, 2020.
