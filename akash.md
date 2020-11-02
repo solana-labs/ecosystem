@@ -5,6 +5,7 @@ title: "Akash"
 logline: "Akash is integrating their serverless supercloud infrastructure into Solana to allow users to easily deploy powerful and low cost servers to run nodes or to scale their application."
 cta: "https://akash.network"
 logo: /img/akash.svg
+category: infra
 ---
 
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.
