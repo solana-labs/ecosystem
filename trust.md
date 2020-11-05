@@ -7,3 +7,5 @@ cta: "https://trustwallet.com"
 logo: /img/trust.svg
 category: wallet
 ---
+
+Trust Wallet is a mobile wallet that supports SOL. Download it from the iOS or Google Play store to interact with the Solana network on your mobile device.

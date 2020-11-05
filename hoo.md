@@ -7,3 +7,5 @@ cta: "http://hoo.com/"
 logo: /img/hoo.svg
 category: wallet
 ---
+
+Hoo is another exchange that listed SOL, Solana's native currency. You can trade SOL on hoo.com and investigate their offerings.
