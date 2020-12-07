@@ -5,6 +5,7 @@ title: "Waves"
 logline: "Solana will be the first external addition to Waves’ roadmap to achieving mass adoption of inter-chain DeFi through the Gravity interoperability protocol."
 cta: "https://gravity.tech/"
 logo: /img/waves.svg
+category: infra
 ---
 
 We are thrilled to announce the integration of the Solana protocol into Gravity, a decentralized cross-chain and oracle network based on the Waves protocol.

@@ -5,7 +5,7 @@ title: "CoinDCX"
 logline: "CoinDCX maintains multiple SOL spot trading pairs."
 cta: "https://coindcx.com/"
 logo: /img/coindcx.svg
-category: wallet
+category: exchange
 ---
 
 CoinDCX is another exchange that has listed SOL, Solana's native currency.

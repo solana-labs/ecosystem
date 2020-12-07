@@ -5,6 +5,7 @@ title: "BSN"
 logline: "The Blockchain Service Network partnered with Solana to provide convenient access for developers working with BSN’s infrastructure."
 cta: "https://cointelegraph.com/news/chinas-blockchain-service-network-integrates-three-more-public-chains"
 logo: /img/bsn.svg
+category: infra
 ---
 
 China’s Blockchain-based Service Network, or BSN, is a cross-cloud, cross-portal, and cross-framework global public infrastructure network.

@@ -5,6 +5,7 @@ title: "USDC"
 logline: "USDC for Solana is now available on mainnet, and Circle will bring comprehensive support for Solana across its suite of platform services and APIs in Q4."
 cta: "https://www.circle.com/blog/circle-solana-partner-to-bring-usdc-to-solana-blockchain"
 logo: /img/usdc.svg
+category: stablecoin
 ---
 
 \$USDC is now integrated natively on Solana!

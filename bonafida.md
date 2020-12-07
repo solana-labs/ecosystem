@@ -5,6 +5,7 @@ title: "Bonfida"
 logline: "Bonfida is built on top of Solana and Serum."
 cta: "https://bonfida.com/"
 logo: /img/bonfida.svg
+category: data
 ---
 
 Bonfida aims to be the single source of truth in the cryptocurrency industry. This covers categories including (but not limited to) exchange statistics and crypto company reviews and scoring, whilst also providing explanations and in-depth research on crypto trends and notable occurrences.
