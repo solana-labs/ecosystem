@@ -1,5 +1,5 @@
 ---
-slug: "StableSwap"
+slug: "stableswap"
 date: "2020-04-03"
 title: "StableSwap"
 logline: "StableSwap brings Curve — the decentralized exchange liquidity pool — to Solana."

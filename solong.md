@@ -1,5 +1,5 @@
 ---
-slug: "Solong"
+slug: "solong"
 date: "2020-04-03"
 title: "Solong"
 logline: "Solong is a browser extension that allows users to interact with Solana or Serum applications."

@@ -1,5 +1,5 @@
 ---
-slug: "Solana Fantasy Sports"
+slug: "sfs"
 date: "2020-04-03"
 title: "Fantasy Sports"
 logline: "Solana Fantasy Sports is a fully onchain app where users can start a league by setting an entry amount in SOL."

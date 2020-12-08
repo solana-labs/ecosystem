@@ -1,5 +1,5 @@
 ---
-slug: "SolGSN"
+slug: "solgsn"
 date: "2020-04-03"
 title: "SolGSN"
 logline: "SolGSN is a gas station implementation for Solana."

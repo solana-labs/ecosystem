@@ -1,5 +1,5 @@
 ---
-slug: "SoproX"
+slug: "soprox"
 date: "2020-04-03"
 title: "SoproX"
 logline: "SoproX is a tool that helps developers create a Solana Rust-based program with no build configuration."

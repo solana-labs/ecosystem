@@ -1,5 +1,5 @@
 ---
-slug: "IdentitySwap"
+slug: "identityswap"
 date: "2020-04-03"
 title: "IdentitySwap"
 logline: "IdentitySwap is an Automatic Money Market dApp that demonstrates decentralized identity on Solana."

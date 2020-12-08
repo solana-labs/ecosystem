@@ -1,5 +1,5 @@
 ---
-slug: "Jabber"
+slug: "jabber"
 date: "2020-04-03"
 title: "Jabber"
 logline: "Jabber is a p2p messaging platform built on Solana."
