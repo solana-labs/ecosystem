@@ -5,7 +5,7 @@ title: "Solflare"
 logline: "SolFlare.com is a community-created web wallet built specifically for Solana."
 cta: "https://solflare.com"
 logo: /img/solflare.svg
-category: wallet
+category: wallet, SPL
 ---
 
 SolFlare supports sending and receiving native SOL tokens as well as sending and receiving SPL Tokens (Solana's ERC-20 equivalent). SolFlare also supports staking of SOL tokens.

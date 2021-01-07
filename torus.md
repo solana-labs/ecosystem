@@ -5,7 +5,7 @@ title: "Torus"
 logline: "Torus provides one-click logins for DApps. Users are able to log onto DApps with their Google, Facebook, Reddit, Discord and Twitch accounts in a single step, there are no registration nor installations required, and is the same process for both first time and returning users."
 cta: "https://tor.us"
 logo: /img/torus.svg
-category: infra
+category: infra, wallet
 ---
 
 It’s no secret that the friction for new users to on-board into the blockchain ecosystem is notoriously high, and is arguably one of the biggest reasons for it’s slow adoption. A big driver for this friction is that key management is complicated, with users managing private keys and mnemonic phrases, especially when compared to existing Web 2.0 applications with Single-Sign-On (SSO) solutions via Facebook or Google enabled. The other driver for this friction has been performance and cost. An example most of us are familiar with is the use of cryptocurrencies as payments, where Bitcoin was accepted on the Steam platform at one point, but was eventually dropped due to its price volatility, high transaction fees during network congestion and slow settlement.

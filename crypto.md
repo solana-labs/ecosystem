@@ -5,7 +5,7 @@ title: "Crypto.com"
 logline: "Crypto.com has multiple SOL spot trading pairs, and allows users to purchase SOL through debit cards and bank transfers."
 cta: "https://crypto.com"
 logo: /img/crypto.svg
-category: wallet
+category: wallet, exchange
 ---
 
 On August 6th, 2020, Crypto.com did a surprise listing of SOL due to heavy demand from their community.
