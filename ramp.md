@@ -5,7 +5,7 @@ title: "Ramp"
 logline: "RAMP DEFI uses Solana to deliver staked liquidity and cross-chain yield farming for SOL token holders."
 cta: "https://medium.com/rampdefi/ramp-defi-empowering-sol-users-with-staked-liquidity-and-cross-chain-defi-farming-8861af6a6e62"
 logo: /img/ramp.svg
-category: defi
+category: DeFi
 ---
 
 RAMP DEFI is committed to releasing liquidity from mortgaged digital assets. Our solution enables SOL users to obtain additional liquidity without giving up their mortgage rewards or capital appreciation potential.

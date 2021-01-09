@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Atomic"
 logline: "Atomic is a non-custodial crypto wallet and payments gateway that supports SOL and SPL tokens."
 cta: "https://atomic.app/"
-category: wallet, spl
+category: wallet, SPL
 logo: /img/atomic.svg
 ---
 

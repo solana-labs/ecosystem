@@ -5,7 +5,7 @@ title: "Oxygen"
 logline: "Oxygen.org is a DeFi Prime Brokerage Protocol built for the future to support 100s of millions of people."
 cta: "https://www.oxygen.org/"
 logo: /img/oxygen.svg
-category: defi
+category: DeFi
 ---
 
 Oxygen.org is a DeFi Prime Brokerage Protocol built for the future to support 100s of millions of people. It can help you, as a holder of digital assets, generate liquidity, earn yield, borrow assets to go short, get trading leverage against portfolio of assets. It allows for a more efficient use of your assets in 3 key ways:
