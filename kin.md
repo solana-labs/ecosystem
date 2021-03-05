@@ -2,7 +2,7 @@
 slug: "kin"
 date: "2020-04-03"
 title: "Kin"
-logline: "Kin is moving their community of over 3 million users to the Solana network."
+logline: "Kin is a thriving community of apps, developers, content creators, and millions of active users that earn and spend Kin, while participating directly in the value generated from their contributions to the growth of the Kin Ecosystem."
 cta: "https://www.kin.org/"
 logo: /img/kin.svg
 category: app
