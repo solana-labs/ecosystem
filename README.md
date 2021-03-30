@@ -5,7 +5,7 @@ This repository is the data source for the Solana Ecosystem page, located at [so
 
 # Contributing Guidelines
 
-A project is composed of two files: a Markdown file with headers, and a .svg image. To add a new project to the ecosystem page, create both a new Markdown file in the `projects` directory and add a new .svg image in the `img` directory.
+A project is composed of two files: a Markdown file with headers, and an .svg image. To add a new project to the ecosystem page, create both a new Markdown file in the `projects` directory and add a new .svg image in the `img` directory.
 
 ### Markdown Headers
 ```
