@@ -31,7 +31,7 @@ jobs:
 
       - name: Add changes to solana-com
         run: |
-          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/solana-com/src/partners/
+          cp $GITHUB_WORKSPACE/ecosystem/projects/* $GITHUB_WORKSPACE/solana-com/src/partners/
           cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/solana-com/static/img/
 
       - name: Create PR in solana-com...
