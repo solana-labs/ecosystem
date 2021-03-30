@@ -13,7 +13,7 @@ jobs:
         env:
           REMOTE_BASE: ${{ 'timhagn' }}
           REMOTE_NAME: ${{ 'solana-th' }}
-          REMOTE_REPO: ${{ '$REMOTE_BASE/$REMOTE_NAME' }}
+          REMOTE_REPO: ${{ $REMOTE_BASE/$REMOTE_NAME }}
         run: |
           echo "Remote repo name: $REMOTE_REPO"
 
@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.SOLANA_PAT }}
-          repository: $REMOTE_REPO
+          repository: ${{ $REMOTE_REPO }}
 
       - name: Add changes to solana-com
         run: |
