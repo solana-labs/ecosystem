@@ -1,0 +1,33 @@
+name: Create a Pull Request in solana-com on PR merge
+on:
+  push:
+    branches:
+      - master
+jobs:
+  createPullRequest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Define repositories & paths
+        env:
+          REMOTE_NAME: ${{ 'solana-th' }}
+          REMOTE_REPO: ${{ 'timhagn/$REMOTE_NAME' }}
+
+      - name: Checkout ecosystem...
+        uses: actions/checkout@v2
+
+      - name: Checkout solana-com...
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.SOLANA_PAT }}
+          repository: $REMOTE_REPO
+
+      - name: Add changes to solana-com
+        run: |
+          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/$REMOTE_NAME/src/partners/
+          cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/$REMOTE_NAME/static/img/
+
+      - name: Create PR in solana-com...
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.SOLANA_PAT }}
+          path: $GITHUB_WORKSPACE/$REMOTE_NAME
