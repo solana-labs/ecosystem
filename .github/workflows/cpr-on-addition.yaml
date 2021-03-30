@@ -36,3 +36,4 @@ jobs:
         with:
           token: ${{ secrets.SOLANA_PAT }}
           path: $GITHUB_WORKSPACE/$REMOTE_NAME
+          repository: $REMOTE_REPO
