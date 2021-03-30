@@ -9,31 +9,36 @@ jobs:
   createPullRequest:
     runs-on: ubuntu-latest
     steps:
-      - name: Define repositories & paths
-        env:
-          REMOTE_BASE: ${{ 'timhagn' }}
-          REMOTE_NAME: ${{ 'solana-th' }}
-          REMOTE_REPO: ${{ $REMOTE_BASE/$REMOTE_NAME }}
-        run: |
-          echo "Remote repo name: $REMOTE_REPO"
-
       - name: Checkout ecosystem...
         uses: actions/checkout@v2
+        with:
+          path: ecosystem
+
+      - name: Set PR variables of ecosystem
+        id: vars
+        run: |
+          cd ecosystem
+          echo ::set-output name=pr_title::"$(git log --pretty=format:'%an' -1) wants to add: $(git log --pretty=format:'%s' -1)"
+          echo ::set-output name=pr_body::"This PR was auto-generated on $(date +%d-%m-%Y) \
+            by [create-pull-request](https://github.com/peter-evans/create-pull-request)."
 
       - name: Checkout solana-com...
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.SOLANA_PAT }}
-          repository: ${{ $REMOTE_REPO }}
+          repository: timhagn/solana-th
+          path: solana-th
 
       - name: Add changes to solana-com
         run: |
-          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/$REMOTE_NAME/src/partners/
-          cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/$REMOTE_NAME/static/img/
+          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/solana-th/src/partners/
+          cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/solana-th/static/img/
 
       - name: Create PR in solana-com...
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.SOLANA_PAT }}
-          path: $GITHUB_WORKSPACE/$REMOTE_NAME
-          repository: $REMOTE_REPO
+          base: master
+          path: solana-th
+          title: ${{ steps.vars.outputs.pr_title }}
+          body: ${{ steps.vars.outputs.pr_body }}
