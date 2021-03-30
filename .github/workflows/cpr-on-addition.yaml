@@ -1,16 +1,21 @@
 name: Create a Pull Request in solana-com on PR merge
+
 on:
   push:
     branches:
       - master
+
 jobs:
   createPullRequest:
     runs-on: ubuntu-latest
     steps:
       - name: Define repositories & paths
         env:
+          REMOTE_BASE: ${{ 'timhagn' }}
           REMOTE_NAME: ${{ 'solana-th' }}
-          REMOTE_REPO: ${{ 'timhagn/$REMOTE_NAME' }}
+          REMOTE_REPO: ${{ '$REMOTE_BASE/$REMOTE_NAME' }}
+        run: |
+          echo "Remote repo name: $REMOTE_REPO"
 
       - name: Checkout ecosystem...
         uses: actions/checkout@v2
