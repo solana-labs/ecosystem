@@ -26,19 +26,19 @@ jobs:
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.SOLANA_PAT }}
-          repository: timhagn/solana-th
-          path: solana-th
+          repository: solana-labs/solana-com
+          path: solana-com
 
       - name: Add changes to solana-com
         run: |
-          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/solana-th/src/partners/
-          cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/solana-th/static/img/
+          cp $GITHUB_WORKSPACE/ecosystem/partners/* $GITHUB_WORKSPACE/solana-com/src/partners/
+          cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/solana-com/static/img/
 
       - name: Create PR in solana-com...
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.SOLANA_PAT }}
           base: master
-          path: solana-th
+          path: solana-com
           title: ${{ steps.vars.outputs.pr_title }}
           body: ${{ steps.vars.outputs.pr_body }}
