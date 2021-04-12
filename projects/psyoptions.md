@@ -3,7 +3,7 @@ slug: psyoptions
 date: 2021-03-22
 title: PsyOptions
 logline: PsyOptions is a vanilla options protocol built to fill a gap in Solana’s DeFi ecosystem.
-cta: https://github.com/mithraiclabs/solana-options
+cta: https://psyoptions.io/
 logo: /img/psyoptions.svg
 category: DeFi
 ---
