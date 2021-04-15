@@ -5,7 +5,7 @@ title: Sollpay
 logline: Sollpay enables recurring Payments or subscriptions with the ability to periodically claim approved tokens by specified in plan amount and interval.
 cta: https://github.com/sollpay/sollpay-frontend
 logo: /img/sollpay.svg
-category: DeFi, tool
+category: DeFi, tools
 ---
 
 Sollpay enables recurring Payments or subscriptions with the ability to periodically claim approved tokens by specified in plan amount and interval.
