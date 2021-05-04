@@ -6,6 +6,7 @@ logline: "Aleph.im’s core mission is to help decentralized apps and protocols 
 cta: "https://aleph.im"
 logo: /img/aleph.svg
 category: tools
+status: Announced
 ---
 
 This integration will enable all solo devs and teams of builders to access aleph.im’s decentralized cloud services. Aleph.im enables any DApp built on Solana to fully decentralize its stack by providing a Python and Javascript Client Libraries to integrate its decentralized database (inc. file storage), computing and DID framework.

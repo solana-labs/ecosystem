@@ -6,6 +6,7 @@ logline: "Akash is integrating their serverless supercloud infrastructure into S
 cta: "https://akash.network"
 logo: /img/akash.svg
 category: infra
+status: building
 ---
 
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.

@@ -5,7 +5,8 @@ title: "Coin98"
 logline: "Coin98 is a non-custodial crypto wallet and payments gateway that supports SOL and SPL tokens."
 cta: "https://coin98.app/"
 logo: /img/coin98.svg
-category: wallet, SPL
+category: wallet, SPL, fund
+status: live
 ---
 
 Coin98 is a non-custodial crypto wallet that provides support for SOL and SPL tokens built on the Solana network. Coin98 also offers payments gateway features and crypto onramp capabilities.

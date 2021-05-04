@@ -5,7 +5,9 @@ title: "BRZ"
 logline: "The Brazilian Real (BRL) backed stablecoin is now supported on the Solana blockchain."
 cta: "https://www.brztoken.io"
 logo: /img/brz.svg
-category: stablecoin
+category: stablecoin, spl
+status: live
+address: "https://explorer.solana.com/address/FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
 ---
 
-The BRZ is an ERC-20 token built-up on top of the Ethereum blockchain designed to maintain a 1:1 peg to Brazilian Real. According to their website, price stability will be pursued by market agents based on the reserves held by the reserve managers and the issuance of new tokens with the underlying reserves will be audited by a reputable third-party firm.
+The BRZ stablecoin with a 1:1 peg to Brazilian Real. BRZ operates as a native asset on Solana.
