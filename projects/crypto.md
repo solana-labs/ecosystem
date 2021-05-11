@@ -6,9 +6,10 @@ logline: "Crypto.com has multiple SOL spot trading pairs, and allows users to pu
 cta: "https://crypto.com"
 logo: /img/crypto.svg
 category: wallet, exchange
+status: live
 ---
 
-On August 6th, 2020, Crypto.com did a surprise listing of SOL due to heavy demand from their community.
+On August 6th, 2020, Crypto.com listed SOL.
 
 With SOL added to the Crypto.com App, users can now purchase it at true cost with no fees - credit card and bank transfer both supported.
 

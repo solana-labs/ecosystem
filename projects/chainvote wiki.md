@@ -6,6 +6,7 @@ logline: Chainvote is a DeFi voting app for corporate governance.
 cta: https://github.com/bchainify/chainvote-solana/wiki
 logo: /img/chainvote.svg
 category: explorer, DeFi
+status: building
 ---
 
 Chainvote's goal is to build an environment of trust, transparency, and accountability on Solana’s fast, secure, and censorship-resistant blockchain platform.

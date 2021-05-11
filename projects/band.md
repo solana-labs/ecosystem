@@ -6,6 +6,7 @@ logline: "Band Protocol is a cross-chain data oracle platform that aggregates an
 cta: "https://bandprotocol.com"
 logo: /img/band.svg
 category: oracle
+status: Announced
 ---
 
-Band Protocol is a cross-chain data oracle platform that provides real-world data and APIs to Solana smart contracts.
+Band Protocol is a cross-chain data oracle platform that will provide real-world data and APIs to Solana smart contracts.
