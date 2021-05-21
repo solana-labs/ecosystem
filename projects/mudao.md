@@ -1,11 +1,11 @@
 ---
-slug: mudao
+slug: muon
 date: 2021-03-22
-title: MuDao
-logline: MuDAO is a DeFi platform that addresses many of the scaling and cost barriers that are becoming unsustainable in other networks through a community-governed index fund representing diversified exposure to variety of assets in one convenient location.
-cta: https://github.com/mu-labs
-logo: /img/mudao.svg
+title: Muon
+logline: A peer-to-peer fund marketplace that facilitates the creation and management of Index Funds (ETFs).
+cta: www.projectmuon.com
+logo: /img/muon.svg
 category: DeFi, explorer
 ---
 
-MuDAO is a DeFi platform that addresses many of the scaling and cost barriers that are becoming unsustainable in other networks through a community-governed index fund representing diversified exposure to variety of assets in one convenient location.
+Each fund is composed of Muon developed indexes that can track a wide range of investment strategies and each fund is modular, meaning they can be a component of another fund (fund of funds), which we affectionately call DeFi lego. By leveraging the Solana & Serum ecosystems, Muon delivers a fast, streamlined and cost-efficient platform for on-chain asset management.
