@@ -6,7 +6,7 @@ logline: "Arweave and Solana partnered to provide a decentralised permanent data
 cta: "https://www.arweave.org/"
 logo: /img/arweave.svg
 category: Infra
-status: Announced
+status: building 
 ---
 
 Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever – for the very first time.
