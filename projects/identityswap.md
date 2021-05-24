@@ -6,6 +6,7 @@ logline: "IdentitySwap is an Automatic Money Market dApp that demonstrates decen
 cta: "https://github.com/civicteam/identity-swap"
 logo: /img/identityswap.svg
 category: AMM
+status: closed
 ---
 
 IdentitySwap is an Automatic Money Market (AMM) dApp that demonstrates the concept of decentralized identity on the Solana SPL Token-Swap program. The program connects with Civic’s identity verification system.

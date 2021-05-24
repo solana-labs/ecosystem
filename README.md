@@ -19,6 +19,7 @@ logline: "Anchor is a savings protocol that aims to produce a simple and conveni
 cta: "https://anchorprotocol.com/"
 logo: /img/anchor.svg
 category: defi, tools
+status: building
 ---
 ```
 
@@ -31,6 +32,7 @@ Example Markdown headers are above. Below are guidelines for each field:
 - `cta`: A URL to direct users to at the bottom of the page
 - `logo`: A relative path to the corresponding SVG image
 - `category`: A comma separated list of categories describing the project
+- `status`: The status of the project: `live`, `building`, or `closed`
 
 ### Categories
 

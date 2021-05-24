@@ -6,7 +6,7 @@ logline: "Atomic is a non-custodial crypto wallet and payments gateway that supp
 cta: "https://atomicwallet.io"
 category: wallet, SPL, exchange
 logo: /img/atomic.svg
-status: announced
+status: building
 ---
 
 Atomic is a non-custodial crypto wallet that provides support for SOL and SPL tokens built on the Solana network. Atomic also offers payments gateway features and crypto onramp capabilities.

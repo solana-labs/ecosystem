@@ -5,6 +5,7 @@ title: "SenSwap"
 logline: "SenSwap is the first AMM built on Serum and Solana."
 logo: /img/senswap.svg
 category: AMM
+status: closed
 ---
 
 SenSwap is the first AMM built on Serum and Solana. More updates coming soon.

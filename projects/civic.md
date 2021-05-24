@@ -6,7 +6,7 @@ logline: "Civic has partnered with Solana to integrate their decentralised ident
 cta: "https://www.civic.com/"
 logo: /img/civic.svg
 category: app, governance
-status: announced
+status: building
 ---
 
 Civic is a decentralized identity ecosystem, enabling identity verification in a safe and cost-effective way. Using the digital identification platform, the user can create his / her own virtual identity and store it together with personal information on the device.
