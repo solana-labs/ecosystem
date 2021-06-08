@@ -5,7 +5,7 @@ title: "apeXit"
 logline: "apeXit is a on-chain risk management tool for Solana."
 cta: "https://apexit.finance/"
 logo: /img/apexit.svg
-category: tool 
+category: tool
 ---
 
 apeXit is a Solana on-chain risk management tool that enables the end-user to instantly close spot holdings over the Solana ecosystem in a tap.

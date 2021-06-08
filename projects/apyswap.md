@@ -5,7 +5,7 @@ title: "Apyswap"
 logline: "APYSwap is a protocol for the decentralised exchange of shares of Tokenized Vaults."
 cta: "https://apyswap.com/"
 logo: /img/apyswap.svg
-category: defi 
+category: defi
 ---
 
 APYSwap is a protocol for the decentralised exchange of shares of Tokenized Vaults. It achieves this through the creation of a Layer 2 blockchain where users can trustlessly swap accounts & assets from multiple Layer 1 blockchains including Ethereum, Polkadot and Binance Smart Chain.

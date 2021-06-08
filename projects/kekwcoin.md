@@ -11,10 +11,10 @@ status: Building
 
 KEKW will be a space that will allow creators to engage, empower each other, collaborate and fulfill their initiatives the way they want. This space is meant to bring opportunities to up and coming creators, giving them a window to expose their talent, a voice to be heard and, as a community driven ecosystem, the opportunity to be valued and rewarded for their contributions.
 
-Voting, organizing different collectives, participating in the space activities and funding new collaborations and projects will be some of the opportunities KEKW community members will gain. 
+Voting, organizing different collectives, participating in the space activities and funding new collaborations and projects will be some of the opportunities KEKW community members will gain.
 
 This will be of benefit to both the member who invested in the creator’s project and the creator himself, as the member helps enable the creator and provides growth, in turn capitalizing on their investment as the creator’s project
-gets more exposure. 
+gets more exposure.
 
 $KEKW coin will serve as a direct mechanism to provide economic support to creators and community members alike, by assigning them a direct monetary allocation to be paid in $KEKW. It
 will also help them exchange services and digital content, to be traded directly on our platforms. This

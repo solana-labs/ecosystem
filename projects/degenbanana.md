@@ -5,8 +5,7 @@ title: "degenbanana"
 logline: "degenbanana is leveraged memeing on the Solana blockchain."
 cta: "https://twitter.com/degenbanana"
 logo: /img/degenbanana.svg
-category: defi 
+category: defi
 ---
-
 
 degenbanana is building a protocol to facilitate leveraged yield farming within the Solana ecosystem, and later, in a chain agnostic way.
