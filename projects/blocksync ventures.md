@@ -9,4 +9,4 @@ logo: /img/blocksyncventures.svg
 status:
 ---
 
-We have been investing and working closely with a number of Solana projects and have a separate Solana fund set up to invest purely in Solana ecosystem.
+Blockstream Ventures has been investing and working closely with a number of Solana projects and have a separate Solana fund set up to invest purely in Solana ecosystem.
