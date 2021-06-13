@@ -6,6 +6,7 @@ logline: "SolFarm is an efficient Solana yield aggregator."
 cta: "https://solfarm.io/"
 category: amm
 logo: /img/solfarm.svg
+status: live
 ---
 
 SolFarm is the first yield aggregation platform built on Solana with auto-compounding vault strategies.
