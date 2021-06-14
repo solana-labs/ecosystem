@@ -9,4 +9,4 @@ logo: /img/sonar.svg
 status:
 ---
 
-Sonar scans the Solana blockchain and displays your portfolio statistics from the Serum/Orca/Raydium pools and Raydium farms .
+Sonar scans the Solana blockchain and displays portfolio statistics from the Serum/Orca/Raydium pools and Raydium farms.

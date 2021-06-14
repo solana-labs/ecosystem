@@ -2,11 +2,11 @@
 slug: nozomi
 name: Nozomi
 date: 2021-05-28
-logline: Solana's first indexing engine.
+logline: Nozomi is Solana's first indexing engine.
 cta: https://twitter.com/nozomihq
-category:
+category: oracle
 logo: /img/nozomi.svg
-status:
+status: building
 ---
 
-We index the entire blockchain.
+Nozomi's goal is to index the entire blockchain.

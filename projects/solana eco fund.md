@@ -1,12 +1,12 @@
 ---
-slug: solanaecofund
-name: Solana Eco Fund
+slug: solarecofund
+name: Solar Eco Fund
 date: 2021-05-28
-logline: An ecosystem fund dedicated exclusively to Solana and its projects.
-cta: https://twitter.com/SolanaEcoFund
+logline: Solar Eco Fund is an ecosystem fund dedicated exclusively to Solana and its projects.
+cta: https://twitter.com/SolarEcoFund
 category:
-logo: /img/solanaecofund.svg
-status:
+logo: /img/solarecofund.svg
+status: live
 ---
 
-We only invest in $SOL and Solana tokens and companies.
+Solar Eco Fund only invests in $SOL, Solana tokens, and companies.

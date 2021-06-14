@@ -2,7 +2,7 @@
 slug: "zeta"
 date: "2021-05-13"
 title: "Zeta"
-logline: "Zeta is the premier under-collateralized DeFi options platform built on Solana."
+logline: "Zeta is a under-collateralized DeFi options platform built on Solana."
 cta: "https://twitter.com/ZetaMarkets"
 logo: /img/zeta.svg
 category: defi

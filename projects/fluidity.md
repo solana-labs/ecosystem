@@ -2,7 +2,7 @@
 slug: fluidity
 name: Fluidity
 date: 2021-05-28
-logline: Fluidity Superpowers Cryptocurrencies To Reward You When You Use Them.
+logline: Fluidity rewards users when you interact with cryptocurrencies.
 cta: https://twitter.com/fluiditymoney
 category: stablecoin, defi
 logo: /img/fluidity.svg
