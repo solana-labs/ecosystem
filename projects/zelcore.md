@@ -5,7 +5,7 @@ title: "Zelcore"
 logline: "Zelcore is non-custodial platform for managing all your crypto including Solana, SPL Tokens, interacting with dApps and provides built in Serum DEX."
 cta: "https://zelcore.io"
 logo: /img/zelcore.svg
-category: wallet, SPL, DeFi, dex
+category: wallet, spl, defi, dex
 status: live
 ---
 
