@@ -6,7 +6,7 @@ logline: Kermit is built on Serum to provide the users and artists with the best
 cta: https://twitter.com/kermitfinance
 category: defi, dex, exchange, spl
 logo: /img/kermitfinance.svg
-status: Live
+status: live
 ---
 
 Kermit Finance is built on the Serum infrastructure on Solana.
