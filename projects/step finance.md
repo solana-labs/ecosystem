@@ -1,8 +1,8 @@
 ---
-slug: step finance
-date: 2021-03-22
-title: Step Finance
-logline: STEP.finance is an automated trading strategies platform.
+slug: "stepfinance"
+date: "2021-03-22"
+title: "Step Finance"
+logline: "STEP.finance is an automated trading strategies platform."
 cta: https://step.finance/
 logo: /img/step.svg
 category: DeFi

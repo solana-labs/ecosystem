@@ -1,8 +1,8 @@
 ---
-slug: mango
-date: 2021-03-22
-title: Mango
-logline: Mango is a decentralized, cross-margin trading platform with up to 5x leverage and integrated limit orders on Serum DEX’s on-chain order book.
+slug: "mango"
+date: "2021-03-22"
+title: "Mango"
+logline: "Mango is a decentralized, cross-margin trading platform with up to 5x leverage and integrated limit orders on Serum DEX’s on-chain order book."
 cta: https://mango.markets/
 logo: /img/mango.svg
 category: DeFi

@@ -1,8 +1,8 @@
 ---
-slug: muon
-date: 2021-03-22
-title: Muon
-logline: A peer-to-peer fund marketplace that facilitates the creation and management of Index Funds (ETFs).
+slug: "muon"
+date: "2021-03-22"
+title: "Muon"
+logline: "A peer-to-peer fund marketplace that facilitates the creation and management of Index Funds (ETFs)."
 cta: www.projectmuon.com
 logo: /img/muon.svg
 category: DeFi, explorer

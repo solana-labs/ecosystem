@@ -1,8 +1,8 @@
 ---
-slug: valholla
-date: 2021-03-22
-title: Valholla
-logline: Val-hölla is a DeFi kickstarter and investment platform.
+slug: "valholla"
+date: "2021-03-22"
+title: "Valholla"
+logline: "Val-hölla is a DeFi kickstarter and investment platform."
 cta: https://github.com/JohnRSim/valholla/
 logo: /img/valholla.svg
 category: DeFi

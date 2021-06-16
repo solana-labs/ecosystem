@@ -1,8 +1,8 @@
 ---
-slug: solafarmfinance
-name: SolaFarm Finance
-date: 2021-05-28
-logline: Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana.
+slug: "solafarmfinance"
+name: "SolaFarm Finance"
+date: "2021-05-28"
+logline: "Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana."
 cta: https://twitter.com/solafarm‌
 category: defi
 logo: /img/solafarmfinance.svg

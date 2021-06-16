@@ -1,8 +1,8 @@
 ---
-slug: dtfs
-date: 2021-03-22
-title: DTFs Protocol
-logline: DTFs Protocol is an Solana-and-Serum-based system that enables users to implement an asset management strategy which others can invest.
+slug: "dtfs"
+date: "2021-03-22"
+title: "DTFs Protocol"
+logline: "DTFs Protocol is an Solana-and-Serum-based system that enables users to implement an asset management strategy which others can invest."
 cta: https://p2p-org.github.io/Non-custodial-DEX-Traded-Funds/
 logo: /img/dtfs.svg
 category: DeFi

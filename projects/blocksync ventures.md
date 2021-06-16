@@ -1,8 +1,8 @@
 ---
-slug: blocksyncventures
-name: Blocksync Ventures
-date: 2021-05-28
-logline: Blocksync Ventures is an investment firm focused on early-stage blockchain startups.
+slug: "blocksyncventures"
+name: "Blocksync Ventures"
+date: "2021-05-28"
+logline: "Blocksync Ventures is an investment firm focused on early-stage blockchain startups."
 cta: https://twitter.com/Blocksync_VC
 category: fund
 logo: /img/blocksyncventures.svg

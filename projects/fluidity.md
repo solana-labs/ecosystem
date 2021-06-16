@@ -1,8 +1,8 @@
 ---
-slug: fluidity
-name: Fluidity
-date: 2021-05-28
-logline: Fluidity rewards users when you interact with cryptocurrencies.
+slug: "fluidity"
+name: "Fluidity"
+date: "2021-05-28"
+logline: "Fluidity rewards users when they interact with cryptocurrencies."
 cta: https://twitter.com/fluiditymoney
 category: stablecoin, defi
 logo: /img/fluidity.svg

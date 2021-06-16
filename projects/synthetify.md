@@ -1,8 +1,8 @@
 ---
-slug: synthetify
-date: 2021-03-22
-title: Synthetify
-logline: Synthetify is a decentralized protocol allowing for creation and exchange of synthetic assets without the need of a counterparty.
+slug: "synthetify"
+date: "2021-03-22"
+title: "Synthetify"
+logline: "Synthetify is a decentralized protocol allowing for creation and exchange of synthetic assets without the need of a counterparty."
 cta: https://github.com/Synthetify
 logo: /img/synthetify.svg
 category: DeFi

@@ -1,8 +1,8 @@
 ---
-slug: solsports
-name: SolSports
-date: 2021-05-28
-logline: Solsports is a decentralized application for sports betting, organized E-sports, and NFTs built on Solana.
+slug: "solsports"
+name: "SolSports"
+date: "2021-05-28"
+logline: "Solsports is a decentralized application for sports betting, organized E-sports, and NFTs built on Solana."
 cta: https://twitter.com/solsports_io
 category: app
 logo: /img/solsports.svg

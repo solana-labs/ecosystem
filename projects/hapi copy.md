@@ -1,8 +1,8 @@
 ---
-slug: bocachica
-date: 2021-05-19
-title: Boca Chica
-logline: Boca Chica is a collaboration between the HAPI team and Solana to create one of the main IDO platforms on the Solana blockchain.
+slug: "bocachica"
+date: "2021-05-19"
+title: "Boca Chica"
+logline: "Boca Chica is a collaboration between the HAPI team and Solana to create one of the main IDO platforms on the Solana blockchain."
 cta: https://www.bocachica.io/
 logo: /img/boca.svg
 category: web3

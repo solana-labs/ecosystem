@@ -1,8 +1,8 @@
 ---
-slug: dagg
-name: DAGG
-date: 2021-05-28
-logline: DAGG Is A Crosschain Dex Aggregator, First on  Solana
+slug: "dagg"
+name: "DAGG"
+date: "2021-05-28"
+logline: "DAGG is a cross-chain DEX aggregator built on Solana."
 cta: https://twitter.com/daggtrade
 category: defi
 logo: /img/dagg.svg

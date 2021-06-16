@@ -1,8 +1,8 @@
 ---
-slug: cryptoplease
-date: 2021-03-22
-title: Cryptoplease
-logline: CryptoPlease is a solution that puts the power of non-custodial P2P crypto spending and DeFi into the hands of everyone, through one smartphone app.
+slug: "cryptoplease"
+date: "2021-03-22"
+title: "Cryptoplease"
+logline: "CryptoPlease is a solution that puts the power of non-custodial P2P crypto spending and DeFi into the hands of everyone, through one smartphone app."
 cta: https://github.com/cryptoplease/protocol
 logo: /img/cryptoplease.svg
 category: DeFi

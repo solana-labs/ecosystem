@@ -1,8 +1,8 @@
 ---
-slug: lumosexchange
-name: Lumos Exchange
-date: 2021-05-28
-logline: Developing the first ever non-custodial, peer-to-peer exchange for Solana.
+slug: "lumosexchange"
+name: "Lumos Exchange"
+date: "2021-05-28"
+logline: "Lumos is developing the first non-custodial, peer-to-peer exchange for Solana."
 cta: https://twitter.com/LumosExchange
 category: dex
 logo: /img/lumosexchange.svg

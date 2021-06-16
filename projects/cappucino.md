@@ -1,8 +1,8 @@
 ---
-slug: cappuccino
-date: 2021-03-22
-title: Cappuccino
-logline: The Cappuccino Stablecoin is pegged to the price of a NY cappuccino.
+slug: "cappuccino"
+date: "2021-03-22"
+title: "Cappuccino"
+logline: "The Cappuccino Stablecoin is pegged to the price of a NY cappuccino."
 cta: https://github.com/johnnieskywalker/cappuccino-coffeehouse
 logo: /img/cappuccino.svg
 category: explorer, DeFi
