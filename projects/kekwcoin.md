@@ -1,6 +1,6 @@
 ---
 slug: "kekwcoin"
-name: "Kekwcoin"
+title: "Kekwcoin"
 date: "2021-05-28"
 logline: "Kekwcoin is a creative community platform for content creators to monetize their artwork and get financial support from investors."
 cta: https://twitter.com/kekwcoin

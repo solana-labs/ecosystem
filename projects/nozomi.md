@@ -1,6 +1,6 @@
 ---
 slug: "nozomi"
-name: "Nozomi"
+title: "Nozomi"
 date: "2021-05-28"
 logline: "Nozomi is Solana's first indexing engine."
 cta: https://twitter.com/nozomihq

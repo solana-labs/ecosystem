@@ -1,6 +1,6 @@
 ---
 slug: "solanadon"
-name: "Solanadon"
+title: "Solanadon"
 date: "2021-05-28"
 logline: "Solanadon is building a community to help the endangered prehistoric mammal, solenodons!"
 cta: https://twitter.com/SolanadonCoin

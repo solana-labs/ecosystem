@@ -1,6 +1,6 @@
 ---
 slug: "fluidity"
-name: "Fluidity"
+title: "Fluidity"
 date: "2021-05-28"
 logline: "Fluidity rewards users when they interact with cryptocurrencies."
 cta: https://twitter.com/fluiditymoney

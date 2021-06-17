@@ -1,6 +1,6 @@
 ---
 slug: "jpycoin"
-name: "JPY Coin"
+title: "JPY Coin"
 date: "2021-05-28"
 logline: "JPY Coin is a 1:1 JPY-pegged stable coin built on Solana."
 cta: https://twitter.com/jpy_coin

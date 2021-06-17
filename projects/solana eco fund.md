@@ -1,6 +1,6 @@
 ---
 slug: "solarecofund"
-name: "Solar Eco Fund"
+title: "Solar Eco Fund"
 date: "2021-05-28"
 logline: "Solar Eco Fund is an ecosystem fund dedicated exclusively to Solana and its projects."
 cta: https://twitter.com/SolarEcoFund

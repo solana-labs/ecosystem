@@ -1,6 +1,6 @@
 ---
 slug: "switchboard"
-name: "Switchboard"
+title: "Switchboard"
 date: "2021-05-28"
 logline: "Switchboard is a community curated oracle network on Solana."
 cta: https://twitter.com/switchboardxyz

@@ -1,6 +1,6 @@
 ---
 slug: "blocksyncventures"
-name: "Blocksync Ventures"
+title: "Blocksync Ventures"
 date: "2021-05-28"
 logline: "Blocksync Ventures is an investment firm focused on early-stage blockchain startups."
 cta: https://twitter.com/Blocksync_VC

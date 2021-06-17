@@ -1,6 +1,6 @@
 ---
 slug: "sonar"
-name: "Sonar"
+title: "Sonar"
 date: "2021-05-28"
 logline: "Sonar is a dashboard to track Yield Farming and Liquidity Pool performance on Solana blockchain."
 cta: https://twitter.com/Sonarwatch

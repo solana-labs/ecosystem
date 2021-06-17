@@ -1,6 +1,6 @@
 ---
 slug: "lumosexchange"
-name: "Lumos Exchange"
+title: "Lumos Exchange"
 date: "2021-05-28"
 logline: "Lumos is developing the first non-custodial, peer-to-peer exchange for Solana."
 cta: https://twitter.com/LumosExchange
