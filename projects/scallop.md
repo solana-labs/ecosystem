@@ -5,7 +5,7 @@ title: "Scallop"
 logline: "Scallop is a scallop growing game on Solana with a user-funded pooled treasury!"
 cta: "https://www.scallop.io/"
 logo: /img/scallop.svg
-category: defi,app 
+category: defi, app 
 status: building
 ---
 
