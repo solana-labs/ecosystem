@@ -9,4 +9,4 @@ logo: /img/fabric.svg
 status: Building
 ---
 
-FABRIC is built on the Solana Ecosystem and leverages the Serum DEX GUI to allow users to trade FAB.
+FABRIC is built on the Solana Ecosystem that leverages the Serum DEX GUI to allow users to trade FAB.

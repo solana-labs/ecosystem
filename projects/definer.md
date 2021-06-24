@@ -9,4 +9,4 @@ logo: /img/definer.svg
 status: Building
 ---
 
-build on top of Solana, DeFiner will enable a scalable defi lending market on Solana, which allows the community members to stake, borrow and lend for any tokens.
+Built on top of Solana, DeFiner will enable a scalable defi lending market on Solana, which allows the community members to stake, borrow and lend for any tokens.

@@ -9,6 +9,6 @@ logo: /img/streamflowfinance.svg
 status: Live
 ---
 
-StreamFlow Finance is built on Solana. Solana program serves as a time-lock escrow service.
-Funds and metadata are stored in PDA created for each payment stream separately. 
+StreamFlow Finance is built on Solana. Their Solana program serves as a time-lock escrow service.
+Funds and metadata are stored in PDA created for each payment stream separately.
 Our platform is trustless, verifiable, decentralized and (thanks to the Solana's low fees and fast transactions) practically real-time.

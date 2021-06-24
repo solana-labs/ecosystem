@@ -9,7 +9,7 @@ logo: /img/lunayield.svg
 status: Live
 ---
 
-Our platform focus on two primary objects:
+LunaYield's platform focuses on two primary objects:
 
 1. To deliver an easy and smooth Yield Farming experience, auto-compounding yield at empirical optimal intervals, whilst saving gas cost and time, hence, bring a notable increase in terms of profit compared to other yield-farming platforms on Solana Chain.
 

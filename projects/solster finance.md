@@ -2,7 +2,7 @@
 slug: "solsterfinance"
 name: "Solster Finance"
 date: 2021-06-22
-logline: "IDO Launchpad and DeFi Solutions on Solana"
+logline: "Solster Finance is an IDO Launchpad built on Solana."
 cta: "https://twitter.com/solster_finance"
 category: amm, defi, dex, spl, exchange
 logo: /img/solsterfinance.svg

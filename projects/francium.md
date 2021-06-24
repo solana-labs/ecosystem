@@ -9,4 +9,4 @@ logo: /img/francium.svg
 status: Building
 ---
 
-Francium is a DeFi protocol built on Solana. A rust based project.
+Francium is a DeFi protocol built on Solana.
