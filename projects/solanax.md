@@ -1,6 +1,6 @@
 ---
 slug: "solanax"
-name: "Solanax"
+title: "Solanax"
 date: 2021-06-22
 logline: "SOLANAX is a decentralized and non-custodial automated liquidity mechanism supporting trades within the Solana ecosystem."
 cta: "https://twitter.com/Solanaxorg"

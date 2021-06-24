@@ -1,6 +1,6 @@
 ---
 slug: "liqprotocol"
-name: "LIQ Protocol"
+title: "LIQ Protocol"
 date: 2021-06-22
 logline: "A decentralized liquidation engine built for Serum DEX margin markets on the Solana network."
 cta: "https://twitter.com/liqprotocol"

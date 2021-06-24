@@ -1,6 +1,6 @@
 ---
 slug: "solyardfinance"
-name: "Solyard Finance"
+title: "Solyard Finance"
 date: 2021-06-22
 logline: "Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana."
 cta: "https://twitter.com/SolyardFinance"

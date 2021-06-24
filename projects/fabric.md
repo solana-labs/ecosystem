@@ -1,6 +1,6 @@
 ---
 slug: "fabric"
-name: "FABRIC"
+title: "FABRIC"
 date: 2021-06-22
 logline: "FABRIC is a synthetic asset issuance protocol that will allow users to gain exposure to a variety of asset classes otherwise unavailable on the Solana network."
 cta: "https://twitter.com/official_fabric"

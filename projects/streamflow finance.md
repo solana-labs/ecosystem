@@ -1,6 +1,6 @@
 ---
 slug: "streamflowfinance"
-name: "StreamFlow Finance"
+title: "StreamFlow Finance"
 date: 2021-06-22
 logline: "StreamFlow Finance is a platform for streaming payments."
 cta: "https://twitter.com/streamflow_fi"

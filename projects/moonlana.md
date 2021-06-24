@@ -1,6 +1,6 @@
 ---
 slug: "moonlana"
-name: "Moonlana"
+title: "Moonlana"
 date: 2021-06-22
 logline: "Solana Tipbot, NFTs, a DEX and Memes."
 cta: "https://twitter.com/xmoonlana"

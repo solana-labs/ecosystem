@@ -1,6 +1,6 @@
 ---
 slug: "zerointerestprotocol"
-name: "Zero Interest Protocol"
+title: "Zero Interest Protocol"
 date: 2021-06-22
 logline: "Zero Interest is a decentralized borrowing protocol with interest-free loans, high capital efficiency, and censorship-resistant stablecoins on Solana."
 cta: "https://twitter.com/zerointerestfi"

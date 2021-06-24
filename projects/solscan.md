@@ -1,6 +1,6 @@
 ---
 slug: "solscan.io"
-name: "Solscan.io"
+title: "Solscan.io"
 date: 2021-06-22
 logline: "Solscan is a user-friendly and real-time update Scanning Tool for the Solana Ecosystem."
 cta: "https://twitter.com/solscanofficial"

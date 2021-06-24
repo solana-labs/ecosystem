@@ -1,6 +1,6 @@
 ---
 slug: "solsterfinance"
-name: "Solster Finance"
+title: "Solster Finance"
 date: 2021-06-22
 logline: "Solster Finance is an IDO Launchpad built on Solana."
 cta: "https://twitter.com/solster_finance"

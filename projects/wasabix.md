@@ -1,6 +1,6 @@
 ---
 slug: "wasabix"
-name: "WasabiX"
+title: "WasabiX"
 date: 2021-06-22
 logline: "WasabiX's mission is to unlock the capital efficiency of yield bearing tokens that are not being used. (xSushi, veCRV, yDAI, etc)"
 cta: "https://twitter.com/WasabixFinance"

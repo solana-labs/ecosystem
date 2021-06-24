@@ -1,6 +1,6 @@
 ---
 slug: "snowshoe"
-name: "Snowshoe"
+title: "Snowshoe"
 date: 2021-06-22
 logline: "Snowshoe is a community meme token built on Solana."
 cta: "https://twitter.com/snowshoesolana"

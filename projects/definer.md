@@ -1,6 +1,6 @@
 ---
 slug: "definer"
-name: "DeFiner"
+title: "DeFiner"
 date: 2021-06-22
 logline: "DeFiner is a permission-less and configurable decentralized lending protocol with privacy 100% protected."
 cta: "https://twitter.com/DeFinerOrg"

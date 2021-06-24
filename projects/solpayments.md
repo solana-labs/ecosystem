@@ -1,6 +1,6 @@
 ---
 slug: "solpayments"
-name: "SolPayments"
+title: "SolPayments"
 date: 2021-06-22
 logline: "SolPayments is a payment processing platform for cryptocurrencies which allows individuals and businesses of all sizes to accept payments online"
 cta: "https://twitter.com/SolPayments"

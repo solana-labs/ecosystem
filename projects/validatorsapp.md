@@ -2,7 +2,7 @@
 slug: "validatorsapp"
 date: "2020-04-03"
 title: "Validators.app"
-logline: "Validators.app is a dashboard that shows each Solana validator by name and includes recent statistics for each."
+logline: "Validators.app is a dashboard that shows each Solana validator by title and includes recent statistics for each."
 cta: "https://validators.app"
 logo: /img/validatorsapp.svg
 category: explorer

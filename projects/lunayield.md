@@ -1,6 +1,6 @@
 ---
 slug: "lunayield"
-name: "LunaYield"
+title: "LunaYield"
 date: 2021-06-22
 logline: "Cross-chain Yield Aggregator, DEX, Launchpad and Bridging tools"
 cta: "https://twitter.com/Luna_Yield"

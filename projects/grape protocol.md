@@ -1,6 +1,6 @@
 ---
 slug: "grapeprotocol"
-name: "Grape Protocol"
+title: "Grape Protocol"
 date: 2021-06-22
 logline: "GRAPE is a protocol for building token-based membership communities on the Solana blockchain."
 cta: "https://twitter.com/solanagrape"

@@ -1,6 +1,6 @@
 ---
 slug: "graphlinqprotocol"
-name: "GraphLinq Protocol"
+title: "GraphLinq Protocol"
 date: 2021-06-22
 logline: "automate actions on-chain & off-chain without having to code. learn: http://docs.graphlinq.io | build: http://ide.graphlinq.io | instant deploy: http://app.graphlinq.io"
 cta: "https://twitter.com/graphlinq_proto"

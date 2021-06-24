@@ -1,6 +1,6 @@
 ---
 slug: "twirlfinance"
-name: "Twirl Finance"
+title: "Twirl Finance"
 date: 2021-06-22
 logline: "Twirl Finance is an open source protocol that aims to find endless capabilities of liquidity provision, that enables multiple streams of yield on Solana."
 cta: "https://twitter.com/twirlfinance"
