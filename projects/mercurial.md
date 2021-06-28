@@ -2,7 +2,7 @@
 slug: "mercurial"
 date: "2020-06-28"
 title: "Mercurial Finance"
-logline: "Mercurial is the best place to swap stables and has launched Solana's first 3 pool."
+logline: "Mercurial is Solana's first multi-token stable swap and the best place to swap stables with the lowest slippage"
 cta: "https://mercurial.finance"
 logo: /img/mercurial.svg
 category: DeFi, AMM
