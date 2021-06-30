@@ -51,6 +51,7 @@ spl
 stablecoin
 tools
 wallet
+metaplex
 ```
 
 ### Image Guidelines
