@@ -11,9 +11,7 @@ status: Building
 
 Why Kurobi
 - No easy way exists to schedule and host calls in one place, several apps are mashed up to set this up.
-
 - Not all countries are supported by payment gateways for collecting payments. 
-
 - Crypto is yet to go mainstream, it's mainly used by hobbyist or crypto natives.
 
 Kurobi is a seamless tool that allows experts to host 1:1 video calls with guest around the world and collect payments in crypto powered by the Solana blockchain in order to:
