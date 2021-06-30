@@ -6,6 +6,7 @@ logline: "Mercurial is Solana's first multi-token stable swap and the best place
 cta: "https://mercurial.finance"
 logo: /img/mercurial.svg
 category: DeFi, AMM
+status: live
 ---
 
 Mercurial is building the infrastructure for stable and pegged assets for Solana.
