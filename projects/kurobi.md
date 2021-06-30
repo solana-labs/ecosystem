@@ -21,5 +21,5 @@ Kurobi is a seamless tool that allows experts to host 1:1 video calls with guest
 - Earn Crypto when booking
 
 Kurobi supports payments with USDT, USDC, SOL and KURO. $KURO is our native token which is used to 
-- Drive crypto adoption using cashback incentives from commission derived from payments 
+- Drive mainstream crypto adoption using cashback incentives from commission derived from payments 
 - Support experts via tipping
