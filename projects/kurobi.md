@@ -4,7 +4,7 @@ date: "2021-06-30"
 title: "Kurobi"
 logline: "A seamless tool for experts to host video calls with guests worldwide"
 cta: "https://kurobi.io/"
-logo: /img/kuobi.svg
+logo: /img/kurobi.svg
 category: web3, app
 status: Building
 ---

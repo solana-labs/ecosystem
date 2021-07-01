@@ -2,7 +2,7 @@
 slug: "sendit"
 date: "2020-06-28"
 title: "SendIt Finance"
-logline: "SendIt provides a cross-device, mobile-first portfolio management solution for Solana.
+logline: "SendIt provides a cross-device, mobile-first portfolio management solution for Solana."
 cta: "https://sendit.finance/"
 logo: /img/sendit.svg
 category: defi, wallet, explorer, app
