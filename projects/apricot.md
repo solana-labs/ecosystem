@@ -12,4 +12,3 @@ status: live
 Apricot is a lending protocol that provides borrowers with lowest collateral requirement, assisted self-liquidation, and minimal liquidation penalties. Along with a 2-hour liquidation guarantee mechanism, Apricot safeguards the interest of all stakeholders.
 
 To help users efficiently use their borrowed funds, Apricot also provides a suite of ancillary services. Currently margin trading with up to 9x leverage is supported, and more features are in the pipeline.
-

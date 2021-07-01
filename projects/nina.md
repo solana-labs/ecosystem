@@ -8,6 +8,7 @@ logo: /img/nina.svg
 category: app
 status: building
 ---
+
 Utilizing innovations of web3, Nina provides the infrastructure for
 artists to control distribution, publication, and revenue streams for
 their work in a way never before possible.

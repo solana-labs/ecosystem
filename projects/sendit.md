@@ -10,6 +10,6 @@ status: live
 ---
 
 SendIt is a cross-device, mobile-first portfolio viewer and wallet for Solana
-that puts the user experience first.  With a few clicks, you get a full-view of
+that puts the user experience first. With a few clicks, you get a full-view of
 your token holdings, farming/staking positions, portfolio history and much
 more. Visit [sendit.finance](https://sendit.finance/) today to get started.

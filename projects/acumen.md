@@ -9,4 +9,4 @@ category: app
 status: live
 ---
 
-Acumen is a Defi lending and borrowing protocol built natively on the Solana blockchain. Acumen empowers seamless yield earning on SPL Tokens, through the use of algorithmically set interest rates, which are a function of supply and demand. 
+Acumen is a Defi lending and borrowing protocol built natively on the Solana blockchain. Acumen empowers seamless yield earning on SPL Tokens, through the use of algorithmically set interest rates, which are a function of supply and demand.
