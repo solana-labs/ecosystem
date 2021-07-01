@@ -2,11 +2,11 @@
 slug: "ichi"
 date: "2021-04-28"
 title: "ICHI"
-logline: "ICHI is a DAO that enables other cryptocurrency communities to create and govern their own in-house, non-custodial oneToken (a stablecoin valued at $1)."
+logline: " ICHI is a self-sustaining, community governed platform that is building Solana's in-house, non-custodial oneToken (a stablecoin valued at $1 called oneSOL) through a Decentralized Monetary Authority (DMA)."
 cta: "https://www.ichi.org/"
 logo: /img/ichi.svg
 category: dao
 status: building
 ---
 
-ICHI plans to build our proprietary oneToken Factory on Solana in order to create stablecoins for Solana projects. This will enable each Solana project to build its own stablecoin and economy enabling DeFi to thrive. At the moment we are working with Everstake to port over our Ethereum Smart contracts over to Solana programs and plan to launch in the coming months.
+ICHI is building a Decentralized Monetary Authority for the Solana community. This will bring the first decentralized stablecoin to the Solana ecosystem. oneSOL will be capital efficient (does not require you take a debt position), decentralized (governed by its holders), growth enabling (putting upward price pressure on the underlying SOL), and 100% on-chain (fully transparent). This will enable Solana to implement its own Monetary Policy through an underlying stable asset. 
