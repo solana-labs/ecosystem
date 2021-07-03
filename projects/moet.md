@@ -6,6 +6,7 @@ logline: "A decentralised derivatives protocol Moët Finance is the first perpet
 cta: https://moet.fi/
 logo: /img/moet.svg
 category: DeFi
+status: building
 ---
 
 A scalable, decentralised, capital-efficient derivatives exchange. The protocol introduces a global collateral vault (GCV) and hybrid central limit order book (CLOB)/virtual automated market maker (vAMM) system to enable trading of under-collateralized derivatives in a trustless and non-custodial manner 🥂.
