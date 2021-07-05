@@ -16,6 +16,6 @@
 	<stop  offset="1" style="stop-color:#FF0EF7"/>
 </linearGradient>
 <ellipse class="st0" cx="50" cy="50" rx="48" ry="47.2"/>
-<text id="NFT_XZBT" transform="matrix(1 0 0 1 21.782 42.8524)"><tspan x="0" y="0" class="st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st4 st5 st3">XZBT</tspan></text>
-<text transform="matrix(1 0 0 1 19.7705 40.7163)"><tspan x="0" y="0" class="st6 st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st6 st4 st5 st3">XZBT</tspan></text>
+<text id="NFT_XZBT" transform="matrix(1 0 0 1 20.782 42.8524)"><tspan x="0" y="0" class="st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st4 st5 st3">XZBT</tspan></text>
+<text transform="matrix(1 0 0 1 18.7705 40.7163)"><tspan x="0" y="0" class="st6 st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st6 st4 st5 st3">XZBT</tspan></text>
 </svg>
