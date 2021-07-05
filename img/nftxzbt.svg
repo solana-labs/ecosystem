@@ -1,1 +1,21 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><image width="772" height="772" transform="scale(0.13)" xlink:href="Metaplex/xzbt.io/images/xzbt.png"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{font-family:'Enviro-Regular';}
+	.st2{font-size:33px;}
+	.st3{letter-spacing:1;}
+	.st4{font-family:'FranklinGothic-Medium';}
+	.st5{font-size:28px;}
+	.st6{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.806" y1="50" x2="97.194" y2="50" gradientTransform="matrix(6.123234e-17 1 -1 6.123234e-17 100 0)">
+	<stop  offset="0" style="stop-color:#3AC997"/>
+	<stop  offset="1" style="stop-color:#FF0EF7"/>
+</linearGradient>
+<ellipse class="st0" cx="50" cy="50" rx="48" ry="47.2"/>
+<text id="NFT_XZBT" transform="matrix(1 0 0 1 21.782 42.8524)"><tspan x="0" y="0" class="st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st4 st5 st3">XZBT</tspan></text>
+<text transform="matrix(1 0 0 1 19.7705 40.7163)"><tspan x="0" y="0" class="st6 st1 st2 st3">NFT</tspan><tspan x="-3" y="33.6" class="st6 st4 st5 st3">XZBT</tspan></text>
+</svg>
