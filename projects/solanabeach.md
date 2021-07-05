@@ -6,6 +6,7 @@ logline: "Explore the Solana blockchain: statistics, validators, token metrics a
 cta: "https://solanabeach.io/"
 logo: /img/solanabeach.svg
 category: explorer
+status: live
 ---
 
 Solanabeach is a comprehensive blockexplorer highlighting core Solana statistics. It empowers stakeholders of the Solana blockchain to seamlessly explore the network's statistics, validators, and token metrics.
