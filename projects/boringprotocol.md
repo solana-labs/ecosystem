@@ -5,6 +5,6 @@ date: "2021-07-07"
 logline: "Boring Protocol is a decentralized VPN built on Solana."
 cta: "https://boringprotocol.io"
 category: infra, app
-logo: /img/addSvgHere.svg
+logo: /img/boringprotocol.svg
 status: building
 ---
