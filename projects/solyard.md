@@ -14,4 +14,5 @@ logo: /img/Solyard.svg
 category: defi, amm
 status: live
 ---
-SolYard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard provides yield enhancement strategies for your Solana crypto assets. Community comes first, and our FARM holders can participate governance by creating or approving proposals. We are launching our beta with the following core vaults, and more will be released in the future. 
+
+SolYard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard provides yield enhancement strategies for your Solana crypto assets. Community comes first, and our FARM holders can participate governance by creating or approving proposals. We are launching our beta with the following core vaults, and more will be released in the future.
