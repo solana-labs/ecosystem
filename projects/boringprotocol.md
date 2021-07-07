@@ -8,4 +8,4 @@ category: infra, app
 logo: /img/boringprotocol.svg
 status: building
 ---
-Boring Protocol is a decentralized virtual private network built on Solana.
+Boring is a decentralized virtual private network and peer to peer bandwidth market built on the Solana Network, providing economic incentive for node providers with transparent programs for privacy to network users.
