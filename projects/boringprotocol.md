@@ -8,3 +8,4 @@ category: infra, app
 logo: /img/boringprotocol.svg
 status: building
 ---
+Boring Protocol is a decentralized virtual private network built on Solana.
