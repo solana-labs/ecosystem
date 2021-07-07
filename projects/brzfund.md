@@ -5,7 +5,7 @@ title: "BRZ Ecosystem Fund"
 logline: "BRZ’s regional fund is supporting Brazilian and LATAM startups and projects that can build impactful solutions on top of Solana's ecosystem."
 logo: /img/brz.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/tbHsVtn0"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-secures-60m-fund-to-drive-growth-in-emerging-markets"
 ctatext: "Apply Now"

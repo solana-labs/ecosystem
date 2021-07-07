@@ -5,7 +5,7 @@ title: "MATH Global Foundation"
 logline: "The MATH Global Foundation, a Singapore based team behind the development of MathWallet, focuses on global investments and interoperable solutions that will bring relationships with over 66+ public chains to the Solana ecosystem. "
 logo: /img/math.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/iQLtiQvL"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"

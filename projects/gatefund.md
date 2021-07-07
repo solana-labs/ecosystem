@@ -5,7 +5,7 @@ title: "Hacken & Gate.io Ecosystem Fund"
 logline: "The Hacken & Gate.io fund will accelerate the growth and development of high quality projects in the Solana Ecosystem in Eastern Europe. Specifically Russia, Ukraine, and Belarus."
 logo: /img/hackengate.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/tbHsVtn0"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-secures-60m-fund-to-drive-growth-in-emerging-markets"
 ctatext: "Apply Now"

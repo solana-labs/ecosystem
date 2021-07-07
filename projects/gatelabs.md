@@ -5,7 +5,7 @@ title: "Gate Labs"
 logline: "Gate.io’s fund provides projects building on Solana the access to growth opportunities within new markets in the Asia-Pacific region."
 logo: /img/gate.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/kusrK3rw"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"
