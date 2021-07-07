@@ -2,7 +2,7 @@
 slug: "bitfinex"
 date: "2020-04-03"
 title: "Bitfinex"
-logline: "Bitfinex listed SOL in February of 2021."
+logline: "Bitfinex listed SOL in February of 2021 and USDC-SPL in March of 2021."
 cta: "https://www.bitfinex.com/"
 logo: /img/bitfinex.svg
 category: exchange
