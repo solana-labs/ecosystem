@@ -6,6 +6,7 @@ logline: "FTX and Alameda Research build on Solana to grow Project Serum, a next
 cta: "https://projectserum.com/"
 logo: /img/serum.svg
 category: DeFi, DEX, SPL
+Status: 
 ---
 
 FTX and Alameda Research created the Serum Foundation and announced Serum, a new high-speed, non-custodial DEX that’s built on Solana. You can learn more about Serum in the white paper and in this comprehensive write-up on The Block.
