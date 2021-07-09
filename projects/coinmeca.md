@@ -2,8 +2,8 @@
 slug: "Coinmeca"
 date: "2021-05-31"
 title: "Coinmeca"
-logline: "An innovative cross-chain DeFi aggregator on Solana."
-cta: "https://1sol.io/"
+logline: "Innovative DEX with Much efficiently asset management with automated liquidity distribution based on AMM."
+cta: "https://coinmeca.net/"
 logo: /img/coinmeca.svg
 category: amm, dex, exchange, tools
 status: building
