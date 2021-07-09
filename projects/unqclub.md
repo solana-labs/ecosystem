@@ -1,7 +1,7 @@
 ---
 slug: "unqclub"
 date: "2021-07-01"
-title: "UNQ Club"
+title: "UNQ.club"
 logline: "UNQ.club is the first DeFi platform providing tools for collectors and investors to power the NFT space. Running cross-chain, powered by Solana."
 cta: "https://unq.club"
 logo: /img/unqclub.svg
