@@ -2,7 +2,7 @@
 slug: "Coinmeca"
 date: "2021-05-31"
 title: "Coinmeca"
-logline: "Innovative DEX with Much efficiently asset management with automated liquidity distribution based on AMM."
+logline: "Innovative DEX with much efficiently asset management with automated liquidity distribution based on AMM."
 cta: "https://coinmeca.net/"
 logo: /img/coinmeca.svg
 category: amm, dex, exchange, tools
