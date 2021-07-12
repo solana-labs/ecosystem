@@ -2,7 +2,7 @@
 slug: "senswap"
 date: "2020-04-03"
 title: "SenSwap"
-logline: "SenSwap is the first AMM built on Serum and Solana."
+logline: "An Open Liquidity Protocol for Token Swap on Solana"
 logo: /img/senswap.svg
 cta: "https://senswap.com"
 status: "building"
