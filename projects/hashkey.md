@@ -5,7 +5,7 @@ title: "HashKey"
 logline: "The HashKey fund aims to mobilise resources and provide guidance to Solana projects looking to access institutional and retail markets."
 logo: /img/hashkey.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/tbHsVtn0"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"

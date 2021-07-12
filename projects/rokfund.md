@@ -3,7 +3,7 @@ slug: "rokcapital"
 date: "2020-04-03"
 title: "ROK Capital"
 logline: "ROK Capital will provide guidance to Solana ecosystem projects to accelerate mass adoption in the Korean Market."
-cta: "https://solanalabs.typeform.com/to/mGUc0Phw"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2: "https://www.coindesk.com/solana-launches-20m-fund-to-advance-ecosystem-in-korea"
 cta2text: "Fund Announcement"
 logo: /img/rok.svg

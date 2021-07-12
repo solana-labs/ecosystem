@@ -5,7 +5,7 @@ title: "NGC Ventures"
 logline: "NGC Ventures is an active investor in projects building on Solana that have innovative use cases and solve an immediate problem."
 logo: /img/ngc.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/XY7kzvGi"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"

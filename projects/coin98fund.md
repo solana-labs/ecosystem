@@ -3,7 +3,7 @@ slug: "coin98fund"
 date: "2020-04-03"
 title: "Coin98 Ecosystem Fund"
 logline: "The Coin98 Ecosystem Fund focuses on incubating and investing in highly potent early-stage DeFi protocols and applications on Solana across Southeast Asia."
-cta: "https://coin98.typeform.com/to/C71oTOLn"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2: "https://coin98insights.com/coin98-solana-ecosystem-fund"
 cta2text: "Fund Announcement"
 logo: /img/coin98.svg
