@@ -1,6 +1,6 @@
 ---
 slug: "solrazr"
-name: "SolRazr"
+title: "SolRazr"
 date: "2021-05-28"
 logline: "Helping projects raise capital and build fast on Solana."
 cta: https://twitter.com/Solrazr_App
