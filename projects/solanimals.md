@@ -8,3 +8,4 @@ logo: /img/solanimals.svg
 category: nft
 status: live
 ---
+Solanimals are voxel-art NFT built over Metaplex you can buy, trade and breed. Several attributes are available, and exclusive attributes are obtainables through breeding.
