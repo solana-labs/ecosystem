@@ -6,6 +6,7 @@ logline: "The Graph, the indexing and query layer of the decentralized web, will
 cta: "https://thegraph.com/blog/multiblockchain-support"
 logo: /img/thegraph.svg
 category: infra, tools
+status: building
 ---
 
 The Graph, the indexing and query layer of the decentralized web, revealed that Solana would be one of the additional Layer 1 blockchains to soon be supported by the protocol. Solana will be joining The Graph’s current support for Ethereum and IPFS. This expansion is opening Web3 opportunities to a wider ecosystem of builders and users.
