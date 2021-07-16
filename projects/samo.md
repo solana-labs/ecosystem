@@ -2,13 +2,11 @@
 slug: "samo"
 date: "2021-05-11"
 title: "Samoyedcoin"
-logline: "Samoyedcoin ($SAMO) is Solana’s ambassador."
+logline: "Samoyedcoin ($SAMO) is one of Solana's memecoins."
 cta: "https://samoyedcoin.com/"
 category: dapp
 logo: /img/samoyedcoin.svg
 ---
-
-Even though it was originally released as a memecoin, SAMO is becoming a real Solana ambassador. Helping introduce Solana to new people, building new and exciting solutions for the ecosystem, the cutest dog can do it all. Enhancing the user experience for everyeone using the Solana ecosystem and also helping other projects along the way.
 
 The samoyed or самоед is a breed of dog originating from Eastern Europe, same as Solana’s beloved cofounder Anatoly Yakovenko!
 
