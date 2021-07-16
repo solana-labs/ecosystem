@@ -3,7 +3,7 @@ slug: "doce"
 date: "2020-04-03"
 title: "Doce Finance"
 logline: "Doce Finance is a DEX with Swap built on Solana."
-cta: "https://swap.doce.finance/#/"
+cta: ""
 logo: /img/doce.svg
 category: defi, dex
 ---
