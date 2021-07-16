@@ -1,8 +1,8 @@
 ---
-slug: “UPFI”
-date: "2021-07-12”
-title: “UPFI”
-logline: “UPFI is a stablecoin pegged to the U.S dollar built on Solana.”
+slug: "UPFI"
+date: "2021-07-12"
+title: "UPFI"
+logline: "UPFI is a stablecoin pegged to the U.S dollar built on Solana."
 cta: "https://upfi.network"
 logo: /img/upfi.svg
 category: stablecoin, defi, app
