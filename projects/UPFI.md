@@ -11,7 +11,8 @@ category: stablecoin, defi, app
 The ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.
 
 The stablecoin protocol to implement design principles of both to create:
-1.	High scalability
-2.	Absolute trustworthiness
-3.	Permanent stability
-4.	Pure on-chain money
+
+1. High scalability
+2. Absolute trustworthiness
+3. Permanent stability
+4. Pure on-chain money

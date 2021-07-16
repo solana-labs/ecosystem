@@ -9,7 +9,7 @@ category: amm, dex, exchange, tools
 status: building
 ---
 
-Coinmeca, The DeFi a hybrid of DEX and CEX with fast and low fees through Solana the high-performance blockchain. Coinmeca is an optimized market maker and making asset management efficiency through automatic liquidity distribution. 
+Coinmeca, The DeFi a hybrid of DEX and CEX with fast and low fees through Solana the high-performance blockchain. Coinmeca is an optimized market maker and making asset management efficiency through automatic liquidity distribution.
 
 <b>Website</b>: https://coinmeca.net </br>
 <b>Twitter</b>: https://twitter.com/coinmeca </br>
