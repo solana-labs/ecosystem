@@ -6,6 +6,7 @@ logline: "Phantom is a digital wallet reimagined for DeFi, coming soon to Solana
 cta: "https://phantom.app/"
 logo: /img/phantom.svg
 category: wallet
+status: building
 ---
 
 Phantom is a digital wallet reimagined for DeFi.
