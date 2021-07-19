@@ -6,7 +6,7 @@ logline: "Fantom is a fast, high-throughput open-source smart contract platform 
 cta: "https://fantom.foundation/blog/alameda-research-invests-35m-into-fantom-foundation/"
 logo: /img/fantom.svg
 category: infra
-status:live
+status: live
 ---
 
 The Fantom Foundation is building a highly scalable blockchain ecosystem that facilitates decentralized, scalable, and secure technologies.
