@@ -6,6 +6,7 @@ logline: "USDt is coming to the Solana ecosystem: Tether’s technical integrati
 cta: "https://tether.to/tether-usdt-to-launch-on-solana/"
 logo: /img/tether.svg
 category: stablecoin
+status: building
 ---
 
 Tether is bringing the USDt stablecoin to the Solana network. The initiative was first announced on Tether’s website on September 9th, 2020.

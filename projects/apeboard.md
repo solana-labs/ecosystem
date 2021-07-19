@@ -6,6 +6,7 @@ logline: "ApeBoard is a cross-chain DeFi dashboard that supports Solana."
 cta: "https://apeboard.finance/dashboard"
 category: app
 logo: /img/apeboard.svg
+status: live
 ---
 
 ApeBoard is a cross-chain DeFi dashboard that supports the Solana network.

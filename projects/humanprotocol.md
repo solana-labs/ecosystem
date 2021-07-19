@@ -6,6 +6,7 @@ logline: "The HUMAN Protocol is a broadly applicable approach to organizing, eva
 cta: "https://hmt.ai/"
 logo: /img/human.svg
 category: app
+status: live
 ---
 
 Human Protocol helps machines learn. It does this by soliciting people to perform so-called labeling tasks—identifying raw data, such as videos, images, and text. That, in turn, provides meaningful information and context for machine learning to improve tasks such as speech and visual recognition.

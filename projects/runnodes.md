@@ -3,7 +3,7 @@ slug: "runnode"
 date: "2021-05-11"
 title: "Run Node"
 logline: "RunNode is a scaling solution built for Solana developers powered by $RUN."
-cta: "https://twitter.com/lava_cash"
+cta: "https://runnode.com/"
 category: app
 logo: /img/runnode.svg
 status: building

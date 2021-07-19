@@ -6,6 +6,7 @@ logline: "Hummingbot is working together with Solana to integrate their Liquidit
 cta: "https://hummingbot.io/"
 logo: /img/hummingbot.svg
 category: infra
+status: live
 ---
 
 Hummingbot is an open-source crypto trading software client that allows users to trade cryptocurrency with high-frequency trading strategies such as market making and arbitrage. Hummingbot currently supports nine exchanges, both centralized and decentralized.
