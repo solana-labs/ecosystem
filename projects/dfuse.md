@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Streaming Fast"
 logline: "Streaming Fast is implementing their API solution into Solana to allow developers to build and maintain performant applications with ease on top of the protocol."
 cta: "https://streamingfast.io/"
-logo: 
+logo:
 category: app
 Status: live
 ---
