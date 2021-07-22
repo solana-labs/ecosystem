@@ -1,7 +1,7 @@
 ---
 slug: "defiland"
 date: "2020-04-03"
-title: "DefiLand"
+title: "Defi Land"
 logline: "DeFi Land is a multi-chain agriculture-simulation web-game created to gamify decentralized finance."
 cta: "https://defiland.app"
 logo: /img/defiland.svg
