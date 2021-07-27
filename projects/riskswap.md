@@ -1,6 +1,6 @@
 ---
 slug: "riskswap"
-date: "2020-07-27"
+date: "2021-07-27"
 title: "Riskswap"
 logline: "RiskSwap is the first decentralized trading platform allowing for both futures and options trading built on Solana."
 cta: "https://riskswap.com"
