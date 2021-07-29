@@ -47,6 +47,7 @@ exchange
 explorer
 infra
 oracle
+sdk
 spl
 stablecoin
 tools
