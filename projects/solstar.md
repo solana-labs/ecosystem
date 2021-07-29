@@ -15,6 +15,6 @@ SolStar built an SPL token Discord tip bot, please reach out if you're intereste
 
 <b>Website</b>: https://solstar.finance</br>
 <b>Twitter</b>: https://twitter.com/SolStarFinance </br>
-<b>Telegram</b>: https://t.me/SolStarFinance </br>
 <b>Discord</b>: https://discord.gg/cRUWB474Jb </br>
 <b>Medium</b>: https://solstar.medium.com </br>
+<b>Telegram</b>: https://t.me/SolStarFinance </br>
