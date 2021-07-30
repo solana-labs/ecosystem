@@ -3,7 +3,7 @@ slug: "allart"
 date: "2021-05-28"
 title: "All-Art Protocol"
 logline: "All-Art Protocol is a standard for NFT AMM Liquidity Pools and NFTs."
-cta: "https://allart.medium.com"
+cta: "https://all.art"
 logo: /img/allart.svg
 category: nft
 status: live
