@@ -6,7 +6,7 @@ logline: "A leveraged yield aggregator. More earning targets through strategy co
 cta: "https://francium-protocol.io/"
 category: defi
 logo: /img/francium.svg
-status: Building
+status: Live
 ---
 
 Francium is a DeFi protocol built on Solana.
