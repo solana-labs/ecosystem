@@ -9,6 +9,6 @@ category: nft, exchange, app
 status: building
 ---
 
-Circlepod, Next Generation Podcast combined with NFT and Solana, creates more interactivity and entertainment. 
+Circlepod, Next Generation Podcast combined with NFT and Solana, creates more interactivity and entertainment.
 
 Not only connect fans and creative value through blockchain technology, but create a good copyright and subscription ecosystem through data and AI.
