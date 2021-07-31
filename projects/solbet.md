@@ -13,5 +13,3 @@ SOLBET seeks to facilitate P2P speculation and provide trustless on-chain escrow
 
 Discord: https://discord.gg/Fz4MyrPFJA
 Twitter: https://twitter.com/solbet_official
-
-

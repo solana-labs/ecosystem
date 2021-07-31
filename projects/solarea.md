@@ -9,7 +9,7 @@ category: explorer, infra
 status: building
 ---
 
-Solarea - decentralized apps composer and community-driven blockchain explorer based on Solana. 
+Solarea - decentralized apps composer and community-driven blockchain explorer based on Solana.
 
 <b>Website</b>: https://solarea.io </br>
 <b>Twitter</b>: https://twitter.com/solareaio </br>
