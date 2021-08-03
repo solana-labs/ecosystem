@@ -6,6 +6,6 @@ logline: "Router Protocol, the best crosschain liquidity aggregator. The future 
 website: "https://www.routerprotocol.com/"
 category: Cross-chain
 twitter: https://twitter.com/routerprotocol
-logo: /img/routerprotocol.svg
+logo: /img/router protocol.svg
 status: live
 ---
