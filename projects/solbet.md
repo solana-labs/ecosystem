@@ -5,7 +5,7 @@ title: "SOLBET"
 logline: "Trustless P2P Speculation Protocol"
 cta: "https://solbet.org/"
 logo: /img/solbet.svg
-category: App
+category: app
 status: building
 ---
 

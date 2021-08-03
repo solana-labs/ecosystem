@@ -6,7 +6,7 @@ logline: "Solv Protocol is the decentralized infrastructure for creating and tra
 website: "https://solv.finance/"
 category: defi
 twitter: https://twitter.com/SolvProtocol/
-logo: /img/solvprotocol.svg
+logo: /img/solv protocol.svg
 status: live
 ---
 
