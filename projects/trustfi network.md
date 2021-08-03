@@ -4,10 +4,10 @@ title: "TrustFi Network"
 date: 2021-07-25
 logline: "TrustFi Network is a decentralized DeFi market liquidity promotion and DAO incentive solution built on web 3.0 and support for Solona, centering on the liquidity of on-chain assets, to unlock the potential of DeFi market liquidity."
 website: "http://trustfi.org/"
-category: 
+category: defi
 twitter: https://twitter.com/trustfiorg
 logo: /img/trustfinetwork.svg
-status: open
+status: live
 ---
 
 TrustFi Network is a decentralized DeFi market liquidity promotion and DAO incentive solution, and it is an important supplement to the DeFi infrastructure built on Web 3.0 and support for Solona.

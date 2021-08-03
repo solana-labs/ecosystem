@@ -7,7 +7,7 @@ website: "https://tokenbole.com/"
 category: stablecoin
 twitter: https://twitter.com/BoleToken
 logo: /img/boletoken.svg
-status: open
+status: live
 ---
 
 Bole is a semi-deflationary token built on the solana chain.

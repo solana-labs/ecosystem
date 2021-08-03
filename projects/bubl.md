@@ -7,7 +7,7 @@ website: "https://www.bublhost.com/"
 category: app 
 twitter: https://twitter.com/bublhost
 logo: /img/bubl.svg
-status: open
+status: live
 ---
 
 Decentralized event hosting and ticketing.

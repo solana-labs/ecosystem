@@ -4,10 +4,10 @@ title: "rpc pool"
 date: 2021-07-25
 logline: "Fast and reliable Solana RPC"
 website: "https://www.rpcpool.com/"
-category: Infrastructure
+category: infra 
 twitter: 
 logo: /img/rpcpool.svg
-status: open
+status: live
 ---
 
 Geographically distributed

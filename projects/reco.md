@@ -7,7 +7,7 @@ website: "https://reboot.eco/"
 category: 
 twitter: https://twitter.com/rebooteco
 logo: /img/reco.svg
-status: open
+status: live
 ---
 
 Whitepaper : https://reboot.eco/reco_whitepaper.pdf

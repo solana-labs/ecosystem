@@ -4,10 +4,10 @@ title: "SOLLock"
 date: 2021-07-25
 logline: "The Safest LaunchPad built on SOLANA"
 website: "https://sollock.io/#"
-category: IDO
+category: infra 
 twitter: https://twitter.com/SOLLockOfficial
 logo: /img/sollock.svg
-status: open
+status: live
 ---
 
 SOLLock is developed to offer developers and investors a safe place to work, as well as a way to prevent immediate sell-offs and rug-pulls after token releases.

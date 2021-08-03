@@ -7,6 +7,6 @@ website: "https://openocean.finance/"
 category: DEX
 twitter: @OpenOceanGlobal
 logo: /img/openocean.svg
-status: open
+status: live
 ---
 

@@ -7,6 +7,6 @@ website: "https://www.routerprotocol.com/"
 category: Cross-chain
 twitter: https://twitter.com/routerprotocol
 logo: /img/routerprotocol.svg
-status: open
+status: live
 ---
 

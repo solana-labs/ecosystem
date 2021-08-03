@@ -4,10 +4,10 @@ title: "Sypool"
 date: 2021-07-25
 logline: "Synthetic asset management protocol."
 website: "http://sypool.io/"
-category: Synthetic-assets
+category: defi 
 twitter: https://twitter.com/SYP_Protocol
 logo: /img/sypool.svg
-status: open
+status: live
 ---
 
 Sypool Protocol is a synthetic asset management protocol. This is another innovation that we have migrated finance from off-chain to on-chain.

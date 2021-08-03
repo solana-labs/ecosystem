@@ -7,7 +7,7 @@ website: "https://orakuru.io/"
 category: Oracles
 twitter: https://twitter.com/orakuru_ork
 logo: /img/orakuru.svg
-status: open
+status: live
 ---
 
 The Orakuru (ora-ku-ru) is Binance smart chain’s community owned and operated Oracle.

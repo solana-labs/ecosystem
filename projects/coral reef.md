@@ -7,6 +7,6 @@ website: "https://coralreef.art/"
 category: 
 twitter: https://twitter.com/CoralReefNFT
 logo: /img/coralreef.svg
-status: open
+status: live
 ---
 

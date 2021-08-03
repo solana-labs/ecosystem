@@ -7,7 +7,7 @@ website: "https://marinade.finance/#/"
 category: AMM
 twitter: https://twitter.com/MarinadeFinance
 logo: /img/marinade.svg
-status: open
+status: live
 ---
 
 Marinade.finance is a liquid staking protocol built on Solana. Enjoy automatic reinvestment of rewards and immediate access to your tokens with no lockup period.
