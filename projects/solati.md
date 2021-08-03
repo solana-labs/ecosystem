@@ -5,7 +5,7 @@ title: "SOLATI"
 logline: "SOLATI is an audible nft project that connects the users and artists through music."
 cta: https://solati.io/
 logo: /img/solati.svg
-category: app,nft
+category: app, nft
 status: building
 ---
 
