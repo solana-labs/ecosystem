@@ -4,7 +4,7 @@ title: "Solstake"
 date: 2021-07-25
 logline: "Staking SOL should be easy."
 website: "https://solstake.io"
-category: defi 
+category: defi
 twitter: https://twitter.com/solstakeio
 logo: /img/solstake.svg
 status: live

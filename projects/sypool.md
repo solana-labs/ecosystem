@@ -4,7 +4,7 @@ title: "Sypool"
 date: 2021-07-25
 logline: "Synthetic asset management protocol."
 website: "http://sypool.io/"
-category: defi 
+category: defi
 twitter: https://twitter.com/SYP_Protocol
 logo: /img/sypool.svg
 status: live

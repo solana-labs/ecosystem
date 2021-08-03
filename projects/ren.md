@@ -4,7 +4,7 @@ title: "Ren"
 date: 2021-07-25
 logline: "Cross chain interoperability and liquidity."
 website: "https://renproject.io/"
-category: infra 
+category: infra
 twitter: https://twitter.com/renprotocol
 logo: /img/ren.svg
 status: live

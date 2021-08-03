@@ -9,4 +9,3 @@ twitter: https://twitter.com/jabber_im
 logo: /img/jabber.svg
 status: live
 ---
-

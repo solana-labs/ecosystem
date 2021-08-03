@@ -4,7 +4,7 @@ title: "The Graph"
 date: 2021-07-25
 logline: "APIs for a vibrant decentralized future"
 website: "https://thegraph.com/"
-category: infra 
+category: infra
 twitter: https://twitter.com/graphprotocol
 logo: /img/thegraph.svg
 status: live

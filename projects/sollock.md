@@ -4,7 +4,7 @@ title: "SOLLock"
 date: 2021-07-25
 logline: "The Safest LaunchPad built on SOLANA"
 website: "https://sollock.io/#"
-category: infra 
+category: infra
 twitter: https://twitter.com/SOLLockOfficial
 logo: /img/sollock.svg
 status: live

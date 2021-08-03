@@ -4,7 +4,7 @@ title: "Larix"
 date: 2021-07-25
 logline: "Larix — the lending protocol on the Solana blockchain, adopted a dynamic interest rate model and created more capital-efficient risk management pools, as such a broad selection of collateral types can be fully utilized in a safe way."
 website: "https://dev.projectlarix.com/"
-category: defi 
+category: defi
 twitter: https://twitter.com/ProjectLarix
 logo: /img/larix.svg
 status: live
