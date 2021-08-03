@@ -2,11 +2,12 @@
 slug: "solasystem"
 title: "SolaSystem"
 date: 2021-07-25
-logline: "SolaSystem"
+logline: "SolaSystem is a community-run ecosystem tracker."
 website: "https://solasystem.io/"
 category: 
 twitter: 
 logo: /img/solasystem.svg
-status: open
+status: live 
 ---
 
+SolaSystem is a community-run ecosystem tracker.
