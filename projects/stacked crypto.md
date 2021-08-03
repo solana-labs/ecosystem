@@ -6,7 +6,7 @@ logline: "Cryptocurrency investment platform. Instantly buy popular indices, man
 website: "https://stackedinvest.com/"
 category: exchange
 twitter: https://twitter.com/stackedcrypto
-logo: /img/stackedcrypto.svg
+logo: /img/stacked crypto.svg
 status: live
 ---
 
