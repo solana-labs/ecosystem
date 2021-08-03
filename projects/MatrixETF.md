@@ -4,7 +4,7 @@ date: "2021-06-01"
 title: "MatrixETF"
 logline: "The Next Generation of ETF, Cross Chain Enabled."
 cta: "https://www.matrixetf.finance/"
-logo: /img/MatrixETF.svg
+logo: /img/Matrix.svg
 category: defi
 status: live
 ---
