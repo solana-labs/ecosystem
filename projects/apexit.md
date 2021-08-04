@@ -1,6 +1,6 @@
 ---
 slug: "apexit"
-date: "2021-05-28"
+date: "2021-08-04"
 title: "apeXit"
 logline: "apeXit is a on-chain risk management tool for Solana."
 cta: "https://apexit.finance/"
