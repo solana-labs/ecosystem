@@ -49,18 +49,23 @@ Available classifications for projects are as follows:
 ```
 amm
 app
+dapp
 defi
 dex
 exchange
 explorer
+fund
+governance
 infra
+investmentfund
+metaplex
+nft
 oracle
 sdk
 spl
 stablecoin
 tools
 wallet
-metaplex
 ```
 
 Please only use existing ones and *watch out for typos*!  
