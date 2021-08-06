@@ -11,5 +11,6 @@ status: building
 
 No two Sollamas will be the same. Each Sollama is generated with attributes based on rarity. From hats, glasses, necklaces, back blankets, beards to even the odd poop. With over 165 unique attributes, it gives a total mathematical combination of millions of unique Sollamas - but with only 10,000 being minted, some are more unique and rare than others.
 
-Discord: https://discord.gg/sollamas
+Discord: https://discord.gg/sollamasnft
+
 Twitter: https://twitter.com/SollamasNFT
