@@ -5,7 +5,7 @@ date: "2021-07-07"
 logline: "Bringing yield farming to the next level on Solana."
 cta: "https://cropper.finance"
 category: AMM
-logo: /img/CropperFinanceLogo
+logo: /img/CropperFinance.svg
 status: building
 ---
 
