@@ -3,7 +3,7 @@ slug: "CropperFinance"
 title: "CropperFinance"
 date: "2021-07-07"
 logline: "Bringing yield farming to the next level on Solana."
-cta: "cropper.finance"
+cta: "https://cropper.finance"
 category: AMM
 logo: /img/CropperFinanceLogo
 status: building
