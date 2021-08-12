@@ -6,7 +6,7 @@ logline: "Solcery is a decentralized games hub on Solana, where users can create
 cta: "https://solcery.xyz/"
 logo: /img/solcery.svg
 category: dapp, fund, nft
-status: live
+status: building
 ---
 
 Solcery is a decentralized games hub on Solana, where users can create, fundraise, publish, and play blockchain games all in one place.
