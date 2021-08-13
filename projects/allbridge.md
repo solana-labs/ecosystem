@@ -1,10 +1,10 @@
 ---
-slug: "solbridge"
+slug: "allbridge"
 date: "2021-07-22"
-title: "Solbridge"
+title: "Allbridge"
 logline: "Modular and expandable token bridge, joining Solana with multiple other blockchains."
-cta: https://solbridge.io/
-logo: /img/solbridge.svg
+cta: https://allbridge.io/
+logo: /img/allbridge.svg
 category: infra
 status: live
 ---
