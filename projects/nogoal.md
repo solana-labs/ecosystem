@@ -6,7 +6,7 @@ logline: "NoGoalFaces are 512 randomly generated dumb faces NFTs, upgradable wit
 cta: https://nogoal.click/
 logo: /img/nogoal.svg
 category: nft,app,spl,dex
-status: live
+status: building
 ---
 
 <b>NoGoalFaces</b>
