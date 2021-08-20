@@ -2,7 +2,7 @@
 slug: "satori"
 date: "2020-08-19"
 title: "Satori Ventures"
-logline: "Satori Ventures is supporting the long-term growth of Solana and Serum by providing incubating early-stage projects in the ecosystem"
+logline: "Satori Ventures is supporting the long-term growth of Solana and Serum by providing incubation to early-stage projects in the ecosystem"
 cta: "https://www.satorivc.com/"
 logo: /img/satori.svg
 category: fund
