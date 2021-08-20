@@ -7,7 +7,7 @@ logo: /img/mxc.svg
 cta2: "https://www.coindesk.com/okex-mcx-invest-solana-projects-defi-arms-race"
 cta2text: "Fund Announcement"
 category: fund
-cta: "https://solanalabs.typeform.com/to/rdR8Wu6v"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/mxceco.png
 ---

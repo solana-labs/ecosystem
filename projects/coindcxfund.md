@@ -5,7 +5,7 @@ title: "CoinDCX Ecosystem Fund"
 logline: "The CoinDCX ecosystem fund is supporting the next generation of Web3 developers in India interested in learning and building on the Solana Network."
 logo: /img/coindcx.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/tbHsVtn0"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-secures-60m-fund-to-drive-growth-in-emerging-markets"
 ctatext: "Apply Now"

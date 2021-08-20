@@ -6,6 +6,7 @@ logline: "Popsicle finance is a cross-chain yield enhancement platform focusing 
 cta: "https://popsicle.finance/"
 logo: /img/popsicle.svg
 category: amm
+status: building
 ---
 
 Popsicle finance is a next-gen cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).

@@ -5,7 +5,7 @@ title: "Huobi Ecosystem Fund"
 logline: "Huobi’s fund focuses on Solana ecosystem projects building infrastructure-related products, specifically those constructing middleware and DeFi infrastructure."
 logo: /img/huobi.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/vw1WMNyZ"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"

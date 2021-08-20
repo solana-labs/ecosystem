@@ -3,7 +3,7 @@ slug: "binance"
 date: "2020-04-03"
 title: "Binance"
 logline: "Binance listed SOL in April of 2020."
-cta: "https://binance.com/trade/BTC_SOL"
+cta: "https://binance.com/en"
 logo: /img/binance.svg
 category: exchange
 status: live

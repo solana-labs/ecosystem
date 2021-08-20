@@ -1,0 +1,26 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0)">
+        <path d="M19.9219 50.1953H0V70.1172H19.9219V50.1953Z" fill="#0050A5"/>
+        <path d="M19.9219 80.0781H0V100H19.9219V80.0781Z" fill="#0070E1"/>
+        <path d="M39.8438 40.0391H19.9219V59.9609H39.8438V40.0391Z" fill="#0050A5"/>
+        <path d="M19.9219 20.1172H0V40.0391H19.9219V20.1172Z" fill="#4B5F84"/>
+        <path d="M39.8438 9.96094H19.9219V30.0781H39.8438V9.96094Z" fill="#4B5F84"/>
+        <path d="M100 0H39.8438V19.9219H100V0Z" fill="#75839E"/>
+        <path d="M39.8438 70.1172H19.9219V90.0391H39.8438V70.1172Z" fill="#0070E1"/>
+        <path d="M39.8438 70.1172H29.8828V90.0391H39.8438V70.1172Z" fill="#0080FF"/>
+        <path d="M39.8438 9.96094H29.8828V29.8828H39.8438V9.96094Z" fill="#75839E"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M80.0781 40.0391H60.1562V59.9609H80.0781V80.0781H39.8438V100H100V80.2734V80.0781V40.0391H80.0781Z" fill="#0080FF"/>
+        <g style="mix-blend-mode:soft-light">
+            <path style="mix-blend-mode:soft-light" d="M17.3828 30.0781V37.5H2.53906V22.6562H19.9219L22.4609 20.1172V12.5H29.8828H39.8438L42.3828 9.96094V2.53906H97.4609V17.3828H39.8438L37.3047 19.9219V27.5391H19.9219L17.3828 30.0781ZM17.3828 59.9609V67.5781H2.53906V52.7344H19.9219L22.4609 50.1953V42.5781H37.3047V57.4219H19.9219L17.3828 59.9609ZM22.4609 72.6562H37.3047V80.0781L39.8438 82.6172H80.0781L82.6172 80.0781V59.9609L80.0781 57.4219H62.6953V42.5781H97.4609V97.4609H42.3828V90.0391L39.8438 87.5H19.9219L17.3828 90.0391V97.4609H2.53906V82.6172H19.9219L22.4609 80.0781V72.6562Z" stroke="url(#paint0_linear)" stroke-width="26" stroke-linejoin="bevel"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x1="50" y1="-2.94062e-08" x2="50" y2="137.012" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white"/>
+            <stop offset="1" stop-color="white" stop-opacity="0"/>
+        </linearGradient>
+        <clipPath id="clip0">
+            <rect width="100" height="100" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>

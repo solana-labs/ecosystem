@@ -5,7 +5,7 @@ title: "OKEx Blockdream Ventures"
 logline: "Block Dream Fund, the investment arm of the exchange OKEx, launched a strategic investment fund that will bring $20 million of new capital to accelerate the growth and development of key projects in the Solana ecosystem."
 logo: /img/okex.svg
 category: fund
-cta: "https://solanalabs.typeform.com/to/AHcyxbNv"
+cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/okex-mcx-invest-solana-projects-defi-arms-race"
 ctatext: "Apply Now"
