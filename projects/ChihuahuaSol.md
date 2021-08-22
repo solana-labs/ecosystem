@@ -11,6 +11,6 @@ status: live
 
 ChihuahuaSol an Exclusive NFTs Built on #Solana
 
-<b>Website</b>: https://chihuahuasol.net </br>
+<b>Website</b>: https://chihuahuasol.com </br>
 <b>Twitter</b>: https://twitter.com/ChihuahuaSol </br>
 <b>NFT Marketplace</b>: https://nft.chihuahuasol.com/ </br>
