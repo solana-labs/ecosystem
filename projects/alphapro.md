@@ -10,7 +10,7 @@ logo:/img/alphapro.svg
 status:live
 ---
 
-AlphaPro is Validating in Solana with a promotion of 0% commission all year 2021.Our staking services are trusted by millions of dollars from both institutional and retail investors. 
+AlphaPro is Validating in Solana with a promotion of 0% commission all year 2021.Our staking services are trusted by millions of dollars from both institutional and retail investors.
 
 Why Choose Us
 
