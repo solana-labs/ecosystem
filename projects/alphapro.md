@@ -2,12 +2,12 @@
 slug: "AlphaPro"
 date: "2021-08-04"
 title: "Alpha Pro"
-logline: "Trusted & Secure Validator .100% focused on Solana.Alpha Pro helps institutional investors and regular token holders to profit off their crypto assets. We offer high-uptime, secure staking with advanced monitoring & support."
-website:"https://www.alphapro.io/"
-category:infra,tools
-twitter:"https://twitter.com/AlphaPro_io"
-logo:/img/alphapro.svg
-status:live
+logline: "Trusted & Secure Validator. 100% focused on Solana. Alpha Pro helps institutional investors and regular token holders to profit off their crypto assets. We offer high-uptime, secure staking with advanced monitoring & support."
+website: "https://www.alphapro.io/"
+category: infra,tools
+twitter: "https://twitter.com/AlphaPro_io"
+logo: /img/alphapro.svg
+status: live
 ---
 
 AlphaPro is Validating in Solana with a promotion of 0% commission all year 2021.Our staking services are trusted by millions of dollars from both institutional and retail investors.
