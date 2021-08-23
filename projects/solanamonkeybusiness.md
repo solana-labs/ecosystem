@@ -1,7 +1,7 @@
 ---
 slug: "smb"
 date: "2021-07-01"
-title: "SolanaMonkeyBusiness"
+title: "Solana Monkey Business"
 logline: "SolanaMonkeyBusiness is an NFT project on the Solana blockchain featuring 2 NFT collections.
 
 -SolanaMonkeys: 5000 unique generative NFTs with attributes and a rarity system.

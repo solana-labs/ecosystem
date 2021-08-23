@@ -4,7 +4,7 @@ date: "2021-05-11"
 title: "MetaSOL"
 logline: "MetaSOL allows meta transactions on the Solana network."
 cta: "https://metasol.xyz/"
-category: dapp
+category: app
 logo: /img/metasol.svg
 ---
 

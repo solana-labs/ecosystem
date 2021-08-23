@@ -5,7 +5,7 @@ title: "Bonfida"
 logline: "Bonfida is built on top of Solana and Serum."
 cta: "https://bonfida.com/"
 logo: /img/bonfida.svg
-category: DeFi, SPL, wallet, Analytics
+category: DeFi, SPL, wallet
 status: live
 ---
 

@@ -5,7 +5,7 @@ title: "ICHI"
 logline: "ICHI is a self-sustaining, community governed platform that is building Solana's in-house, non-custodial oneToken (a stablecoin valued at $1 called oneSOL) through a Decentralized Monetary Authority (DMA)."
 cta: "https://www.ichi.org/"
 logo: /img/ichi.svg
-category: dao
+category: governance
 status: building
 ---
 
