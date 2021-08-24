@@ -7,6 +7,7 @@ cta: "https://gravity.tech/"
 logo: /img/waves.svg
 category: infra
 status: closed
+website: https://waves.tech/
 twitter: https://twitter.com/wavesprotocol
 telegram: https://t.me/wavesnews
 discord: https://discord.com/invite/cnFmDyA

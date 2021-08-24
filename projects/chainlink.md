@@ -7,7 +7,7 @@ cta: "https://medium.com/solana-labs/chainlink-and-solana-integration-high-quali
 logo: /img/chainlink.svg
 category: oracle
 status: building
-website:https://chain.link/
+website: https://chain.link/
 twitter: https://twitter.com/chainlink
 telegram: https://t.me/chainlinkofficial
 

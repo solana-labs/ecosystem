@@ -9,7 +9,7 @@ category: DeFi
 website: https://www.oxygen.org/
 twitter: https://twitter.com/oxygen_protocol
 telegram: https://t.me/oxygen_protocol
-
+discord: https://discord.com/invite/hbKAb2TAvc
 
 
 ---

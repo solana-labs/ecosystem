@@ -7,6 +7,7 @@ cta: "https://bonfida.com/"
 logo: /img/bonfida.svg
 category: DeFi, SPL, wallet
 status: live
+website: https://bonfida.com
 twitter: https://twitter.com/bonfida
 telegram: https://t.me/bonfidatg
 discord: https://discord.gg/B4xzATxQHC

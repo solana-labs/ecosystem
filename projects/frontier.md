@@ -7,6 +7,7 @@ cta: "https://frontier.xyz/"
 logo: /img/frontier.svg
 category: DeFi, SPL
 status: building
+website: https://frontier.xyz/
 twitter: https://twitter.com/FrontierDotXYZ
 telegram: https://t.me/FrontierDotXYZ
 ---

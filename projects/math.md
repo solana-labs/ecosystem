@@ -6,7 +6,6 @@ logline: "MathWallet is a multi-chain wallet that supports 60+ blockchains inclu
 cta: "https://mathwallet.org"
 category: wallet, SPL
 logo: /img/math.svg
-email: labs@mathwallet.org
 website: https://mathwallet.org
 twitter: https://twitter.com/Mathwallet
 telegram: https://t.me/mathwallet

@@ -6,6 +6,7 @@ logline: "Raydium is the first AMM built on Solana to leverage a fully decentral
 cta: "https://raydium.io"
 logo: /img/raydium.svg
 category: AMM
+website: https://raydium.io/
 twitter: https://twitter.com/raydiumprotocol
 telegram: https://t.me/raydiumprotocol
 discord: https://discord.com/invite/6EvFwvCfpx

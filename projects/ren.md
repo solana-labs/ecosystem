@@ -7,7 +7,7 @@ category: infra
 twitter: https://twitter.com/renprotocol
 logo: /img/ren.svg
 status: live
-website: "https://renproject.io/"
+website: https://renproject.io/
 twitter: https://twitter.com/renprotocol
 telegram: https://t.me/renproject
 
