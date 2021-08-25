@@ -9,4 +9,8 @@ logo: /img/switchboard.svg
 status: Live
 ---
 
-Switchboard is building a decentralized oracle network exclusively on Solana.
+Switchboard is a generalized, community curated oracle network designed
+to incentivize bringing the long tail of data on-chain. Harnessing the
+wisdom of crowds, Switchboard creates a market of curators incentivized
+to organize unique off-chain data sources and publishers to decentralize
+quantitative data feeds.
