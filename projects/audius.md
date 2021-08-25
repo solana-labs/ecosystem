@@ -1,4 +1,3 @@
----
 slug: "audius"
 date: "2020-04-03"
 title: "Audius"
@@ -11,8 +10,6 @@ website: https://audius.co/
 twitter: https://twitter.com/AudiusProject
 telegram: https://t.me/Audius
 discord: https://discordapp.com/invite/4dbvdsF
-
----
 
 Audius is the latest project to move over to Solana and has been growing rapidly, now with over 1 million monthly listeners. However, as their active users have increased, so have the gas fees and load times. Audius is creating a fully decentralized community of artists, developers, and listeners collaborating to share and defend the worlds music.
 

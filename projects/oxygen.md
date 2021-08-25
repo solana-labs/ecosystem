@@ -1,4 +1,3 @@
----
 slug: "oxygen"
 date: "2020-04-03"
 title: "Oxygen"
@@ -10,9 +9,6 @@ website: https://www.oxygen.org/
 twitter: https://twitter.com/oxygen_protocol
 telegram: https://t.me/oxygen_protocol
 discord: https://discord.com/invite/hbKAb2TAvc
-
-
----
 
 Oxygen is a DeFi prime brokerage service built on Solana and powered by Serum's on-chain infrastructure. Oxygen is built around Pools, or baskets of assets that take collective actions. Starting with a borrow-lending facility, users will be able to earn yield and get leverage against their portfolios, setting the foundation for a vibrant and decentralized financial ecosystem.
 

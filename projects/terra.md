@@ -1,4 +1,3 @@
----
 slug: "terra"
 date: "2020-04-03"
 title: "Terra"
@@ -11,8 +10,6 @@ website: https://terra.money/
 twitter: https://twitter.com/terra_money
 telegram: https://t.me/terra_announcements
 discord: https://discord.com/invite/bYfyhUT
-
----
 
 Terra is a thriving payments network that is supported by a basket of stablecoins pegged to the world’s largest currencies. Today, these stablecoins largely flow through Terra’s flagship app, CHAI, which recently crossed 1M MAU and over $3M USD in daily transaction volume. Terra is backed by an impressive team and some of the world’s best investors.
 

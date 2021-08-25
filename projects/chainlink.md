@@ -1,4 +1,3 @@
----
 slug: "chainlink"
 date: "2020-04-03"
 title: "Chainlink"
@@ -10,8 +9,6 @@ status: building
 website: https://chain.link/
 twitter: https://twitter.com/chainlink
 telegram: https://t.me/chainlinkofficial
-
----
 
 Chainlink is a decentralized oracle network that currently provides decentralization at both the oracle and data source level. By using multiple independent Chainlink nodes, the user can protect against one oracle being a single point of failure. Similarly, using multiple data sources for sourcing market prices, the user can protect against one data source being a single source of truth.
 

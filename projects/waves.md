@@ -1,4 +1,3 @@
----
 slug: "waves"
 date: "2020-04-03"
 title: "Waves"
@@ -11,9 +10,8 @@ website: https://waves.tech/
 twitter: https://twitter.com/wavesprotocol
 telegram: https://t.me/wavesnews
 discord: https://discord.com/invite/cnFmDyA
----
 
-Waves is a Crypto-platform for asset/custom token issuance, transfer and trading on the Waves blockchain, with centralised order matching and decentralised settlement.
+Waves is a Crypto-platform for asset/custom token issuance, transfer, and trading on the Waves blockchain, with centralised order matching and decentralised settlement.
 
 We are thrilled to announce the integration of the Solana protocol into Gravity, a decentralized cross-chain and oracle network based on the Waves protocol. As a result of the integration, the Solana network will be available for data transfers between Gravity network participants.
 

@@ -1,4 +1,3 @@
----
 slug: "akash"
 date: "2020-04-03"
 title: "Akash"
@@ -11,9 +10,6 @@ website: https://akash.network/
 twitter: https://twitter.com/akashnet_
 telegram: https://t.me/akashnw
 discord: https://discord.com/invite/DxftX67
-
-
----
 
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.
 
