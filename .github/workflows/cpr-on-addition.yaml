@@ -31,6 +31,8 @@ jobs:
 
       - name: Add changes to solana-com
         run: |
+          \rm -f $GITHUB_WORKSPACE/solana-com/src/partners/*
+          \rm -f $GITHUB_WORKSPACE/solana-com/static/img/*
           cp $GITHUB_WORKSPACE/ecosystem/projects/* $GITHUB_WORKSPACE/solana-com/src/partners/
           cp $GITHUB_WORKSPACE/ecosystem/img/* $GITHUB_WORKSPACE/solana-com/static/img/
 
