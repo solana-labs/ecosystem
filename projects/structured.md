@@ -6,6 +6,8 @@ logline: "Solana Structured Products allows users to match and lock single depos
 logo: /img/structured.svg
 category: defi
 status: closed
+Website: https://www.solstructured.com/
+Twitter: https://twitter.com/solstructured
+Telegram: http://t.me/solstructured
 ---
-
 Structured products in traditional finance are simply a combination of two or more financial instruments that comprise a single product that pays out based on the performance of the underlying assets. The Structured Products team built a system which allows users to match and lock single deposits with the shared goal of executing a particular trading strategy, coupled with position management bots that read and respond to Serum DEX’s market data.
