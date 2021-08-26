@@ -9,9 +9,9 @@ category: wallet
 Status: live
 ---
 
-Steakwallet launched with multi-currency support for three blockchains in mid 2021, adding support for SOL by August.
+Steakwallet launched with multi-currency support for three blockchains in mid 2021, adding support for SOL and staking by August.
 
-After collaborating with the Solana team, support for staking and hundreds of SPL tokens is now slated to land in September.
+After collaborating with the Solana team, support for hundreds of SPL tokens is slated to land in September.
 
 <b>Website</b>: https://steakwallet.fi </br>
 <b>Twitter</b>: https://twitter.com/steakwallet </br>
