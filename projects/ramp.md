@@ -1,3 +1,4 @@
+---
 slug: "ramp"
 date: "2020-04-03"
 title: "Ramp"
@@ -9,7 +10,7 @@ website: https://rampdefi.com/
 twitter: https://twitter.com/RampDefi
 telegram: https://t.me/rampdefiofficial
 discord: https://discord.com/invite/WY5TU7b
-
+---
 RAMP DeFI is committed to releasing liquidity from mortgaged digital assets. Our solution enables SOL users to obtain additional liquidity without giving up their mortgage rewards or capital appreciation potential.
 
 Through the RAMP smart contract, users can mortgage SOL to obtain the local stable currency solUSD on the Solana network, and then exchange the solUSD into the stable currency rUSD with the equivalent value of 1:1 on the Ethereum network.

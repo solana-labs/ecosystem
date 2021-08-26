@@ -1,3 +1,4 @@
+---
 slug: "akash"
 date: "2020-04-03"
 title: "Akash"
@@ -10,7 +11,7 @@ website: https://akash.network/
 twitter: https://twitter.com/akashnet_
 telegram: https://t.me/akashnw
 discord: https://discord.com/invite/DxftX67
-
+---
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.
 
 By interoperating with Solana, Akash users will soon be able to run secure and scalable smart contracts on Solana’s hyper-performance platform and pay using Akash Token (AKT). Solana’s users will also soon be able to run distributed applications and settle using the Solana token (SOL) on Akash. Additionally, Akash will provide support for Solana’s validators to run nodes in highly secure and scalable environments.

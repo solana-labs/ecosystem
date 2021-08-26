@@ -1,3 +1,4 @@
+---
 slug: "traderdome"
 date: "2020-04-03"
 title: "traderdome"
@@ -10,5 +11,5 @@ website: https://traderdome.io/#/
 twitter: https://twitter.com/traderdome
 telegram: https://t.me/ProjectSerum
 discord: https://discord.com/invite/zxPsXcB
-
+---
 Traderdome is a fully decentralized protocol for automated liquidity provision on Solana.

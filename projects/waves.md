@@ -1,3 +1,4 @@
+---
 slug: "waves"
 date: "2020-04-03"
 title: "Waves"
@@ -10,6 +11,7 @@ website: https://waves.tech/
 twitter: https://twitter.com/wavesprotocol
 telegram: https://t.me/wavesnews
 discord: https://discord.com/invite/cnFmDyA
+---
 
 Waves is a Crypto-platform for asset/custom token issuance, transfer, and trading on the Waves blockchain, with centralised order matching and decentralised settlement.
 
