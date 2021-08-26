@@ -5,7 +5,7 @@ title: "SauerBot"
 logline: "A simple to use Solana/Serum price tracker bot."
 cta: "https://t.me/sauerbot_bot"
 logo: /img/sauerbot.svg
-category: bot, tools, tracking
+category: tools
 status: live
 ---
 

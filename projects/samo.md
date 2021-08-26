@@ -4,7 +4,7 @@ date: "2021-05-11"
 title: "Samoyedcoin"
 logline: "Samoyedcoin ($SAMO) is Solana’s ambassador."
 cta: "https://samoyedcoin.com/"
-category: dapp
+category: app
 logo: /img/samoyedcoin.svg
 ---
 

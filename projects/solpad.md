@@ -4,7 +4,7 @@ date: "2021-05-11"
 title: "SolPAD"
 logline: "SolPAD is a launchpad built for the Solana Ecosystem."
 cta: "https://www.solpad.finance/"
-category: dapp
+category: app
 logo: /img/solpad.svg
 ---
 

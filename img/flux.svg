@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flux Logo New</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="248.532813%" gradientTransform="translate(0.500000,0.000000),scale(1.000000,0.393939),rotate(90.000000),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#FE84FC" offset="0%"></stop>
+            <stop stop-color="#2ED1FF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -829.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(0.000000, 251.000000)">
+                <g id="Flux-Logo-New" transform="translate(0.000000, 578.000000)">
+                    <g transform="translate(50.000000, 50.000000) rotate(90.000000) translate(-50.000000, -50.000000) ">
+                        <circle id="Oval" fill="#FFFFFF" cx="50" cy="50" r="50"></circle>
+                        <path d="M50,35.7142857 C55.1283584,35.7142857 59.2857143,39.8716416 59.2857143,45 L59.2857143,73.5714286 C59.2857143,78.699787 55.1283584,82.8571429 50,82.8571429 C44.8716416,82.8571429 40.7142857,78.699787 40.7142857,73.5714286 L40.7142857,45 C40.7142857,39.8716416 44.8716416,35.7142857 50,35.7142857 Z" id="Rectangle" fill="#0F0E25" transform="translate(50.000000, 59.285714) rotate(90.000000) translate(-50.000000, -59.285714) "></path>
+                        <path d="M35.7142857,21.4285714 C40.8426441,21.4285714 45,25.5859274 45,30.7142857 L45,68.5714286 L45,68.5714286 L35.7142857,68.5714286 C30.5859274,68.5714286 26.4285714,64.4140726 26.4285714,59.2857143 L26.4285714,30.7142857 C26.4285714,25.5859274 30.5859274,21.4285714 35.7142857,21.4285714 Z" id="Rectangle" fill="#0F0E25"></path>
+                        <path d="M45,31.4285714 L54.2857143,31.4285714 C59.4140726,31.4285714 63.5714286,35.5859274 63.5714286,40.7142857 L63.5714286,69.2857143 C63.5714286,74.4140729 59.4140726,78.5714286 54.2857143,78.5714286 C49.1573559,78.5714286 45,74.4140729 45,69.2857143 L45,31.4285714 L45,31.4285714 Z" id="Rectangle" fill="url(#radialGradient-1)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
