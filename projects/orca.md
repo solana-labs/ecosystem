@@ -6,7 +6,7 @@ logline: "Orca is the first user-friendly cryptocurrency exchange built on Solan
 cta: "https://orca.so"
 logo: /img/orca.svg
 category: DeFi, AMM, exchange
-website:https://www.orca.so/
+website: https://www.orca.so/
 twitter: https://twitter.com/orca_so
 telegram: https://t.me/orca_so
 discord: http://discord.gg/nSwGWn5KSG
