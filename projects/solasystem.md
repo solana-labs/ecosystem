@@ -8,6 +8,8 @@ category: tools
 twitter:
 logo: /img/solasystem.svg
 status: live
+Website: https://solasystem.io/		
+Twitter: https://twitter.com/Sola_System
+Telegram: https://t.me/sola_system
 ---
-
 SolaSystem is a community-run ecosystem tracker.
