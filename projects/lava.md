@@ -7,6 +7,10 @@ cta: "https://twitter.com/lava_cash"
 category: app
 logo: /img/lava.svg
 status: live
+Website: https://lava.cash/
+Twitter: https://twitter.com/lava_cash
+Telegram: https://t.me/lavacash
+Discord: https://discord.com/invite/3kyCdJMM7D
 ---
 
 Privacy is a vital component of any censorship resistant blockchain, without it there exists very clear pathways to breaking the network’s fungibility. For example, if fungibility erodes, using SOL in a smart contract that pools user’s funds could pose taint risk. Unsuspecting users whose coins are blindly tainted may find that they become second class citizens in the network as their deposits to smart contracts are rejected and they are discriminated against when trying to exchange their SOL for goods and services. This would lead to multiple economies of SOL tokens, a clear indication that the network is no longer a truly censorship resistant network.
