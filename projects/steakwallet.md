@@ -1,9 +1,9 @@
 ---
-slug: 'steakwallet'
-date: '2021-08-17'
-title: 'Steakwallet'
-logline: 'Steakwallet is multi chain cryptocurrency staking wallet that supports SOL and many other SPL tokens'
-cta: 'https://steakwallet.fi'
+slug: "steakwallet"
+date: "2021-08-17"
+title: "Steakwallet"
+logline: "Steakwallet is multi chain cryptocurrency staking wallet that supports SOL and many other SPL tokens"
+cta: "https://steakwallet.fi"
 logo: /img/steakwallet.svg
 category: wallet
 Status: live
