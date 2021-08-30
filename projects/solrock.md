@@ -8,3 +8,5 @@ logo: /img/solrock.svg
 category: nft
 status: live
 ---
+
+SolRocks are Pet Rocks On The Solana Blockchain.
