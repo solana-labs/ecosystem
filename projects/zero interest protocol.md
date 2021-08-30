@@ -7,7 +7,7 @@ cta: "https://twitter.com/zerointerestfi"
 category: defi, stablecoin
 logo: /img/zerointerestprotocol.svg
 status: Building
-Website:https://www.zeropercenter.org/
+Website: https://www.zeropercenter.org/
 Twitter: https://twitter.com/zerointerestfi
 Telegram: https://t.me/zerointerest
 ---
