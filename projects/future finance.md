@@ -7,7 +7,7 @@ category: defi
 twitter: https://twitter.com/ftr_finance
 logo: /img/futurefinance.svg
 status: live
-Website: https://future-ftr.io/	
+Website: https://future-ftr.io/
 Twitter: https://twitter.com/ftr_finance
 Telegram: https://t.me/joinchat/5R6McB2bKcA0MTBk
 Discord: https://discord.com/invite/RdWZsebQfX

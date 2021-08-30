@@ -8,7 +8,8 @@ logo: /img/bubl.svg
 status: live
 Website: https://www.bublhost.com/
 Twitter: https://twitter.com/bublhost
-Telegram: http://t.me/bublhost	
+Telegram: http://t.me/bublhost
 Discord: https://discord.com/invite/bubl
 ---
-Decentralized event hosting and ticketing. Creating events and buying tickets is now safer and faster. 
+
+Decentralized event hosting and ticketing. Creating events and buying tickets is now safer and faster.

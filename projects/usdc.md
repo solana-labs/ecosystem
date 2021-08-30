@@ -10,4 +10,5 @@ website: "https://www.circle.com/blog/circle-solana-partner-to-bring-usdc-to-sol
 twitter: https://twitter.com/circlepay
 discord: https://discord.com/invite/Q7bKN5y
 ---
+
 Crypto traders and developers can now use USDC, one of the most popular stablecoins, on fast, scalable, and cost-effective rails provided by the Solana blockchain.

@@ -10,6 +10,7 @@ Website: https://app.tor.us/
 Twitter: https://twitter.com/TorusLabs
 Telegram: http://t.me/TorusLabs
 ---
+
 It’s no secret that the friction for new users to on-board into the blockchain ecosystem is notoriously high, and is arguably one of the biggest reasons for it’s slow adoption. A big driver for this friction is that key management is complicated, with users managing private keys and mnemonic phrases, especially when compared to existing Web 2.0 applications with Single-Sign-On (SSO) solutions via Facebook or Google enabled. The other driver for this friction has been performance and cost. An example most of us are familiar with is the use of cryptocurrencies as payments, where Bitcoin was accepted on the Steam platform at one point, but was eventually dropped due to its price volatility, high transaction fees during network congestion and slow settlement.
 
 As a result, we’re excited to share that both Solana and Torus have decided to collaborate to tackle these issues, as both our teams are focused on making blockchain more accessible, user-friendly and scalable for everyone. At Solana, our edge is in enabling a high-performance protocol with cost-efficient transactions and sub-second confirmation times. And for Torus it’s to provide a simple authentication solution and make key management not only as simple as existing Web 2.0 applications, but also compatible with them.

@@ -7,9 +7,9 @@ cta: "https://streamingfast.io/"
 logo: /img/streamingfast.svg
 category: app
 status: live
-Website: https://dfuse.io/	
+Website: https://dfuse.io/
 Twitter: https://twitter.com/dfuseio
-Telegram: https://t.me/dfuseAPI	
+Telegram: https://t.me/dfuseAPI
 Discord: https://discord.com/invite/jZwqxJAvRs
 ---
 

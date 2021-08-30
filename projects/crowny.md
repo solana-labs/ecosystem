@@ -7,7 +7,7 @@ cta: "https://crowny.io/"
 category: app
 logo: /img/crowny.svg
 status: live
-Website: https://crowny.io/en/	
+Website: https://crowny.io/en/
 Twitter: https://twitter.com/crownyio/
 Telegram: https://t.me/crownyio
 ---

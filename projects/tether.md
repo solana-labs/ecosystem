@@ -11,6 +11,7 @@ website: https://tether.to/
 twitter: https://twitter.com/Tether_to/
 telegram: https://t.me/OfficialTether
 ---
+
 Tether is bringing the USDt stablecoin to the Solana network. The initiative was first announced on Tether’s website on September 9th, 2020.
 
 USDt is the largest stablecoin by market capitalization and is one of the most widely used stablecoins in the DeFi sector. The top three most popular DeFi projects have USDt deposits totaling more than \$863 million alone. Tether and USDt are critical pieces of infrastructure for any successful blockchain project and have been one of the most important elements for cross-platform settlement. This strategic initiative is a significant step for Solana and will be instrumental in advancing the network.

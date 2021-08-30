@@ -10,4 +10,5 @@ website: https://trustwallet.com/
 twitter: https://twitter.com/trustwalletapp
 telegram: https://t.me/trust_announcements
 ---
+
 Trust Wallet is a mobile wallet that supports SOL. Download it from the iOS or Google Play store to interact with the Solana network on your mobile device.

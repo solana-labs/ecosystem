@@ -11,4 +11,5 @@ twitter: https://twitter.com/SolriseFinance
 telegram: https://t.me/solrisefinance
 discord: https://discord.com/invite/xNbGgMUJfU
 ---
+
 We have built a decentralized fund management and investment protocol on Solana. On-chain asset swapping, price discovery and oracles made this a pretty natural idea to implement.

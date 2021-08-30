@@ -11,7 +11,7 @@ status: live
 Website: https://www.rpcpool.com/
 Twitter: https://twitter.com/rpcpool
 Telegram: https://t.me/joinchat/K0ONdq7fE4s0Mjdl
-Discord: https://discord.gg/E7XfrfkT		
+Discord: https://discord.gg/E7XfrfkT
 ---
 
 Geographically distributed

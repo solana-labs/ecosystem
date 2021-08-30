@@ -7,7 +7,7 @@ cta: "https://sendit.finance/"
 logo: /img/sendit.svg
 category: defi, wallet, explorer, app
 status: live
-Website: https://sendit.finance/	
+Website: https://sendit.finance/
 Twitter: https://twitter.com/sendit_finance
 Telegram: https://t.me/sendit_finance
 Discord: https://discord.gg/UcMXyGa7Mm

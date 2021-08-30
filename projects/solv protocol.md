@@ -7,10 +7,11 @@ website: "https://solv.finance/"
 category: defi
 logo: /img/solv protocol.svg
 status: live
-Website: https://solv.finance/			
+Website: https://solv.finance/
 Twitter: https://twitter.com/SolvProtocol/
-Telegram: https://t.me/SolvProtocol		
+Telegram: https://t.me/SolvProtocol
 ---
-Solv Protocol is the protocol for creating, managing, and trading Vouchers - a brand-new digital asset type. Vouchers are financial instruments such as investment allocations, bonds, deposit receipts, or cover notes that are expressed in the form of NFTs. Vouchers are designed to optimize the implementation of financial instruments for DeFi. 
 
-Solv Protocol provides Vouchers with its brand-new token standard vNFT (short for Versatile Non-Fungible Token) as infrastructure sophistication - an enhancement of ERC721 to simplify the implementation and programming for advanced financial products. 
+Solv Protocol is the protocol for creating, managing, and trading Vouchers - a brand-new digital asset type. Vouchers are financial instruments such as investment allocations, bonds, deposit receipts, or cover notes that are expressed in the form of NFTs. Vouchers are designed to optimize the implementation of financial instruments for DeFi.
+
+Solv Protocol provides Vouchers with its brand-new token standard vNFT (short for Versatile Non-Fungible Token) as infrastructure sophistication - an enhancement of ERC721 to simplify the implementation and programming for advanced financial products.

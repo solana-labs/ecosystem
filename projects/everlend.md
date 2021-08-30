@@ -6,9 +6,9 @@ logline: "Everlend is Decentralized, cross-chain lending protocol with yield far
 category: defi
 logo: /img/everlend.svg
 status: live
-Website: https://everlend.finance/	
+Website: https://everlend.finance/
 Twitter: https://twitter.com/EverlendFinance
-Telegram: https://t.me/joinchat/Znd69xFkYK45NTAy			
+Telegram: https://t.me/joinchat/Znd69xFkYK45NTAy
 Discord: https://discord.com/invite/wwqnJYQGxM
 ---
 
