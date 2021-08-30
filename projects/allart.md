@@ -7,7 +7,7 @@ cta: "https://all.art"
 logo: /img/allart.svg
 category: nft
 status: live
-Website:https://allart.io/	
+Website: https://allart.io/	
 Twitter: https://twitter.com/AllArtProtocol
 Telegram: https://t.me/allartprotocol
 Discord: https://discord.gg/deFH75PCkg		
