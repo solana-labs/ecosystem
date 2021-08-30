@@ -2,13 +2,16 @@
 slug: "akash"
 date: "2020-04-03"
 title: "Akash"
-logline: "Akash is integrating their serverless supercloud infrastructure into Solana to allow users to easily deploy powerful and low cost servers to run nodes or to scale their application."
+logline: "Akash is an open, decentralized marketplace and a deployment platform for cloud compute. Akash is integrating their serverless supercloud infrastructure into Solana to allow users to easily deploy powerful and low cost servers to run nodes or to scale their application."
 cta: "https://akash.network"
 logo: /img/akash.svg
 category: infra
 status: building
+Website: https://akash.network/
+Twitter: https://twitter.com/akashnet_
+Telegram: https://t.me/akashnw
+Discord: https://discord.com/invite/DxftX67
 ---
-
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.
 
 By interoperating with Solana, Akash users will soon be able to run secure and scalable smart contracts on Solana’s hyper-performance platform and pay using Akash Token (AKT). Solana’s users will also soon be able to run distributed applications and settle using the Solana token (SOL) on Akash. Additionally, Akash will provide support for Solana’s validators to run nodes in highly secure and scalable environments.

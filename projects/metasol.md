@@ -6,6 +6,10 @@ logline: "MetaSOL allows meta transactions on the Solana network."
 cta: "https://metasol.xyz/"
 category: app
 logo: /img/metasol.svg
+Website: https://metasol.xyz/
+Twitter: https://twitter.com/sol_meta
+Telegram: https://t.co/A3mh7pGK6M?amp=1
+Discord: https://discord.gg/invite/HsVP3KP3VD
 ---
 
 To transfer assets on the Solana network, the user has to hold SOL. While some users might have sufficient SOL in their wallets, for new users this can be a source pain. To obtain SOL the users have to go through centralized exchanges which takes considerable time and effort. Also, some users might not want to hold SOL in their wallets due to its volatile nature.

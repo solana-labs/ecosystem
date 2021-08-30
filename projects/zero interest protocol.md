@@ -7,6 +7,9 @@ cta: "https://twitter.com/zerointerestfi"
 category: defi, stablecoin
 logo: /img/zerointerestprotocol.svg
 status: Building
+Website: https://www.zeropercenter.org/
+Twitter: https://twitter.com/zerointerestfi
+Telegram: https://t.me/zerointerest
 ---
 
 In summary, our protocol is designed after Liquity on Ethereum. It will incorporate two tokens; a stablecoin and a secondary token.

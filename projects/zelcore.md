@@ -7,10 +7,12 @@ cta: "https://zelcore.io"
 logo: /img/zelcore.svg
 category: wallet, spl, defi, dex
 status: live
+Website: https://zelcore.io
+Twitter: https://twitter.com/zelcore_io
+Telegram: https://t.me/zelhub
+Discord: https://discord.com/invite/gVt4Xjjb8h
 ---
 
 Zelcore is a multi asset non-custodial platform available on both desktop and mobile.
 
-Integration of Solana ecosystem consist on multiple levels. As a wallet, user can store and manage Solana, many SPL tokens with availability to import any custom SPL token. Zelcore natively supports
-Solana's native wrapping options and can interact with any dApp with built in Solana Wallet adapter on link.zelcore.io solution. Moreover Zelcore recently added full fledged Serum DEX directly into
-the Zelcore platform available on both desktop and mobile.
+Integration of Solana ecosystem consist on multiple levels. As a wallet, user can store and manage Solana, many SPL tokens with availability to import any custom SPL token. Zelcore natively supports Solana's native wrapping options and can interact with any dApp with built in Solana Wallet adapter on link.zelcore.io solution. Moreover Zelcore recently added full fledged Serum DEX directly into the Zelcore platform available on both desktop and mobile.
