@@ -2,9 +2,11 @@
 slug: "dogsontheblock"
 date: "2021-08-22"
 title: "Dogs on the Block"
-logline: "Dogs on the Block is an NFT project with 10000 different hand drawn dogs featuring unique attributes and characteristics"
+logline: "Dogs on the Block is an NFT project with 10,000 different hand drawn dogs featuring unique attributes and characteristics"
 cta: "https://dogsontheblock.art/"
-logo: https://www.linkpicture.com/q/Dogsontheblock.svg
+logo: /img/dogsontheblock.png
 category: nft
 status: building
 ---
+
+Dogs on the Block is an NFT project with 10,000 different hand drawn dogs featuring unique attributes and characteristics.
