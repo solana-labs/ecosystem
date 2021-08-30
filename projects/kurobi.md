@@ -6,7 +6,7 @@ logline: "A seamless tool for experts to host video calls with guests worldwide"
 cta: "https://kurobi.io/"
 logo: /img/kurobi.svg
 category: web3, app
-status: Building/
+status: Building
 Website: https://kurobi.io	
 Twitter: https://twitter.com/kurobi_io
 Telegram: https://t.me/kurobi_io		
