@@ -7,7 +7,7 @@ cta: "https://twitter.com/official_fabric"
 category: defi
 logo: /img/fabric.svg
 status: Building
-Website: https://fsynth.io/  https://stake.fsynth.io/#/
+Website: https://fsynth.io/
 Twitter: https://twitter.com/official_fabric
 Discord: https://discord.com/invite/RBxJrKd3X6
 ---
