@@ -10,4 +10,4 @@ website: https://www.sollet.io/
 twitter: https://twitter.com/phantom
 discord: https://discord.com/invite/D2XwQGgJV8
 ---
-Sollet is an opensource wallet for users and developers.
+Sollet is an open source wallet for users and developers.
