@@ -6,7 +6,7 @@ logline: "Trusted & Secure Validator. 100% focused on Solana. Alpha Pro helps in
 website: "https://www.alphapro.io/"
 category: infra,tools
 twitter: "https://twitter.com/AlphaPro_io"
-logo: /img/alphapro.svg
+logo: /img/alpha pro.svg
 status: live
 ---
 

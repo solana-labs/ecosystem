@@ -13,4 +13,8 @@ Telegram: https://t.me/switchboardxyz
 Discord: https://discord.com/invite/sNeGymrabT
 ---
 
-Switchboard is building community curated oracle feeds on Solana. We want to enable anyone in the SOL community to push any form of data, whether financial time series or non-financial event-based data, on-chain and to help power the next generation of decentralized applications.
+Switchboard is a generalized, community curated oracle network designed
+to incentivize bringing the long tail of data on-chain. Harnessing the
+wisdom of crowds, Switchboard creates a market of curators incentivized
+to organize unique off-chain data sources and publishers to decentralize
+quantitative data feeds.
