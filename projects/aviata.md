@@ -4,7 +4,7 @@ date: 2021-03-22
 title: "Aviata"
 logline: "Aviata is an open-source Decentralized Automated Flight Cancellation Insurance protocol."
 cta: "https://github.com/Aviata-Protocol"
-logo: /img/aviata.svg
+logo: /img/ata.svg
 category: DeFi
 status: closed
 website: https://aviata.xyz/
