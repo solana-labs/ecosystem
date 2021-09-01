@@ -5,7 +5,7 @@ title: "badger finance"
 logline: "Badfer Finance is a community DAO."
 cta: "https://badger.finance/"
 logo: /img/badger.jpg
-category: app, products 
+category: app, defi 
 status: building
 Website: https://badger.finance/
 Twitter: https://twitter.com/BadgerDAO
