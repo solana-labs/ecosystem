@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Manage all of your Solana assets in one place"
 website: "https://sol.surf/"
 category: app
-twitter: https://twitter.com/SurfSolana/
+cta: https://twitter.com/SurfSolana/
 logo: /img/surf.svg
 status: live
 Website: https://sol.surf/

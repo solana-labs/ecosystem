@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Cryptocurrency investment platform. Instantly buy popular indices, manage your portfolio, and access trading algorithms."
 website: "https://stackedinvest.com/"
 category: exchange
-twitter: https://twitter.com/stackedcrypto
+cta: https://twitter.com/stackedcrypto
 logo: /img/stacked crypto.svg
 status: live
 Website: https://stackedinvest.com/

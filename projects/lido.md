@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Lido is a liquid staking solution"
 website: "https://lido.fi/"
 category: app
-twitter: https://twitter.com/lidofinance
+cta: https://twitter.com/lidofinance
 logo: /img/lido.svg
 status: live
 Website: https://lido.fi/

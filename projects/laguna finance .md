@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Solana's Premier Asset Management Ecosystem"
 website: "https://www.laguna.finance/"
 category: app
-twitter: https://twitter.com/Laguna_Finance
+cta: https://twitter.com/Laguna_Finance
 logo: /img/lagunafinance.svg
 status: live
 Twitter: https://twitter.com/Laguna_Finance

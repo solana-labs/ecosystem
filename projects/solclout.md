@@ -4,7 +4,7 @@ title: "Solclout"
 date: 2021-07-25
 logline: "Social DeFi Platform built on Solana."
 category: defi
-twitter: https://twitter.com/Solclout
+cta: https://twitter.com/Solclout
 logo: /img/solclout.svg
 status: live
 Website: https://solclout.com/

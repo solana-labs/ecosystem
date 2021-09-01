@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "Router Protocol is the best crosschain liquidity aggregator and it is the future of Smart Order Routing."
 website: "https://www.routerprotocol.com/"
 category: defi
-twitter: https://twitter.com/routerprotocol
+cta: https://twitter.com/routerprotocol
 logo: /img/router protocol.svg
 status: live
 Website: https://www.routerprotocol.com/

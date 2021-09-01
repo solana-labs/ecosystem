@@ -5,7 +5,7 @@ date: 2021-07-25
 logline: "The easiest way to stake your tokens. "
 website: "https://marinade.finance/#/"
 category: AMM
-twitter: https://twitter.com/MarinadeFinance
+cta: https://twitter.com/MarinadeFinance
 logo: /img/marinade.svg
 status: live
 Website: https://marinade.finance/#/

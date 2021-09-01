@@ -4,7 +4,7 @@ title: "SolPunks"
 date: 2021-07-25
 logline: "Punks on Solana."
 category: nft
-twitter: https://twitter.com/PunksOnSolana
+cta: https://twitter.com/PunksOnSolana
 logo: /img/solpunks.svg
 status: live
 Website: https://solpunks.com/
