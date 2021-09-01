@@ -4,7 +4,7 @@ date: "yyyy-mm-dd"
 title: "Apeshit Social"
 logline: "Apeshit is a charity social club."
 cta: "https://apeshit.social/"
-logo: /img/<filename>.svg
+logo: /img/apeshit.png
 category: metaplex, nft
 Website: https://apeshit.social/
 Twitter: https://twitter.com/apeshitsocial
