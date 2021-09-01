@@ -4,7 +4,7 @@ date: "2020-9-15"
 title: "badger finance"
 logline: "Badfer Finance is a community DAO."
 cta: "https://badger.finance/"
-logo: /img/badger.svg
+logo: /img/badger.jpg
 category: app, products 
 status: building
 Website: https://badger.finance/
