@@ -4,7 +4,7 @@ date: ""
 title: "Abstratica"
 logline: "Deep Neutral Networks generative arts."
 cta: "https://abstratica.holaplex.com/#/"
-logo: /img/abstratica.svg
+logo: /img/abstratica.jpg
 category: metaplex, nft
 Website: https://www.abstratica.art/
 Twitter: https://twitter.com/abstraticanft
