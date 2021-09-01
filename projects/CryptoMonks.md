@@ -10,4 +10,5 @@ status: live
 Website: https://cryptomonks.holaplex.com/
 Twitter: https://twitter.com/cryptomonx
 ---
+
 Crypto monks is Zen-monks NFTS built on Solana.

@@ -8,7 +8,8 @@ logo: /img/<filename>.svg
 category: metaplex, nft
 Website: https://apeshit.social/
 Twitter: https://twitter.com/apeshitsocial
-Telegram: 
+Telegram:
 Discord: https://discord.com/invite/apeshit
 ---
+
 Apeshit is a charity social club built on Solana.

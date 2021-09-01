@@ -12,4 +12,5 @@ Twitter: https://twitter.com/BoringProtocol
 Telegram: https://t.me/tunnelgram
 Discord: https://discord.com/invite/ZrdHfMWg2w
 ---
+
 Boring is a decentralized virtual private network and peer to peer bandwidth market built on the Solana Network, providing economic incentive for node providers with transparent programs for privacy to network users.

@@ -10,4 +10,5 @@ Website: https://www.abstratica.art/
 Twitter: https://twitter.com/abstraticanft
 Discord: https://discord.com/invite/Jhc8hg7Fy3
 ---
+
 Abstratica is a deep Neutral Networks generative arts.
