@@ -3,7 +3,7 @@ slug: "solanaamc"
 date: "2021-08-31"
 title: "Solana AMC"
 logline: "High Growth and Low Risk, Smartest AMC on Fastest Blockchain"
-cta: "https://solanaamc.web.app/"
+cta: "https://solamc.web.app/"
 logo: /img/solanaamc.svg
 category: app, investmentfund
 status: building
