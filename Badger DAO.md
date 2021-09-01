@@ -4,7 +4,7 @@ date: "2020-08-01"
 title: "Badger DAO"
 logline: "Badger DAO is building the products to bring BTC to DeFi."
 cta: "https://badger.finance/"
-logo: /img/badger.svg
+logo: /img/badger.jpg
 category: metaplex, nft
 status: building
 Website: https://badger.finance/
