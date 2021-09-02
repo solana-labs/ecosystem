@@ -1,6 +1,6 @@
 ---
 slug: "gamer plex"
-date: "yyyy-mm-dd"
+date: "2020-04-01"
 title: "gamer plex"
 logline: "GAMERPLEX is a NFT marketplace based on the Solana network."
 cta: "https://www.gamerplex.io/#/"

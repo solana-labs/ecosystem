@@ -1,10 +1,10 @@
 ---
 slug: "crypto monks"
-date: "yyyy-mm-dd"
+date: "2021-07-01"
 title: "crypto monks"
 logline: "Zen-monks NFTS on Solana."
 cta: "https://cryptomonks.holaplex.com/"
-logo: /img/<filename>.svg
+logo: /img/cryptomonks.svg
 category: metaplex, nft
 status: live
 Website: https://cryptomonks.holaplex.com/
