@@ -1,6 +1,6 @@
 ---
 slug: "Apeshit Social"
-date: "yyyy-mm-dd"
+date: "2021-07-02"
 title: "Apeshit Social"
 logline: "Apeshit is a charity social club."
 cta: "https://apeshit.social/"

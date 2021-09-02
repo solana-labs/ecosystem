@@ -1,6 +1,6 @@
 ---
 slug: "Abstratica"
-date: ""
+date: "2021-07-02"
 title: "Abstratica"
 logline: "Deep Neutral Networks generative arts."
 cta: "https://abstratica.holaplex.com/#/"

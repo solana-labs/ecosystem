@@ -1,6 +1,6 @@
 ---
 slug: "cryptokickers"
-date: "yyyy-mm-dd"
+date: "2021-07-05"
 title: "Crypto Kickers"
 logline: "Crypto kickers is a footwear for the new World and it is a Sol selector on Solana and verified on OpenSea."
 cta: "https://www.cryptokickers.com"
