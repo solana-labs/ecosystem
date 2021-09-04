@@ -6,7 +6,7 @@ logline: "Solgis Breed Club is a collection of the 10,000 cutest, randomly gener
 cta: "https://twitter.com/Solgis_NFT"
 category: nft
 logo: /img/solgis.jpg
-status: building
+status: live
 Website: https://solgisbreed.club
 Twitter: https://twitter.com/Solgis_NFT
 Discord: https://discord.com/invite/HXfWH7WC7f
