@@ -11,6 +11,7 @@ twitter: https://twitter.com/parsiq_net
 telegram: https://t.me/parsiq_group
 discord: https://discord.com/invite/RXRTx4dGwQ
 ---
+
 PARSIQ is a blockchain monitoring and automation work platform that can act as a multi-layer bridge between blockchain and off-chain applications. The function of PARSIQ can automate the blockchain analysis and monitoring process, and provide a customizable workflow with real-time intelligence.
 
 PARSIQ announced their integration with the Solana blockchain on February 26th, 2021. With PARSIQ now integrated into Solana, users on the Solana network can now reap all the benefits from the PARSIQ ecosystem. Using PARSIQ’s push-based data-stream aggregator that adds a programmability level on top of real time data-streams. PARSIQ allows users to combine independent data streams and write arbitrary scenarios in reactive style using our easy scripting language.

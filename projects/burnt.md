@@ -8,8 +8,9 @@ category: app
 logo: /img/burnt.svg
 status: building
 Website: https://burnt.com/
-Twitter: https://twitter.com/BurntFinance	
+Twitter: https://twitter.com/BurntFinance
 Telegram: https://t.me/burntfinance
-Discord: https://discord.com/invite/burntfinance			
+Discord: https://discord.com/invite/burntfinance
 ---
+
 Burnt Finance is a Solana-based non-fungible token (NFT) minting and auction protocol. Burnt provides an intuitive interface for minting new assets. These assets can be synthetics, NFTs, and even new digital assets. In less than a few minutes, a user can mint a new asset and setup an entirely decentralized auction.

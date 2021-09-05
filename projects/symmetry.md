@@ -7,7 +7,7 @@ cta: "https://twitter.com/symmetry_fi"
 logo: /img/symmetry.svg
 category: defi
 status: building
-Website: https://symmetry.fi/	
+Website: https://symmetry.fi/
 Twitter: https://twitter.com/symmetry_fi
 Telegram: https://t.me/symmetry_fi
 Discord: https://discord.gg/ZvgMvfatsn

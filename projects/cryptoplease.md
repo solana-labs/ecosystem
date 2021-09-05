@@ -10,4 +10,5 @@ status: building
 website: https://cryptoplease.com/
 twitter: https://twitter.com/cryptopleasecom
 ---
+
 Leveraging Solana's fast transaction time and low fees, CryptoPlease allows anyone to pay and accept crypto for goods and services with added DeFi bonus. All of this is made possible without the need to create a complicated wallet, and the blockchain element is seamless and invisible to the end users. CryptoPlease is the beginning of a true mass adoption of crypto and DeFi for investors, users, and merchants worldwide.

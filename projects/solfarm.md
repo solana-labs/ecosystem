@@ -8,9 +8,10 @@ category: amm
 logo: /img/solfarm.svg
 status: live
 Website: https://solfarm.io/
-Twitter: https://twitter.com/Solfarmio	
+Twitter: https://twitter.com/Solfarmio
 Telegram: https://t.me/solfarm
-Discord: http://discord.gg/vCaEUjnc28		
+Discord: http://discord.gg/vCaEUjnc28
 ---
+
 SolFarm is the first yield aggregation platform built on Solana with auto-compounding vault strategies.
 The dApp (decentralized application) is designed to take advantage of Solana's low cost, high efficiency blockchain, allowing the vault strategies to compound frequently. This allows stakers to benefit from higher APYs without requiring active management.

@@ -9,4 +9,5 @@ category: wallet
 website: https://solongwallet.com/
 twitter: https://twitter.com/Solongwallet
 ---
+
 Solong is a slick new extension browser that allows users to interact with any application on Solana or in the Serum ecosystem. It also included the ability to mint new SPL tokens directly within the UI.

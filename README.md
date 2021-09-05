@@ -7,16 +7,16 @@ located at [solana.com/ecosystem](https://solana.com/ecosystem).
 
 # Contributing Guidelines
 
-A project is composed of two files: a Markdown file with headers, and an .svg 
+A project is composed of two files: a Markdown file with headers, and an 
 image. To add a new project to the ecosystem page, create both a new Markdown 
-file in the `projects` directory and add a new .svg image in the `img` directory.
+file in the `projects` directory and add a new image in the `img` directory.
 
 __!Important!__:
 Should your Project already exist within this repo, refrain from creating a new
 Markdown file in the `projects` directory! Rather adapt your old one in a new PR.
 Same goes for changed images or Logos for your Project.
 
-### Markdown Headers
+### Example File 
 
 ```
 ---
@@ -29,6 +29,9 @@ logo: /img/anchor.svg
 category: defi, tools
 status: building
 ---
+
+Anchor is a savings protocol that aims to produce a simple and
+convenient savings product with broad appeal to everyday users.
 ```
 
 Example Markdown headers are above. Below are guidelines for each field:
@@ -38,7 +41,7 @@ Example Markdown headers are above. Below are guidelines for each field:
 - `title`: The title of the project
 - `logline`: The one line summary of the project and its integration to Solana
 - `cta`: A URL to direct users to at the bottom of the page
-- `logo`: A relative path to the corresponding SVG image
+- `logo`: A relative path to the corresponding image
 - `category`: A comma separated list of categories describing the project
 - `status`: The status of the project: `live`, `building`, or `closed`
 
@@ -73,7 +76,8 @@ If you think there is need for another one to be added, ask so in your PR.
 
 ### Image Guidelines
 
-All .svg files must be 100x100px. Do not embed any excessive raster image files: svg filesizes over 500kb will be rejected.
+All image files must be 100x100px. Only .svg, .png, and .jpg and .jpeg
+files are accepted.
 
 ### Prettier
 

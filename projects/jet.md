@@ -6,10 +6,10 @@ logline: "Jet is a lending protocol built on the Solana blockchain with a focus 
 cta: "https://www.jetprotocol.io/"
 category: defi
 logo: /img/jet.svg
-Website: https://www.jetprotocol.io/		
+Website: https://www.jetprotocol.io/
 Twitter: https://twitter.com/jetprotocol
 Telegram: https://t.me/jetprotocol
-Discord: https://discord.com/invite/RW2hsqwfej		
+Discord: https://discord.com/invite/RW2hsqwfej
 ---
 
 Jet Protocol is a borrowing and lending protocol built on the Solana blockchain.

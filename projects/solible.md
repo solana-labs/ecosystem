@@ -11,4 +11,5 @@ twitter: https://twitter.com/bonfida
 telegram: https://t.me/bonfidatg
 discord: https://discord.com/invite/B4xzATxQHC
 ---
+
 Solible was the first NFT exchange to launch on Solana and Serum in October, 2020. Together with the help of Bonfida, Solible is continuing to build out their platform to offer more features and ways to interact with SPL Token NFT's.
