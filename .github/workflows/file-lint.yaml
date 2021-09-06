@@ -33,20 +33,20 @@ jobs:
 
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.19
+        uses: timhagn/lint-md-fm@v1.0.20
         with:
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
           directories: |
             projects
             img
           markdown-extensions: |
-            md
-            mdx
+            .md
+            .mdx
           image-extensions: |
-            png
-            svg
-            jpg
-            jpeg
+            .png
+            .svg
+            .jpg
+            .jpeg
 
       # Use the output from the `hello` step
       - name: Display changed files
