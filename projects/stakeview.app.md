@@ -9,4 +9,4 @@ category: explorer
 status: live
 ---
 
-StakeView.app is a service that ranks Solana validators by returns.  It gives up-to-date information on current and historical financial performance of Solana validators.  This information can be used in determining which Solana validator or validators to delegate stake to.
+StakeView.app is a service that ranks Solana validators by returns. It gives up-to-date information on current and historical financial performance of Solana validators. This information can be used in determining which Solana validator or validators to delegate stake to.
