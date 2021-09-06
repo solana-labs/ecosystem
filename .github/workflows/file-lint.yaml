@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - add-linting-action
 
 jobs:
   file-lint:
