@@ -5,7 +5,7 @@ title: "StakeView.app"
 logline: "StakeView.app is a dashboard that shows each Solana validator by true and accurate staking returns."
 cta: "https://stakeview.app"
 logo: /img/stakeviewapp.svg
-category: explorer 
+category: explorer
 status: live
 ---
 
