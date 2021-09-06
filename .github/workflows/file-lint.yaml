@@ -36,8 +36,10 @@ jobs:
           directories: |
             projects
             img
-          extensions: |
+          markdown-extensions: |
             md
+            mdx
+          image-extensions: |
             png
             svg
             jpg
