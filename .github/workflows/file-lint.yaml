@@ -1,0 +1,39 @@
+name: Lint PR
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  file-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+#        with:
+#          ref: ${{ github.head_ref }}
+
+      - name: Get list of changed files
+        uses: AvraamMavridis/files-changed-action@v3
+        id: changed_files
+
+      # Use the output from the `hello` step
+      - name: Display changed files
+        run: echo "Changed files are ${{ steps.changed_files.outputs.CHANGED_FILES }}"
+
+      # Use the output from the `hello` step
+      - name: Display changed files
+        run: echo "Changed files are ${{ steps.lint.outputs.changed }}"
+
+      - name: Lint Current PR
+        id: lint
+        uses: timhagn/lint-md-fm@v1.0.5
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Use the output from the `hello` step
+      - name: Display changed files
+        run: echo "Changed files are ${{ steps.lint.outputs.changed }}"
