@@ -17,16 +17,12 @@ jobs:
 #          ref: ${{ github.head_ref }}
 
       - name: Get list of changed files
-        uses: AvraamMavridis/files-changed-action@v3
         id: changed_files
+        uses: AvraamMavridis/files-changed-action@v3
 
       # Use the output from the `hello` step
       - name: Display changed files
         run: echo "Changed files are ${{ steps.changed_files.outputs.CHANGED_FILES }}"
-
-      # Use the output from the `hello` step
-      - name: Display changed files
-        run: echo "Changed files are ${{ steps.lint.outputs.changed }}"
 
       - name: Lint Current PR
         id: lint
