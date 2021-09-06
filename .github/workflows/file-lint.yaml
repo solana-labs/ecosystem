@@ -22,7 +22,6 @@ jobs:
         with:
           separator: ","
 
-
       - name: List all modified files
         run: |
           for file in "${{ steps.changed_files.outputs.all_modified_files }}"; do
@@ -31,11 +30,18 @@ jobs:
 
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.7
+        uses: timhagn/lint-md-fm@v1.0.9
         with:
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          directories: |
+            projects
+            img
+          extensions: |
+            md
+            png
+            svg
+            jpg
+            jpeg
 
       # Use the output from the `hello` step
       - name: Display changed files
