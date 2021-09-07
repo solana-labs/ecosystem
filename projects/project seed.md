@@ -7,10 +7,10 @@ cta: "https://ProjectSeed.io"
 category: app
 logo: /img/projectseed.svg
 status: Building
-Website: https://projectseed.io/
-Twitter: https://twitter.com/ProjectSeedGame
-Telegram: https://t.me/projectseed
-Discord: https://discord.gg/wDSyjZ7HvH
+website: https://projectseed.io/
+twitter: https://twitter.com/ProjectSeedGame
+telegram: https://t.me/projectseed
+discord: https://discord.gg/wDSyjZ7HvH
 ---
 
 Project SEED is one of the first gaming platforms built on the Solana blockchain. Project SEED ecosystem includes a Game Studio, DEX, NFT marketplace, and a wallet. Project SEED aims to bring one of the world's first blockchain gaming to players in mobile phones and devices.

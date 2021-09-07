@@ -7,10 +7,10 @@ cta: "https://twitter.com/AuroryProject"
 category: app
 logo: /img/aurory.svg
 status: building
-Website: https://aurory.io/
-Twitter: https://twitter.com/AuroryProject
-Telegram: https://t.me/aurory_project
-Discord: https://discord.com/invite/6pwfrRtw2G
+website: https://aurory.io/
+twitter: https://twitter.com/AuroryProject
+telegram: https://t.me/aurory_project
+discord: https://discord.com/invite/6pwfrRtw2G
 ---
 
 Aurory will be a gaming platform based on the play to earn mechanism. We strongly believe that this is the path for the future of gaming, flowing from pay to play, free to play and finally landing where we are heading, playing to earn.

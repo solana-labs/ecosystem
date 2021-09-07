@@ -7,10 +7,10 @@ cta: "https://zelcore.io"
 logo: /img/zelcore.svg
 category: wallet, spl, defi, dex
 status: live
-Website: https://zelcore.io
-Twitter: https://twitter.com/zelcore_io
-Telegram: https://t.me/zelhub
-Discord: https://discord.com/invite/gVt4Xjjb8h
+website: https://zelcore.io
+twitter: https://twitter.com/zelcore_io
+telegram: https://t.me/zelhub
+discord: https://discord.com/invite/gVt4Xjjb8h
 ---
 
 Zelcore is a multi asset non-custodial platform available on both desktop and mobile.

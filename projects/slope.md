@@ -6,9 +6,9 @@ logline: "Slope is the first Serum-based mobile DEX APP with a decentralized aut
 category: wallet
 logo: /img/slope.svg
 status: live
-Website: https://slope.finance/#/
-Twitter: https://twitter.com/slope_finance
-Discord: https://discord.com/invite/3n6vg89v3M
+website: https://slope.finance/#/
+twitter: https://twitter.com/slope_finance
+discord: https://discord.com/invite/3n6vg89v3M
 ---
 
 Slope is a community based decentralized exchange built on Solana. It provides blazing-fast speed,

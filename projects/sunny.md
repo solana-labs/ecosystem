@@ -15,5 +15,5 @@ Sunny is a composable DeFi yield aggregator powered by Solana. The Sunny Protoco
 
 - [Sunny App](https://app.sunny.ag/)
 - [Sunny Blog](https://medium.com/@sunnyaggregator)
-- [Twitter: @sunnyaggregator](https://twitter.com/SunnyAggregator)
+- [twitter: @sunnyaggregator](https://twitter.com/SunnyAggregator)
 - [Sunny Discord Server](https://chat.sunny.ag/)
