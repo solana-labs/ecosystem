@@ -1,12 +1,15 @@
 ---
-slug: "cryptomafia"
+slug: cryptomafia
 date: "2021-08-31"
-title: "Cryptomafia"
-logline: "The world's favorite party game meets Solana. Reimagine classic mafia with real stakes games and exclusive NFT minting events."
+title: Cryptomafia
+logline: >-
+  The world's favorite party game meets Solana. Reimagine classic mafia with
+  real stakes games and exclusive NFT minting events.
 cta: "https://cryptomafia.gg"
 logo: /img/cryptomafia.svg
-category: app, nfts
-status: "live"
+category: "app, nfts"
+status: live
+twitter: "https://twitter.com/cryptomafiagg"
 ---
 
 Cryptomafia is re-imagining the world's favorite party game, mafia, on blockchain by utilizing smart contracts to enable real-money wagered games and tournaments.

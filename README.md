@@ -87,10 +87,6 @@ If you think there is need for another one to be added, ask so in your PR.
 All image files must be 100x100px. Only .svg, .png, and .jpg and .jpeg
 files are accepted.
 
-### Prettier
-
-Before submitting a PR, please run Prettier on any files with changes.
-
 ## Questions
 
 Have any questions? Email [ryan@solana.com](mailto:ryan@solana.com) or find me on [Discord](https://solana.com/discord)!

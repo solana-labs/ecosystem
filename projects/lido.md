@@ -8,7 +8,6 @@ category: app
 cta: https://twitter.com/lidofinance
 logo: /img/lido.svg
 status: live
-website: https://lido.fi/
 twitter: https://twitter.com/lidofinance
 telegram: https://t.me/lidofinance
 discord: https://discord.gg/vgdPfhZ

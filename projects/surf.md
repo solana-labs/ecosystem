@@ -8,7 +8,6 @@ category: app
 cta: https://twitter.com/SurfSolana/
 logo: /img/surf.svg
 status: live
-website: https://sol.surf/
 twitter: https://twitter.com/SurfSolana/
 discord: https://discord.gg/tHUyebe7ZE
 ---

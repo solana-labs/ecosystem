@@ -7,7 +7,6 @@ website: "https://www.rpcpool.com/"
 category: infra
 logo: /img/rpcpool.svg
 status: live
-website: https://www.rpcpool.com/
 twitter: https://twitter.com/rpcpool
 telegram: https://t.me/joinchat/K0ONdq7fE4s0Mjdl
 discord: https://discord.gg/E7XfrfkT

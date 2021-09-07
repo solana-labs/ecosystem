@@ -7,7 +7,6 @@ website: "https://solv.finance/"
 category: defi
 logo: /img/solv protocol.svg
 status: live
-website: https://solv.finance/
 twitter: https://twitter.com/SolvProtocol/
 telegram: https://t.me/SolvProtocol
 ---

@@ -8,7 +8,6 @@ category: defi
 cta: https://twitter.com/routerprotocol
 logo: /img/router protocol.svg
 status: live
-website: https://www.routerprotocol.com/
 twitter: https://twitter.com/routerprotocol
 telegram: https://t.me/routerprotocol
 ---

@@ -8,7 +8,6 @@ category: AMM
 cta: https://twitter.com/MarinadeFinance
 logo: /img/marinade.svg
 status: live
-website: https://marinade.finance/#/
 twitter: https://twitter.com/MarinadeFinance
 discord: https://discord.com/invite/mGqZA5pjRN
 ---

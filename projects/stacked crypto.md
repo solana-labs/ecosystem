@@ -8,7 +8,6 @@ category: exchange
 cta: https://twitter.com/stackedcrypto
 logo: /img/stacked crypto.svg
 status: live
-website: https://stackedinvest.com/
 twitter: https://twitter.com/stackedcrypto
 ---
 
