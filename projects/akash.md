@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Akash"
 logline: "Akash is an open, decentralized marketplace and a deployment platform for cloud compute. Akash is integrating their serverless supercloud infrastructure into Solana to allow users to easily deploy powerful and low cost servers to run nodes or to scale their application."
 cta: "https://akash.network"
-logo: /img/akash_.svg
+logo: /img/akash.svg
 category: infra
 status: building
 website: https://akash.network/
