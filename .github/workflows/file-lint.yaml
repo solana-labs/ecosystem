@@ -48,6 +48,6 @@ jobs:
             .jpg
             .jpeg
 
-      # Use the output from the `hello` step
+      # Use the output from the `lint` step
       - name: Display changed files
         run: echo "Changed files are ${{ steps.lint.outputs.changed }}"
