@@ -7,9 +7,9 @@ cta: "https://twitter.com/official_fabric"
 category: defi
 logo: /img/fabric.svg
 status: Building
-Website: https://fsynth.io/
-Twitter: https://twitter.com/official_fabric
-Discord: https://discord.com/invite/RBxJrKd3X6
+website: https://fsynth.io/
+twitter: https://twitter.com/official_fabric
+discord: https://discord.com/invite/RBxJrKd3X6
 ---
 
 FABRIC is built on the Solana Ecosystem that leverages the Serum DEX GUI to allow users to trade FAB.

@@ -7,10 +7,10 @@ cta: "https://solfarm.io/"
 category: amm
 logo: /img/solfarm.svg
 status: live
-Website: https://solfarm.io/
-Twitter: https://twitter.com/Solfarmio
-Telegram: https://t.me/solfarm
-Discord: http://discord.gg/vCaEUjnc28
+website: https://solfarm.io/
+twitter: https://twitter.com/Solfarmio
+telegram: https://t.me/solfarm
+discord: http://discord.gg/vCaEUjnc28
 ---
 
 SolFarm is the first yield aggregation platform built on Solana with auto-compounding vault strategies.

@@ -8,9 +8,8 @@ category: app
 cta: https://twitter.com/SurfSolana/
 logo: /img/surf.svg
 status: live
-Website: https://sol.surf/
-Twitter: https://twitter.com/SurfSolana/
-Discord: https://discord.gg/tHUyebe7ZE
+twitter: https://twitter.com/SurfSolana/
+discord: https://discord.gg/tHUyebe7ZE
 ---
 
 The simplest way to track your active investments and open liabilities on Serum.
