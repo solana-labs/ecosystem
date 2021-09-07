@@ -10,4 +10,4 @@ status: live
 twitter: https://twitter.com/FTX_Official
 ---
 
-FTX (formerly Blockfolio) is the world’s most popular Bitcoin & cryptocurrency portfolio tracker. Supports the buying and trading of USDC-SPL. 
+FTX (formerly Blockfolio) is the world’s most popular Bitcoin & cryptocurrency portfolio tracker. Supports the buying and trading of USDC-SPL.

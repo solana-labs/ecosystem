@@ -12,4 +12,4 @@ twitter: https://twitter.com/cryptokickers
 discord: https://discord.com/invite/vmXvKcx2QQ
 ---
 
-Create, customize, and mint your own NFT sneakers directly on the Solana blockchain. 
+Create, customize, and mint your own NFT sneakers directly on the Solana blockchain.
