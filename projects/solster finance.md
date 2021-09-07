@@ -7,9 +7,9 @@ cta: "https://twitter.com/solster_finance"
 category: amm, defi, dex, spl, exchange
 logo: /img/solsterfinance.svg
 status: Building
-Website: https://solster.finance/
-Twitter: https://twitter.com/solster_finance
-Telegram: https://t.me/solster_finance_chat
+website: https://solster.finance/
+twitter: https://twitter.com/solster_finance
+telegram: https://t.me/solster_finance_chat
 ---
 
 Solster Finance is an ecosystem that helps investors to diversify their decentralized finances. Solster IDO Launchpad is a decentralized platform for fundraising which is built on the Solana blockchain with guaranteed token allocation to participants.

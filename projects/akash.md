@@ -7,10 +7,10 @@ cta: "https://akash.network"
 logo: /img/akash_.svg
 category: infra
 status: building
-Website: https://akash.network/
-Twitter: https://twitter.com/akashnet_
-Telegram: https://t.me/akashnw
-Discord: https://discord.com/invite/DxftX67
+website: https://akash.network/
+twitter: https://twitter.com/akashnet_
+telegram: https://t.me/akashnw
+discord: https://discord.com/invite/DxftX67
 ---
 
 Akash is focused on delivering a permissionless, sovereign and open cloud where architects and builders of the internet have greater access, freedom, and agency to create products that improve the human experience.

@@ -1,12 +1,13 @@
 ---
-slug: "solstar"
+slug: solstar
 date: "2021-07-29"
-title: "SolStar"
-logline: "Supercharge your community with crypto."
+title: SolStar
+logline: Supercharge your community with crypto.
 cta: "https://solstar.finance"
 logo: /img/solstar.svg
-category: app,amm,defi,spl,tools,wallet,dex,exchange
+category: "app,amm,defi,spl,tools,wallet,dex,exchange"
 status: building
+twitter: "https://twitter.com/SolStarFinance"
 ---
 
 SolStar is a platform for creating and organizing token-powered communities, powered by Solana.

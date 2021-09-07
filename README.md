@@ -26,8 +26,12 @@ title: "Anchor"
 logline: "Anchor is a savings protocol that aims to produce a simple and convenient savings product with broad appeal to everyday users."
 cta: "https://anchorprotocol.com/"
 logo: /img/anchor.svg
-category: defi, tools
+category: defi
 status: building
+website: https://anchorprotocol.com/
+twitter: https://twitter.com/anchor_protocol
+telegram: https://t.me/anchor_official
+discord: https://discord.com/invite/9aUYgpKZ9c
 ---
 
 Anchor is a savings protocol that aims to produce a simple and
@@ -36,14 +40,18 @@ convenient savings product with broad appeal to everyday users.
 
 Example Markdown headers are above. Below are guidelines for each field:
 
-- `slug`: The page URL that follows after solana.com/ecosystem/
-- `date`: The date of project addition
-- `title`: The title of the project
-- `logline`: The one line summary of the project and its integration to Solana
-- `cta`: A URL to direct users to at the bottom of the page
-- `logo`: A relative path to the corresponding image
-- `category`: A comma separated list of categories describing the project
-- `status`: The status of the project: `live`, `building`, or `closed`
+- **(required)** `slug`: The page URL that follows after solana.com/ecosystem/
+- **(required)** `date`: The date of project addition
+- **(required)** `title`: The title of the project
+- **(required)** `logline`: The one line summary of the project and its integration to Solana
+- **(required)** `cta`: A URL to direct users to at the bottom of the page
+- **(required)** `logo`: A relative path to the corresponding image
+- **(enforced)** `category`: A comma separated list of categories describing the project
+- **(required)** `status`: The status of the project: `live`, `building`, or `closed`
+- **(optional)** `website`: URL to the website (optional)
+- **(required)** `twitter`: URL to Twitter page (required)
+- **(optional)** `telegram`: URL to Telegram channel (optional)
+- **(optional)** `discord`: URL to Discord invite (optional)
 
 ### Categories
 
@@ -78,10 +86,6 @@ If you think there is need for another one to be added, ask so in your PR.
 
 All image files must be 100x100px. Only .svg, .png, and .jpg and .jpeg
 files are accepted.
-
-### Prettier
-
-Before submitting a PR, please run Prettier on any files with changes.
 
 ## Questions
 

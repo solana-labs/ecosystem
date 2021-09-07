@@ -6,8 +6,8 @@ logline: "Solarium is a fully decentralised, end-to-end encrypted instant messen
 category: app
 logo: /img/solarium.svg
 status: live
-Website: https://solarium.chat/
-Twitter: https://twitter.com/solariume2e
+website: https://solarium.chat/
+twitter: https://twitter.com/solariume2e
 ---
 
 Solarium is a fully decentralised, end-to-end encrypted, censorship-resistant instant messenger based on the Solana blockchain. Solarium is currently in alpha phase, running on the Solana devnet.

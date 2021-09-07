@@ -7,10 +7,10 @@ cta: https://twitter.com/BitspawnGG
 category: app
 logo: /img/bitspawnprotocol.svg
 status: building
-Website: https://bitspawn.io
-Twitter: https://twitter.com/BitspawnGG
-Telegram: https://t.me/bitspawngg
-Discord: https://discord.com/invite/bitspawn
+website: https://bitspawn.io
+twitter: https://twitter.com/BitspawnGG
+telegram: https://t.me/bitspawngg
+discord: https://discord.com/invite/bitspawn
 ---
 
 Bitspawn is an open-source gaming protocol built with the goal of creating a global decentralized gaming economy and enabling the 2 billion plus gamers around the world to gain access to new streams of revenue and income outside the traditional areas of streaming and content.

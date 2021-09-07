@@ -7,9 +7,9 @@ cta: "https://kurobi.io/"
 logo: /img/kurobi.svg
 category: web3, app
 status: Building
-Website: https://kurobi.io
-Twitter: https://twitter.com/kurobi_io
-Telegram: https://t.me/kurobi_io
+website: https://kurobi.io
+twitter: https://twitter.com/kurobi_io
+telegram: https://t.me/kurobi_io
 ---
 
 Why Kurobi

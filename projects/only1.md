@@ -6,10 +6,10 @@ logline: "Only1 is a NFT powered social engagement platform built on Solana."
 cta: "https://twitter.com/only1nft"
 logo: /img/only1.svg
 category: nft
-Website: https://only1.io/
-Twitter: https://twitter.com/only1nft
-Telegram: https://t.me/only1nft
-Discord: https://discord.com/invite/sUu7KZwNCB
+website: https://only1.io/
+twitter: https://twitter.com/only1nft
+telegram: https://t.me/only1nft
+discord: https://discord.com/invite/sUu7KZwNCB
 ---
 
 Only1 is a NFT powered social engagement platform built on Solana.

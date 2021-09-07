@@ -7,10 +7,10 @@ cta: "https://blockasset.co/#/"
 logo: /img/blockasset.svg
 category: metaplex, nft, defi, tools
 status: live
-Website: https://blockasset.co/#/
-Twitter: https://twitter.com/blockassetco
-Telegram: https://t.me/blockassetofficial/
-Discord: https://discord.com/invite/ezRCfH52wu
+website: https://blockasset.co/#/
+twitter: https://twitter.com/blockassetco
+telegram: https://t.me/blockassetofficial/
+discord: https://discord.com/invite/ezRCfH52wu
 ---
 
 Block asset is a verified athlete NFT ecosystem. Block Asset is a one-stop platform to connect the athletes, agencies, and clubs to fans. Block asset leverage strategic relationships with athletes, agencies, and clubs and connect them to fans on a one-stop platform that will include an NFT marketplace, blockchain NFT ticketing, and blockchain NFT gaming.

@@ -7,10 +7,10 @@ cta: https://twitter.com/switchboardxyz
 category: oracle, infra, tools, spl, defi, app
 logo: /img/switchboard.svg
 status: Live
-Website: https://switchboard.xyz/
-Twitter: https://twitter.com/switchboardxyz
-Telegram: https://t.me/switchboardxyz
-Discord: https://discord.com/invite/sNeGymrabT
+website: https://switchboard.xyz/
+twitter: https://twitter.com/switchboardxyz
+telegram: https://t.me/switchboardxyz
+discord: https://discord.com/invite/sNeGymrabT
 ---
 
 Switchboard is a generalized, community curated oracle network designed

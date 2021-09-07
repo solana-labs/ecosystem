@@ -1,12 +1,13 @@
 ---
-slug: "ChihuahuaSol"
+slug: ChihuahuaSol
 date: "2021-08-22"
-title: "ChihuahuaSol"
+title: ChihuahuaSol
 logline: "Exclusive NFTs Built on #Solana"
 cta: "https://nft.chihuahuasol.com/"
 logo: /img/ChihuahuaSol.svg
 category: nft
 status: live
+twitter: "https://twitter.com/ChihuahuaSol"
 ---
 
 ChihuahuaSol an Exclusive NFTs Built on #Solana
