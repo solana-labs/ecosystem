@@ -7,6 +7,7 @@ cta: "https://www.arweave.org/"
 logo: /img/arweave.svg
 category: Infra
 status: building
+twitter: https://twitter.com/arweaveteam
 ---
 
 Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever – for the very first time.
