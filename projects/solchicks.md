@@ -1,6 +1,6 @@
 ---
 slug: "solchicks"
-date: "2020-04-03"
+date: "2021-09-06"
 title: "SolChicks"
 logline: "SolChicks allows you to discover rare collectibles and be rewarded for your playtime through a detailed, integrated ecosystem as one of the first NFT-driven gaming platforms built on the Solana blockchain."
 cta: "https://solchicks.io/"
