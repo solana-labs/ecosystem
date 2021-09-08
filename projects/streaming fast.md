@@ -7,10 +7,10 @@ cta: "https://streamingfast.io/"
 logo: /img/streamingfast.svg
 category: app
 status: live
-Website: https://dfuse.io/
-Twitter: https://twitter.com/dfuseio
-Telegram: https://t.me/dfuseAPI
-Discord: https://discord.com/invite/jZwqxJAvRs
+website: https://dfuse.io/
+twitter: https://twitter.com/dfuseio
+telegram: https://t.me/dfuseAPI
+discord: https://discord.com/invite/jZwqxJAvRs
 ---
 
 Streaming Fast is a blockchain API company that makes it possible to stream real-time state updates, conduct lightning-fast searches and provide irreversible transaction guarantees by simply using a simple API call. With the overarching goal of empowering developers to customize and deliver first-rate user experiences.

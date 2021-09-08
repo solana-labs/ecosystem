@@ -1,12 +1,13 @@
 ---
-slug: "aphid"
+slug: aphid
 date: "2021-08-18"
-title: "Aphid"
-logline: "The Aphid ecosystem utilizes the aBion token on Solana to power digital bots to work tasks to earn money for people."
+title: Aphid
+logline: The Aphid ecosystem utilizes the aBion token on Solana to power digital bots to work tasks to earn money for people.
 cta: "https://aphid.io/abion/"
 logo: /img/aphid.svg
 category: dapp
 status: building
+twitter: "https://twitter.com/aphidFS"
 ---
 
 By utilizing Artificial Intelligence, consumers and businesses leverage their time from the efforts of bots they control.

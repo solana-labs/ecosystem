@@ -6,9 +6,9 @@ logline: "Metaplex lets artists and creators launch their own self-hosted NFT st
 cta: "https://metaplex.com"
 logo: /img/metaplex.svg
 category: nft
-Website: https://www.metaplex.com/
-Twitter: https://twitter.com/metaplex
-Discord: https://discord.com/invite/metaplex
+website: https://www.metaplex.com/
+twitter: https://twitter.com/metaplex
+discord: https://discord.com/invite/metaplex
 ---
 
 Metaplex is a protocol built on top of Solana that allows: Creating and minting non-fungible tokens; starting a variety of auctions for primary/secondary sales, and Visualizing NFTs in a standard way across wallets and applications.
