@@ -6,10 +6,10 @@ logline: "Apeshit is a charity social club."
 cta: "https://apeshit.social/"
 logo: /img/apeshit.png
 category: metaplex, nft
-Website: https://apeshit.social/
-Twitter: https://twitter.com/apeshitsocial
-Telegram:
-Discord: https://discord.com/invite/apeshit
+website: https://apeshit.social/
+twitter: https://twitter.com/apeshitsocial
+telegram:
+discord: https://discord.com/invite/apeshit
 ---
 
 Apeshit is a charity social club built on Solana.

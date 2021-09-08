@@ -6,10 +6,10 @@ logline: "Bubl is a decentralized event hosting and ticketing built on the solan
 category: app
 logo: /img/bubl.svg
 status: live
-Website: https://www.bublhost.com/
-Twitter: https://twitter.com/bublhost
-Telegram: http://t.me/bublhost
-Discord: https://discord.com/invite/bubl
+website: https://www.bublhost.com/
+twitter: https://twitter.com/bublhost
+telegram: http://t.me/bublhost
+discord: https://discord.com/invite/bubl
 ---
 
 Decentralized event hosting and ticketing. Creating events and buying tickets is now safer and faster.

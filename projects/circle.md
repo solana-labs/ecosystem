@@ -8,9 +8,10 @@ logo: /img/usdc.svg
 category: stablecoin, spl
 status: live
 address: "https://explorer.solana.com/address/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+twitter: https://twitter.com/circlepay
 ---
 
-\$USDC is now integrated natively on Solana!
+$USDC is now integrated natively on Solana!
 
 Crypto traders and developers can now use USDC, one of the most popular stablecoins, on fast, scalable, and cost-effective rails provided by the Solana blockchain.
 

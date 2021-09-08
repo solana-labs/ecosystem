@@ -1,12 +1,13 @@
 ---
-slug: "SolDate"
+slug: SolDate
 date: "2021-07-04"
-title: "SolDate"
-logline: "A decentralized dating platform built on Solana."
+title: SolDate
+logline: A decentralized dating platform built on Solana.
 cta: "https://soldate.org/"
 logo: /img/soldate.svg
 category: app
 status: building
+twitter: "https://twitter.com/SolDate_org"
 ---
 
 SolDate is the first of its kind, decentralised online dating platform being built on Solana. SolDate will provide a secure platform to search for a partner ensuring total security and protection against privacy violations.
