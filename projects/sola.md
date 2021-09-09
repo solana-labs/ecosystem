@@ -2,8 +2,7 @@
 slug: sola-token
 date: "2021-09-09"
 title: SOLA Token
-logline: >-
-Decentralized exchange with significantly more efficient asset management and automatic liquidity distribution based on AMM.
+logline: Decentralized exchange with significantly more efficient asset management and automatic liquidity distribution based on AMM.
 cta: "https://solatoken.net/"
 logo: /img/solatoken.png
 category: "amm, dex, exchange, tools"
