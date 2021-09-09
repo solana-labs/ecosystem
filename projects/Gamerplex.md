@@ -4,7 +4,7 @@ date: "2021-07-02"
 title: "gamer plex"
 logline: "GAMERPLEX is a NFT marketplace based on the Solana network."
 cta: "https://www.gamerplex.io/#/"
-logo: /img/gamerplex_kinland.svg
+logo: /img/gamerplex_kinland.jpg
 category: metaplex, nft
 status: live
 website: https://www.gamerplex.io/#/

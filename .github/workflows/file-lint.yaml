@@ -33,7 +33,7 @@ jobs:
 
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.42
+        uses: timhagn/lint-md-fm@v1.0.43
         with:
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
           directories: |

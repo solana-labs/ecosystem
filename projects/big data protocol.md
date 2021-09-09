@@ -11,6 +11,6 @@ status: building
 
 Big Data Protocol has the following products:
 
-1. Data Vault and Data Room: they’ve built tech to tokenize datasets, make data tokens liquid, and redeem the data tokens for the underlying datasets.
+1. Data Vault and Data Room have built tech to tokenize datasets, make data tokens liquid, and redeem the data tokens for the underlying datasets.
 
 2. We’re also working with the Ocean Protocol team to fork Ocean Market. BDP will have full Ocean Market capabilities.

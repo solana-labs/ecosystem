@@ -7,6 +7,7 @@ cta: "https://medium.com/solana-labs/chainlink-and-solana-integration-high-quali
 logo: /img/chainlink.svg
 category: oracle
 status: building
+twitter: https://twitter.com/chainlink
 ---
 
 Chainlink is a decentralized oracle network that currently provides decentralization at both the oracle and data source level. By using multiple independent Chainlink nodes, the user can protect against one oracle being a single point of failure. Similarly, using multiple data sources for sourcing market prices, the user can protect against one data source being a single source of truth.
