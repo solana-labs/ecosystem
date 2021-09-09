@@ -9,4 +9,4 @@ category: app, metaplex, nft
 status: building
 ---
 
-Jesi is building out an NFT marketplace, interactive worlds and tools for architecture and construction in the Metaverse. Trade buildings and components, broker land, find work and more. 
+Jesi is building out an NFT marketplace, interactive worlds and tools for architecture and construction in the Metaverse. Trade buildings and components, broker land, find work and more.

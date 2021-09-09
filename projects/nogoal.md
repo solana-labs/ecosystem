@@ -14,12 +14,12 @@ NoGoalFaces is a collection of only 512 randomly generated dumb faces NFTs. Thei
 
 Get yours: http://faces.nogoal.click/</br>
 
-<b>NoGoalToken</b> 
+<b>NoGoalToken</b>
 Previously I(have)NO(goal), the NoGoalToken $INO is a SPL token that will, in the near future, enable NoGoalFaces NFT holders to upgrade their faces attributes! The memetoken was airdropped to 22,785 unique addresses everywhere across the world, mostly without any token holding requirements, making of it one of the largest and most equitable Solana airdrop yet!
 
 Read more: http://token.nogoal.click/</br>
 
 <b>NoGoalDEX</b>
-NoGoalDEX is a Serum-based DEX that allows you to trade $INO tokens and numerous meme tokens. As part of the token distribution, $INO holders get 100% of their Serum fees instantly reimbursed in $INO when they trade on the DEX! 
+NoGoalDEX is a Serum-based DEX that allows you to trade $INO tokens and numerous meme tokens. As part of the token distribution, $INO holders get 100% of their Serum fees instantly reimbursed in $INO when they trade on the DEX!
 
 Trade on: http://dex.nogoal.click/</br>
