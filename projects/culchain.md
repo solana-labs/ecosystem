@@ -4,7 +4,7 @@ date: "2021-07-08"
 title: "CulChain"
 logline: "Culture preserved on the Solana Blockchain."
 cta: https://culchain.world/
-logo: /img/CulChain.svg
+logo: /img/culchain.svg
 category: nft
 status: live
 ---
