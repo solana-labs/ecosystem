@@ -5,7 +5,7 @@ title: "NoGoal"
 logline: "NoGoalFaces are 512 randomly generated dumb faces NFTs, upgradable with useless NoGoalTokens, that are tradable on the NoGoalDEX!"
 cta: https://nogoal.click/
 logo: /img/nogoal.svg
-category: nft,app,spl,dex
+category: nft, app, spl, dex
 status: building
 ---
 
