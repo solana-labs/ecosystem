@@ -1,5 +1,5 @@
 ---
-slug: "All-Art"
+slug: "allart"
 date: "2021-05-01"
 title: "All-Art"
 logline: "NFT liquidity pools and license rights running on Solana."
