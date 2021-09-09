@@ -6,6 +6,7 @@ logline: "Apeshit is a charity social club."
 cta: "https://apeshit.social/"
 logo: /img/apeshit.png
 category: metaplex, nft
+status: building
 website: https://apeshit.social/
 twitter: https://twitter.com/apeshitsocial
 telegram:
