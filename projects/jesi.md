@@ -5,7 +5,7 @@ title: "Jesi"
 logline: "Jesi is a vertically integrated, Metaverse property developer."
 cta: "https://twitter.com/jesi_app"
 logo: /img/jesi.svg
-category: app,metaplex,nft,tools
+category: app, metaplex, nft
 status: building
 ---
 
