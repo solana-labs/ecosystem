@@ -16,4 +16,4 @@ The Aphid ecosystem utilizes the aBion token on Solana to power digital bots to 
 <b>Website</b>: https://aphid.io/abion/ </br>
 <b>Twitter</b>: https://twitter.com/AphidAI </br>
 <b>Discord</b>: https://discord.gg/mNHaVkm</br>
-<b>Telegram</b>: https://t.me/AphidByte </br>
+<b>Telegram</b>: https://t.me/AphidAI </br>
