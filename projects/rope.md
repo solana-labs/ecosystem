@@ -6,9 +6,9 @@ logline: "ROPE is a decentralized ecosystem that brings the well known 'market v
 cta: "https://ropesolana.com"
 logo: /img/rope.svg
 category: app
-Website: https://ropesolana.com
-Twitter: https://twitter.com/Rope_Official
-Discord: https://discord.gg/rope
+website: https://ropesolana.com
+twitter: https://twitter.com/Rope_Official
+discord: https://discord.gg/rope
 ---
 
 ROPE is the central token of the ROPE ecosystem. The ROPE token holds the following utility:

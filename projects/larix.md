@@ -6,10 +6,10 @@ logline: "Larix — the lending protocol on the Solana blockchain, adopted a dyn
 category: defi
 logo: /img/larix.svg
 status: live
-Website: https://dev.projectlarix.com/
-Twitter: https://twitter.com/ProjectLarix
-Telegram: http://t.me/projectlarix
-Discord: http://discord.gg/hfnRFV9Ngt
+website: https://dev.projectlarix.com/
+twitter: https://twitter.com/ProjectLarix
+telegram: http://t.me/projectlarix
+discord: http://discord.gg/hfnRFV9Ngt
 ---
 
 Larix — the lending protocol on the Solana blockchain, adopted a dynamic interest rate model and created more capital-efficient risk management pools, as such a broad selection of collateral types can be fully utilized in a safe way. Furthermore, the rewarding system based on a delicately designed token economy enables continuous incentive allocation to boost real demands.

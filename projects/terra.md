@@ -7,10 +7,10 @@ cta: "https://medium.com/terra-money/terra-partners-with-solana-to-establish-low
 logo: /img/terra.svg
 category: stablecoin
 status: live
-Website: https://terra.money/
-Twitter: https://twitter.com/terra_money
-Telegram: https://t.me/terra_announcements
-Discord: https://discord.com/invite/bYfyhUT
+website: https://terra.money/
+twitter: https://twitter.com/terra_money
+telegram: https://t.me/terra_announcements
+discord: https://discord.com/invite/bYfyhUT
 ---
 
 Terra is a thriving payments network that is supported by a basket of stablecoins pegged to the world’s largest currencies. Today, these stablecoins largely flow through Terra’s flagship app, CHAI, which recently crossed 1M MAU and over $3M USD in daily transaction volume. Terra is backed by an impressive team and some of the world’s best investors.

@@ -7,9 +7,9 @@ cta: "https://crowny.io/"
 category: app
 logo: /img/crowny.svg
 status: live
-Website: https://crowny.io/en/
-Twitter: https://twitter.com/crownyio/
-Telegram: https://t.me/crownyio
+website: https://crowny.io/en/
+twitter: https://twitter.com/crownyio/
+telegram: https://t.me/crownyio
 ---
 
 Crowny has created a new platform within the world of advertising. A platform that will allow brands to create effective campaigns in order to reach audiences who are enticed to listen to their message. Users will be able to connect to their favourite brands through a smartphone application, without the risk of privacy breaches.

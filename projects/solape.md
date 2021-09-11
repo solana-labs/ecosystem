@@ -6,10 +6,10 @@ logline: "Sol Ape is a Serum-based DEX and deflationary token built on Solana."
 cta: "https://www.solape.io/"
 category: dex
 logo: /img/solape.svg
-Website: https://www.solape.io/
-Twitter: https://twitter.com/SolApeFinance
-Telegram: https://t.me/SolApeOfficial
-Discord: https://discord.com/invite/solape
+website: https://www.solape.io/
+twitter: https://twitter.com/SolApeFinance
+telegram: https://t.me/SolApeOfficial
+discord: https://discord.com/invite/solape
 ---
 
 Solape is a serum-based Solana DEX built by apes, for other apes.
