@@ -12,5 +12,4 @@ twitter: https://twitter.com/human_protocol
 telegram: http://hmt.ai/telegram
 ---
 Human Protocol helps machines learn. It does this by soliciting people to perform so-called labeling tasks—identifying raw data, such as videos, images, and text. That, in turn, provides meaningful information and context for machine learning to improve tasks such as speech and visual recognition.
-
 The Singapore-based company is integrating with Solana because scalability is crucial to equipping developers and organizations with additional resources to execute task labeling.
