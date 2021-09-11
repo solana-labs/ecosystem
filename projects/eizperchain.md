@@ -18,8 +18,8 @@ Eizper Chain is a blockchain action online multiplayer role-playing game that co
 
 Eizper Chain aims to build triangle connections between Game Play - Free To Play (F2P) and Play To Earn (PTE), NFT-Defi and DAO.
 
-Website: https://www.eizperchain.com
-Instagram: https://www.instagram.com/eizperchain
-Twitter: https://twitter.com/EizperChain
-Medium: https://medium.com/@eizperchain
-Discord: https://discord.gg/f38VNccHAm
+<b>Website</b>: https://www.eizperchain.com</br>
+<b>Instagram</b>: https://www.instagram.com/eizperchain</br>
+<b>Twitter</b>: https://twitter.com/EizperChain</br>
+<b>Medium</b>: https://medium.com/@eizperchain</br>
+<b>Discord</b>: https://discord.gg/f38VNccHAm </br>
