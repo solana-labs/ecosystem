@@ -6,7 +6,7 @@ logline: "Eizper Chain is F2P-P2E ARPG Game set in a high fantasy world with ste
 cta: "https://www.eizperchain.com"
 logo: /img/eizperchain.svg
 status: building
-category: "app, game, nft, spl, community"
+category: "app, game, nft, spl, community, metaplex"
 website: https://www.eizperchain.com
 instagram: https://www.instagram.com/eizperchain
 twitter: https://twitter.com/EizperChain
