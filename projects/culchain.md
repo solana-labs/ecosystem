@@ -9,4 +9,4 @@ category: nft
 status: live
 ---
 
-CulChain is a perfect symphony between Blockchain and Global mythologies aimed at preserving ancient Cultures and their historical relevance through artistic expressions in form of NFTs.
+CulChain is a perfect symphony between blockchain and global mythologies, with an aim at preserving ancient cultures and their historical relevance through NFTs.
