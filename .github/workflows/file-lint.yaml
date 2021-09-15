@@ -33,7 +33,7 @@ jobs:
 
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.50
+        uses: timhagn/lint-md-fm@v1.0.51
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
