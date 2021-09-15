@@ -89,7 +89,7 @@ files are accepted.
 
 ### Linting
 
-Everything of the above gets linted, see the created comments. 
+Everything of the above gets linted against, see the created comments.
 
 ## Questions
 
