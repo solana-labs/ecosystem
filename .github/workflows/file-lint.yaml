@@ -48,7 +48,7 @@ jobs:
             .svg
             .jpg
             .jpeg
-          fuzzy-search: false
+          fuzzy-search: true
           debug: true
           force-check: true
 
