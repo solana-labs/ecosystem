@@ -1,6 +1,6 @@
 ---
 slug: "sauerbot"
-date: "2021-07-12"
+date: "2021-09-17"
 title: "SauerBot"
 logline: "A simple to use Solana/Serum price tracker bot."
 cta: "https://t.me/sauerbot_bot"
