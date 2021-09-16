@@ -9,4 +9,5 @@ category: metaplex, nft
 status: live
 website: https://museoftheday.holaplex.com/
 ---
+
 MUSE OF THE DAY is a Solana based NFT series by RAHIM aka optimysticra.

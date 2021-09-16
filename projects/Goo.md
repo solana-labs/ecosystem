@@ -10,4 +10,5 @@ status: live
 website: https://goo.software/
 twitter: https://twitter.com/goosoftware
 ---
+
 An upcoming protocol bringing decentralized, encrypted notifications to #web3. Built on Solana.

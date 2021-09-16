@@ -10,4 +10,5 @@ status: live
 website: https://neodyme.io/
 twitter: https://twitter.com/neodyme
 ---
+
 Neodyme is a small team of security researchers, with experts in various technologies and ecosystems, including Apple, Android, embedded, automotive, smart contracts and blockchain internals. Neodyme offers deep-dive technical audits and trainings.

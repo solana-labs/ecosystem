@@ -10,4 +10,5 @@ status: live
 website: https://krajka.holaplex.com/#
 twitter: https://twitter.com/zibi67868634
 ---
+
 Krajka is a technological enthisiast, artist, and content Creator.

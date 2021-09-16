@@ -8,7 +8,8 @@ logo: /img/Ram.svg
 category: metaplex, nft
 status: live
 website: https://ram.so/
-twitter: https://twitter.com/RAM_NFT 
+twitter: https://twitter.com/RAM_NFT
 discord: https://discord.com/invite/fZP4g4BYdD
 ---
+
 Random Access Memories is a retrofuture inspired collectibles from the block.

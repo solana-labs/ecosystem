@@ -10,4 +10,5 @@ status: live
 website: http://www.ono.art/
 twitter: https://twitter.com/onodotart
 ---
+
 Ono is a next generation curated NFT marketplace designed with creators first built on Metaplex & Solana.

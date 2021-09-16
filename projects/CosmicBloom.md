@@ -9,4 +9,5 @@ category: metaplex, nft
 website: https://cosmicblooom.com/
 twitter: https://twitter.com/cosmicblooom
 ---
+
 Cosmic Bloom facilitates epic co-creations between artists of various modalities from their community worldwide to inspire humanity with their unique collaborations.

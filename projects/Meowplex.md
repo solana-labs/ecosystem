@@ -11,4 +11,5 @@ website: https://meowplex.holaplex.com/#/
 twitter: https://twitter.com/solcat777
 discord: https://discord.com/invite/qax5xrbysj
 ---
+
 Meowplex is an NFT coin for coolest cat community built on solona, fastest & eco-friendly Blockchain.
