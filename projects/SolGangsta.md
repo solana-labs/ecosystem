@@ -11,4 +11,5 @@ website: https://solgangsta.holaplex.com/#/
 twitter: https://twitter.com/solanagangnft
 discord: https://discord.com/invite/jghtxruahq
 ---
+
 SolGangsta is an NFT art for Gangsta built on Solana platform.

@@ -11,4 +11,5 @@ website: http://pixelpenguins.holaplex.com/
 twitter: https://twitter.com/pixeipenguins
 discord: https://discord.com/invite/wu8aftbkug
 ---
+
 Pixel Penguins is the the first official Penguin Project On Solana.

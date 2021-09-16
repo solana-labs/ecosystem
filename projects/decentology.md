@@ -9,4 +9,4 @@ category: infra
 status: live
 ---
 
-Decentology built DappStarter, a blockchain-agnostic platform for building full-stack, customizable blockchain apps. We've reduced application build time on Solana from weeks to under fifteen minutes. 
+Decentology built DappStarter, a blockchain-agnostic platform for building full-stack, customizable blockchain apps. We've reduced application build time on Solana from weeks to under fifteen minutes.

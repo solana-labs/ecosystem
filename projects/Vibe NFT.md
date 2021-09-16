@@ -11,4 +11,5 @@ website: https://vibenft.holaplex.com/#/
 twitter: https://twitter.com/vibenft
 discord: https://discord.com/invite/cszy6pxh
 ---
+
 Vibe NFT is an abstract landscape and portrait created using generative adversarial networks (GANs).

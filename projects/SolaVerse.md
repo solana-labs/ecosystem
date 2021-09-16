@@ -10,4 +10,5 @@ status: live
 website: https://solaverse.art/#/
 twitter: https://twitter.com/solanacomicmeta
 ---
+
 Solaverse is a Solana Comic Universe NFT/SFT store built with Metaplex.
