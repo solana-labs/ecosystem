@@ -10,7 +10,7 @@ status: live
 twitter: "https://twitter.com/ChihuahuaSol"
 ---
 
-ChihuahuaSol an Exclusive NFTs Built on #Solana
+ChihuahuaSol: Exclusive NFTs Built on #Solana
 
 <b>Website</b>: https://chihuahuasol.com </br>
 <b>Twitter</b>: https://twitter.com/ChihuahuaSol </br>

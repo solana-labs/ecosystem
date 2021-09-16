@@ -2,7 +2,7 @@
 slug: "bubl"
 title: "Bubl"
 date: 2021-07-25
-logline: "Bubl is a decentralized event hosting and ticketing built on the solana blockchain"
+logline: "Bubl is a decentralized event hosting and ticketing platform built on the Solana blockchain"
 category: app
 logo: /img/bubl.svg
 status: live
