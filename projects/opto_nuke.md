@@ -13,4 +13,4 @@ telegram: https://t.me/opto_nuke
 discord: https://discord.gg/8hUp2cCJ
 ---
 
-Opto_nuke is an NFT firm specializing combining 3d NFTs of computers with physical computers, currently working towards our first drop. The first collection we will be releasing consists of 50 unique 3d NFTs(Opto_Nuke_IRLs) of Real nostalgically re-colored dell optiplex 9020s, featuring iconic color schemes that we have seen integrated into our favorite electronics over the years. 
+Opto_nuke is an NFT firm specializing combining 3d NFTs of computers with physical computers, currently working towards our first drop. The first collection we will be releasing consists of 50 unique 3d NFTs(Opto_Nuke_IRLs) of Real nostalgically re-colored dell optiplex 9020s, featuring iconic color schemes that we have seen integrated into our favorite electronics over the years.
