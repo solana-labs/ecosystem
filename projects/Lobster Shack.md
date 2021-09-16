@@ -5,7 +5,7 @@ title: "Lobster Shack"
 logline: "The Crypto Langoustine."
 cta: "https://lobstershack.holaplex.com/#/"
 logo: /img/Lobster_shack.svg
-category: metaplex, nft
+category: metaplex,nft
 status: live
 website: https://lobstershack.holaplex.com/#/
 twitter: https://twitter.com/nephr0ps
