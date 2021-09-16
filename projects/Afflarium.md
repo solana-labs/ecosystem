@@ -4,12 +4,12 @@ date: "2021-08-31"
 title: "Afflarium"
 logline: "Afflarium - is a special and realistic gaming world, combining virtual reality, cryptocurrency, NFT, digital property, the real economy, and a unique gaming experience."
 cta: "https://afflarium.com/"
-logo: /img/afflarium.svg
+logo: /img/Afflarium.svg
 category: app, nft
 status: building
 website: https://afflarium.com/
-Twitter: https://twitter.com/afflarium
-Telegram: https://t.me/afflarium_news
+twitter: https://twitter.com/afflarium
+telegram: https://t.me/afflarium_news
 ---
 
 Afflarium is a massively multiplayer online metaverse, playable on VR, Desktop, and Mobile.
