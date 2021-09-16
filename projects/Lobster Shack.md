@@ -4,7 +4,7 @@ date: "2021-03-01"
 title: "Lobster Shack"
 logline: "The Crypto Langoustine."
 cta: "https://lobstershack.holaplex.com/#/"
-logo: /img/Lobster shack.svg
+logo: /img/Lobster_shack.svg
 category: metaplex, nft
 status: live
 website: https://lobstershack.holaplex.com/#/

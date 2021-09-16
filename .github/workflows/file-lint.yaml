@@ -31,10 +31,10 @@ jobs:
             echo "$file was modified"
           done
 
-      # This will lint all files.
+      # This will lint all files, see https://github.com/timhagn/lint-md-fm.
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.82
+        uses: timhagn/lint-md-fm@v1.0.83
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
