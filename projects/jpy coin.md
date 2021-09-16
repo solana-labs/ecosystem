@@ -9,4 +9,4 @@ logo: /img/jpycoin.svg
 status: building
 ---
 
-JPYC can bring Japanese yen in the real world to Solana network. JPYC enables users to supply liquidity in DEX and exchange other tokens. These features lead users to the easier participation in DeFi. Moreover, it is also available for users to purchase goods on Amazon through Japan Crypto Asset Market Inc.
+JPYC can bring real- world Japanese yen to the Solana network. JPYC enables users to supply liquidity in DEX and exchange other tokens, allowing for easier participation in DeFi. Moreover, users can purchase goods on Amazon through Japan Crypto Asset Market Inc.

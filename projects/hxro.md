@@ -12,4 +12,4 @@ telegram: https://t.me/Hxro_Consortium
 discord: https://discord.com/invite/kFUTYnm
 ---
 
-Hxro is a cryptocurrency platform that offers perpetual, time-based digital derivatives markets. Hxro provides a simplified way to interact with the market, giving traders an alternative way to express a view on price, hedge risk and trade digital assets. Solana was listed on Hxro in Q1 of 2021.
+Hxro is a cryptocurrency platform that offers perpetual, time-based digital derivatives markets. We provide a simplified way to interact with the market, giving traders an alternative way to express a view on price, hedge risk, and trade digital assets. Solana was listed on Hxro in Q1 of 2021.
