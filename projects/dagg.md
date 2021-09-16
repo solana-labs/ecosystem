@@ -13,4 +13,4 @@ telegram: https://t.me/DAGGTrade
 discord: https://discord.com/invite/vV6rVZVF
 ---
 
-DAGG is liquidity aggregators on Solana, compile the exchange rates of numerous DEX platforms (Serum, Orca, and upcoming Sushi ), and show you a list of platforms offering the best value for your desired digital asset trades. DAGG Trade is set to offer the best DEX aggregator protocol specifically designed on the Solana blockchain.
+DAGG is a system of liquidity aggregators on Solana compiling the exchange rates of numerous DEX platforms (Serum, Orca, and upcoming Sushi) and presenting a list of platforms offering the best value for digital asset trades. DAGG Trade is set to offer the best DEX aggregator protocol specifically designed on the Solana blockchain.

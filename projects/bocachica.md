@@ -8,4 +8,4 @@ logo: /img/boca.svg
 category: app
 ---
 
-HAPI-owned Boca Chica platform will be one of the main Facilitators of the new Solana-based projects. The main idea behind Boca Chica is creating a fecund soil for new projects on Solana blockchain that will help kickstart their advancement and promote their significance in the crypto space as a whole.
+HAPI-owned Boca Chica is one of the main facilitators of new Solana-based projects. Boca Chica is creating a fertile soil for new projects on Solana blockchain that will bloster growth and promote their significance in the crypto sphere.
