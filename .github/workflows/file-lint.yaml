@@ -34,7 +34,7 @@ jobs:
       # This will lint all files.
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.0.75
+        uses: timhagn/lint-md-fm@v1.0.76
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
