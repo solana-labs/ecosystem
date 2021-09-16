@@ -9,5 +9,5 @@ category: wallet, SPL
 status: building
 ---
 
-Boxch - this is mobile application wallet for android and ios. Token for Boxch it Naxar. You can send Naxar no fee payer. 
+Boxch - this is mobile application wallet for android and ios. Token for Boxch it Naxar. You can send Naxar no fee payer.
 The team plans to actively develop the application. The first stable version for android is now available in Google Play.
