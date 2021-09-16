@@ -8,4 +8,4 @@ logo: /img/huobi.svg
 category: exchange
 ---
 
-Huobi is one of the industry’s leading cryptocurrency exchanges, offering advanced financial services to traders globally. Huobi provides hundreds of token & futures trading pairs to enable traders to optimize their strategies in a seamless trading interface. Huobi is one of the top digital asset exchanges by trading volume, serving millions of users globally.
+Huobi is one of the industry’s leading cryptocurrency exchanges, offering advanced financial services to traders globally. Huobi provides hundreds of token & futures trading pairs enabling traders to optimize their strategies in a seamless trading interface. As one of the top digital asset exchanges by trading volume, Huobi serves millions of users globally.
