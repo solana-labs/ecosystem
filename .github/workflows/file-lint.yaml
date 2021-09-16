@@ -49,7 +49,8 @@ jobs:
             .svg
             .jpg
             .jpeg
-          fuzzy-search: true
+          fuzzy-search: false
+          debug: true
 
       # Use the output from the `lint` step
       - name: Display changed files
