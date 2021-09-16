@@ -30,4 +30,3 @@ blockchain technology.
 Assets are virtually tangible through the VR experience, each having its own use and purpose ingame. In contrast to other games, assets are much more than a simple collectibles.
 Earn from gameplay or from trading, it’s where you start investing instead of spending – and have
 fun while doing it.
-
