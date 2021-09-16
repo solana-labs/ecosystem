@@ -1,5 +1,5 @@
 ---
-slug: "Blocto"
+slug: "blocto"
 date: "2019-07-01"
 title: "Blocto"
 logline: "Make blockchain simple and accessible for everyone."
