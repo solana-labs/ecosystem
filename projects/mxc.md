@@ -7,6 +7,7 @@ cta: "https://www.mxc.com/"
 logo: /img/mxc.svg
 category: exchange, spl
 twitter: https://twitter.com/MEXC_Global
+status: live
 ---
 
 Trading pairs live on MEXC are SOL/BTC and SOL/USDT. MEXC is a Hong Kong-based exchange with a global presence.

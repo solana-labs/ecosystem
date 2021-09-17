@@ -10,6 +10,7 @@ website: https://www.solape.io/
 twitter: https://twitter.com/SolApeFinance
 telegram: https://t.me/SolApeOfficial
 discord: https://discord.com/invite/solape
+status: live
 ---
 
 Solape is a serum-based Solana DEX built by apes, for other apes.

@@ -8,6 +8,7 @@ logo: /img/soleon.svg
 category: dex
 website: https://soleon.io/
 twitter: https://twitter.com/soleon_io
+status: live
 ---
 
 A fully-featured decentralized derivatives exchange with trustless cross-chain trading built on the @Solana blockchain. Powered by @ProjectSerum.

@@ -7,6 +7,7 @@ website: "https://sollock.io/#"
 category: infra
 logo: /img/sollock.svg
 status: live
+cta: "https://sollock.io/#"
 twitter: https://twitter.com/SOLLockOfficial
 telegram: https://t.me/SOLLockAnn
 ---

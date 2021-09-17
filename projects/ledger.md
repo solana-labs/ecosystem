@@ -8,6 +8,7 @@ logo: /img/ledger.svg
 category: wallet
 website: http://ledger.com/
 twitter: https://twitter.com/Ledger
+status: live
 ---
 
 Ledger is the smartest way to secure, buy, exchange, and grow your crypto assets. The SOL asset is supported on all Ledger devices, including the Nano X and Nano S.

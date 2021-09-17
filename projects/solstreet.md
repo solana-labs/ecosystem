@@ -9,7 +9,8 @@ logline: >-
 cta: "https://solstreet.finance/"
 logo: /img/solstreet.svg
 category: DeFi
-twitter: "https://twitter.com/SolStreetFi"
+twitter: "https://twitter.com/SolStreetFin"
+status: live
 ---
 
 SolStreet is a Solana-based, non-custodial asset management and investment protocol that aims to solve the problems inherent to traditional finance by allowing anyone to launch a decentralized fund directly to market, with negligible up-front or ongoing costs. All trades and assets remain verifiably secure, on-chain.
