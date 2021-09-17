@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/gate.png
+status: live
 ---
 
 Established in January of 2021, Gate Labs was founded with a mission to provide entrepreneurs within the blockchain sector the support they need to grow their business.

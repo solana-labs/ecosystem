@@ -7,6 +7,7 @@ category: app
 logo: /img/uniforge.svg
 status: live
 website: https://www.uniforge.io
+cta: "https://www.uniforge.io"
 twitter: https://twitter.com/uniforge
 ---
 

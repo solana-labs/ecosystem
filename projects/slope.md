@@ -5,6 +5,7 @@ date: 2021-07-25
 logline: "Slope is the first Serum-based mobile DEX APP with a decentralized automated full limit orderbook."
 category: wallet
 logo: /img/slope.svg
+cta: "https://slope.finance/#/"
 status: live
 website: https://slope.finance/#/
 twitter: https://twitter.com/slope_finance
