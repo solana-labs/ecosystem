@@ -9,5 +9,4 @@ category: nft, exchange, app
 status: building
 ---
 
-Circlepod connects creatives and their supporters using blockchain technology. Using AI and data protocols, we are creating a fair, friendly copyright and subscription ecosystem. 
-
+Circlepod connects creatives and their supporters using blockchain technology. Using AI and data protocols, we are creating a fair, friendly copyright and subscription ecosystem.

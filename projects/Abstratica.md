@@ -1,10 +1,10 @@
 ---
 slug: "Abstratica"
-date: "2021-07-02"
+date: "2021-07-01"
 title: "Abstratica"
 logline: "Deep Neutral Networks generative arts."
 cta: "https://abstratica.holaplex.com/#/"
-logo: /img/abstratica.jpg
+logo: /img/abstratica.svg
 category: metaplex, nft
 website: https://www.abstratica.art/
 twitter: https://twitter.com/abstraticanft
