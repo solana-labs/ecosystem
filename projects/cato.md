@@ -9,5 +9,5 @@ logo: /img/cato.svg
 status: Live
 ---
 
-CATO is one of Solana's first CAT MEME coins with a Serum-Based DEX modified to provide maximum user friendly UI.
+CATO is one of Solana's first CAT MEME coins with a Serum-based DEX modified to provide maximum user friendly UI.
 https://catodex.com/

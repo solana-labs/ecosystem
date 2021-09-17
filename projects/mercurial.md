@@ -7,6 +7,10 @@ cta: "https://mercurial.finance"
 logo: /img/mercurial.svg
 category: DeFi, AMM
 status: live
+website: https://www.mercurial.finance/
+twitter: https://twitter.com/MercurialFi
+telegram: https://t.me/MercurialFi
+discord: https://discord.com/invite/WwFwsVtvpH
 ---
 
 Mercurial is building the infrastructure for stable and pegged assets for Solana.

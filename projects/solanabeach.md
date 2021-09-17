@@ -7,6 +7,9 @@ cta: "https://solanabeach.io/"
 logo: /img/solanabeach.svg
 category: explorer
 status: live
+website: https://solanabeach.io/
+twitter: https://twitter.com/solanabeach_io
+telegram: https://t.me/stakingfacilities
 ---
 
 Solanabeach is a comprehensive blockexplorer highlighting core Solana statistics. It empowers stakeholders of the Solana blockchain to seamlessly explore the network's statistics, validators, and token metrics.

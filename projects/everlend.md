@@ -2,12 +2,14 @@
 slug: "everlend"
 title: "Everlend"
 date: 2021-07-25
-logline: "Everlend is Decentralized, cross-chain lending protocol with yield farming and liquid staking powered by Solana. Built by AtticLab and Everstake."
-website: "https://everlend.finance/"
+logline: "Everlend is a decentralized, cross-chain lending protocol with yield farming and liquid staking powered by Solana. Built by AtticLab and Everstake."
 category: defi
-twitter: https://twitter.com/EverlendFinance
 logo: /img/everlend.svg
 status: live
+website: https://everlend.finance/
+twitter: https://twitter.com/EverlendFinance
+telegram: https://t.me/joinchat/Znd69xFkYK45NTAy
+discord: https://discord.com/invite/wwqnJYQGxM
 ---
 
-Everlend is Decentralized, cross-chain lending protocol with yield farming and liquid staking powered by Solana. Built by AtticLab and Everstake.
+Everlend is a decentralized, cross-chain lending protocol with yield farming and liquid staking powered by Solana. Built by AtticLab and Everstake.

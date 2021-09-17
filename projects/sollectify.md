@@ -6,6 +6,10 @@ logline: "Sollectify is a creator-centric NFT marketplace where users on the pla
 cta: "https://sollectify.com/"
 category: app
 logo: /img/sollectify.svg
+website: https://sollectify.com/
+twitter: https://twitter.com/sollectify
+telegram: https://t.me/joinchat/7RIRvPp3ch9hZjJk
+discord: https://discord.com/invite/DBMgxJ5g4m
 ---
 
 Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell nonfungible tokens (NFTs).

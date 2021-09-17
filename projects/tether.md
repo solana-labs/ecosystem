@@ -7,6 +7,9 @@ cta: "https://tether.to/tether-usdt-to-launch-on-solana/"
 logo: /img/tether.svg
 category: stablecoin
 status: building
+website: https://tether.to/
+twitter: https://twitter.com/Tether_to/
+telegram: https://t.me/OfficialTether
 ---
 
 Tether is bringing the USDt stablecoin to the Solana network. The initiative was first announced on Tether’s website on September 9th, 2020.

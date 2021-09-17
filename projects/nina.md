@@ -7,6 +7,9 @@ cta: "https://nina.market"
 logo: /img/nina.svg
 category: app
 status: building
+website: https://nina.market/
+twitter: https://twitter.com/nina_market_
+discord: https://discord.gg/JSKKcrPUQx
 ---
 
 Utilizing innovations of web3, Nina provides the infrastructure for

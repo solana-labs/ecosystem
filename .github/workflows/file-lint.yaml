@@ -1,0 +1,54 @@
+name: Lint PR
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  file-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - run: git checkout add-linting-action
+
+      - name: Get list of changed files
+        id: changed_files
+        uses: tj-actions/changed-files@v1.1.2
+        with:
+          separator: ","
+
+      - name: List all modified files
+        run: |
+          for file in "${{ steps.changed_files.outputs.all_modified_files }}"; do
+            echo "$file was modified"
+          done
+
+      # This will lint all files, see https://github.com/timhagn/lint-md-fm.
+      - name: Lint Current PR
+        id: lint
+        uses: timhagn/lint-md-fm@v1.1.3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
+          directories: |
+            projects
+            img
+          markdown-extensions: |
+            .md
+            .mdx
+          image-extensions: |
+            .png
+            .svg
+            .jpg
+            .jpeg
+
+      # Use the output from the `lint` step
+      - name: Display changed files
+        run: echo "Changed files are ${{ steps.lint.outputs.changed }}"

@@ -7,6 +7,10 @@ cta: "https://www.scallop.io/"
 logo: /img/scallop.svg
 category: defi, app, NFT
 status: building
+website: https://www.scallop.io/
+twitter: https://twitter.com/Scallop_io
+telegram: https://t.me/scallop_io
+discord: https://discord.com/invite/scallop
 ---
 
 Scallop is a DeFi game on Solana, users can stake their tokens into Scallop Pools to grow scallops in Scallop Tank, they can also get Scallop Token (SCA) while they staking tokens.
