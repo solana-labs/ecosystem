@@ -6,6 +6,7 @@ logline: "Moonpay is a fiat onramp that allows users to seamlessly integrate cry
 cta: "https://www.moonpay.com/"
 logo: /img/moonpay.svg
 category: infra
+status: live
 ---
 
 MoonPay makes it easy to launch cryptocurrency on and off-ramps inside your application in minutes. SOL is supported in international locales.

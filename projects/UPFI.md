@@ -7,6 +7,7 @@ cta: "https://upfi.network"
 logo: /img/upfi.svg
 category: "stablecoin, defi, app"
 twitter: "https://twitter.com/upfi_network"
+status: building
 ---
 
 The ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.

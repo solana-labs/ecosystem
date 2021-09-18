@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/ngc.png
+status: live
 ---
 
 NGC Ventures is a fund that emphasizes development, hiring, and prudent treasury and financial management. By leveraging their polished thesis and rich network from previous experience, NGC Ventures will bring invaluable relationships to the Solana ecosystem.

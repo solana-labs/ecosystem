@@ -6,6 +6,7 @@ logline: "Solana Project is an educational site providing info on projects build
 cta: "https://solanaproject.com/"
 logo: /img/solanaproject.svg
 category: explorer
+status: live
 ---
 
 Solana Project is an educational site providing info on projects building in the Solana ecosystem.

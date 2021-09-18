@@ -9,6 +9,7 @@ logo: /img/solpad.svg
 website: https://www.solpad.finance/
 twitter: https://twitter.com/FinanceSolpad
 telegram: https://t.me/solpadfinance_chat
+status: building
 ---
 
 SolPAD is a decentralized IDO platform for the Solana Ecosystem.
