@@ -10,6 +10,7 @@ logo: /img/evernew.svg
 category: fund
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/evernew.png
+status: live
 ---
 
 Evernew Capital focuses on supporting DeFi, NFT, and infrastructure projects that add new dimensions of utility to the Solana ecosystem and the multi-chain crypto ecosystem as a whole.

@@ -10,6 +10,7 @@ website: https://only1.io/
 twitter: https://twitter.com/only1nft
 telegram: https://t.me/only1nft
 discord: https://discord.com/invite/sUu7KZwNCB
+status: building
 ---
 
 Only1 is a NFT powered social engagement platform built on Solana.
