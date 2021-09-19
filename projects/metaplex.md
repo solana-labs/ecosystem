@@ -9,6 +9,7 @@ category: nft
 website: https://www.metaplex.com/
 twitter: https://twitter.com/metaplex
 discord: https://discord.com/invite/metaplex
+status: building
 ---
 
 Metaplex is a protocol built on top of Solana that allows: Creating and minting non-fungible tokens; starting a variety of auctions for primary/secondary sales, and Visualizing NFTs in a standard way across wallets and applications.
