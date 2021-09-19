@@ -10,6 +10,7 @@ logo: /img/rok.svg
 category: fund
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/rokeco.png
+status: live
 ---
 
 ROK Capital, founded by a group of blockchain experts with over 20 years experience in Korea across a wide range of industries, announced an ecosystem fund of up to $20M in partnership with Solana Foundation focusing on incubation and support of the Solana based projects. Trusted by many of Korea's top conglomerates, ROK Capital aims to help accelerate entry and development of supported projects across different geographic locations in Korea.

@@ -8,7 +8,7 @@ logline: >-
 cta: "https://steakwallet.fi"
 logo: /img/steakwallet.svg
 category: wallet
-Status: live
+status: live
 twitter: "https://twitter.com/steakwallet"
 ---
 

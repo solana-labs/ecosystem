@@ -1,5 +1,5 @@
 ---
-slug: "gamer plex"
+slug: "gamerplex"
 date: "2021-07-02"
 title: "gamer plex"
 logline: "GAMERPLEX is a NFT marketplace based on the Solana network."

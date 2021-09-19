@@ -1,21 +1,15 @@
 ---
-slug: SolDate
-date: "2021-07-04"
-title: SolDate
-logline: A decentralized dating platform built on Solana.
-cta: "https://soldate.org/"
-logo: /img/soldate.svg
+slug: "soldate"
+date: "2021-09-08"
+title: "SolDate"
+logline: "Make love happen on Blockchain, receive rewards on finding a match"
+cta: "https://www.soldate.org"
 category: app
+logo: /img/soldate.svg
 status: building
-twitter: "https://twitter.com/SolDate_org"
+website: https://www.soldate.org
+twitter: https://twitter.com/SolDate_org
+telegram: https://t.me/soldate_org
 ---
 
-SolDate is the first of its kind, decentralised online dating platform being built on Solana. SolDate will provide a secure platform to search for a partner ensuring total security and protection against privacy violations.
-
-SolDate will efficiently use NFTs and native utility token '$DATE' to help people discover blockchain use cases in a fun and simple way.
-
-<b>Website</b>: https://soldate.org </br>
-<b>Twitter</b>: https://twitter.com/SolDate_org </br>
-<b>Telegram</b>: https://t.me/soldate_org </br>
-<b>Discord</b>: https://discord.gg/soldate </br>
-<b>Medium</b>: https://soldate.medium.com </br>
+Powered by Solana, SolDate is the first decentralized, community-owned dating service. Using a variety of factors, as well as our proprietary framework, we consistently offer personalized, desirable dating matches.

@@ -10,6 +10,7 @@ website: https://partyparrot.finance/vaults/
 twitter: https://twitter.com/gopartyparrot
 telegram: https://t.me/gopartyparrot
 discord: https://discord.gg/TzhpCRsb57
+status: live
 ---
 
 The Parrot Protocol is a DeFi network built on Solana that will include the stablecoin PAI, a non-custodial lending market, and a margin trading vAMM.

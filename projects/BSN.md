@@ -11,4 +11,4 @@ status: building
 
 China’s Blockchain-based Service Network, or BSN, is a cross-cloud, cross-portal, and cross-framework global public infrastructure network.
 
-The long term vision for the network is to deploy and operate all types of blockchain-based distributed applications, or DApps. This will help to lower the current costs of building and deploying all DApps, and noted that this could ultimately lead to true interoperability among all permissioned and permissionless chains.
+The long term vision for the network is to deploy and operate all types of blockchain-based distributed applications, or DApps. This will help to lower the current costs of building and deploying all DApps, and could ultimately lead to true interoperability among all permissioned and permissionless chains.
