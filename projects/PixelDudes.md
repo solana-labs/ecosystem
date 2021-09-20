@@ -5,7 +5,7 @@ title: "Pixel Dudes"
 logline: "An NFT based Community on Solana."
 cta: "https://squidstuff.com"
 logo: /img/PDLOGO.png
-category: nft, game, community
+category: nft, game
 status: building
 website: https://squidstuff.com
 twitter: https://twitter.com/pixeldudesnft
