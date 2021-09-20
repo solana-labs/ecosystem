@@ -1,15 +1,15 @@
 ---
 slug: "zerointerestprotocol"
-date: 2021-06-22
+date: "2021-06-22"
 title: "Zero Interest Protocol"
 logline: "Zero Interest is a decentralized borrowing protocol with interest-free loans, high capital efficiency, and censorship-resistant stablecoins on Solana."
 cta: "https://www.zeropercenter.org/"
 category: defi, stablecoin
 logo: /img/zerointerestprotocol.svg
 status: Building
-Website: https://www.zeropercenter.org/
-Twitter: https://twitter.com/zerointerestfi
-Telegram: https://t.me/zerointerest
+website: https://www.zeropercenter.org/
+twitter: https://twitter.com/zerointerestfi
+telegram: https://t.me/zerointerest
 ---
 In summary, our protocol is designed after Liquity on Ethereum. It will incorporate two tokens; a stablecoin and a secondary token.
 ROKS
