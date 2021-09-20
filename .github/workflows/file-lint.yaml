@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: git checkout add-linting-action
+#      - run: git checkout add-linting-action
 
       - name: Get list of changed files
         id: changed_files
