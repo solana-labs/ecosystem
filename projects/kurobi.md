@@ -2,14 +2,14 @@
 slug: "kurobi"
 date: "2021-06-30"
 title: "Kurobi"
-logline: "A seamless tool for experts to host video calls with guests worldwide"
+logline: "Kurobi is a seamless tool for experts to host video calls with guests worldwide."
 cta: "https://kurobi.io/"
 logo: /img/kurobi.svg
 category: web3, app
-status: Building
-Website: https://kurobi.io	
-Twitter: https://twitter.com/kurobi_io
-Telegram: https://t.me/kurobi_io		
+status: building
+website: https://kurobi.io	
+twitter: https://twitter.com/kurobi_io
+telegram: https://t.me/kurobi_io		
 ---
 Why Kurobi
 
