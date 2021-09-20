@@ -28,7 +28,7 @@ jobs:
             echo "$file was modified"
           done
 
-      # This will lint all files, see https://github.com/timhagn/lint-md-fm.
+      # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
         uses: timhagn/lint-md-fm@v1.1.5
