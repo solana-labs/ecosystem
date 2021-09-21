@@ -4,7 +4,7 @@ date: "2021-06-29"
 title: "Drift Protocol"
 logline: "Drift brings on-chain, cross-margined perpetual futures to Solana, making future DEXs the best way to trade."
 cta: https://www.drift.trade/
-logo: /img/drift.svg
+logo: /img/drift.jpg
 category: DeFi
 status: building
 ---

@@ -4,7 +4,7 @@ date: "2021-08-30"
 title: "Eizper Chain"
 logline: "Eizper Chain is F2P-P2E ARPG Game set in a high-fantasy world with steampunk style powered by Solana."
 cta: "https://www.eizperchain.com"
-logo: /img/eizperchain.svg
+logo: /img/eizperchain.jpg
 status: building
 category: app
 website: https://www.eizperchain.com
