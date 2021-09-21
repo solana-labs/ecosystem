@@ -7,7 +7,8 @@ cta: "https://solaverse.art/#/"
 logo: /img/solaverse.svg
 category: metaplex, nft
 status: live
-Website: https://solaverse.art/#/
-Twitter: https://twitter.com/SolanaComicMeta
+website: https://solaverse.art/#/
+twitter: https://twitter.com/SolanaComicMeta
 ---
+
 Solaverse is a Solana Comic Universe NFT/SFT store built with Metaplex.

@@ -7,7 +7,8 @@ cta: "https://cryptomonks.holaplex.com/"
 logo: /img/cryptomonks.svg
 category: metaplex, nft
 status: live
-Website: https://cryptomonks.holaplex.com/
-Twitter: https://twitter.com/cryptomonx
+website: https://cryptomonks.holaplex.com/
+twitter: https://twitter.com/cryptomonx
 ---
+
 Crypto monks is Zen-monks NFTS built on Solana.

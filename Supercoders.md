@@ -7,8 +7,9 @@ cta: "https://supercoders.metamorph.buzz/#/"
 logo: /img/supercoders_metamorph.svg
 category: metaplex, nft
 status: live
-Website: https://supercoders.metamorph.buzz/#/
-Twitter: https://twitter.com/nftxzbt
-Discord: https://discord.com/invite/S3pDd6G4EM
+website: https://supercoders.metamorph.buzz/#/
+twitter: https://twitter.com/nftxzbt
+discord: https://discord.com/invite/S3pDd6G4EM
 ---
+
 Supercoders/Metamorph is a neural network lion tamer.  It is a home of the MetaMorph AI machine ft. wild and wonderful animated NFT art collections minted on Solana.

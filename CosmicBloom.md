@@ -6,7 +6,9 @@ logline: "Cosmic Bloom is a worldwide healing community."
 cta: "https://cosmicbloom.com"
 logo: /img/COSMIC BLOOM.svg
 category: metaplex, nft
-Website: https://cosmicblooom.com/
-Twitter: https://twitter.com/CosmicBlooom
+status: live
+website: https://cosmicblooom.com/
+twitter: https://twitter.com/CosmicBlooom
 ---
+
 Cosmic Bloom facilitates epic co-creations between artists of various modalities from their community worldwide to inspire humanity with their unique collaborations.

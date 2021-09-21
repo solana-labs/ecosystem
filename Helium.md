@@ -7,9 +7,10 @@ cta: "https://www.helium.com/"
 logo: /img/helium.svg
 category: metaplex, nft
 status: live
-Website: https://www.helium.com/
-Twitter: https://twitter.com/helium
-Telegram: https://t.me/helium_network
-Discord: https://discord.com/invite/helium
+website: https://www.helium.com/
+twitter: https://twitter.com/helium
+telegram: https://t.me/helium_network
+discord: https://discord.com/invite/helium
 ---
+
 Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage for LoRaWAN-enabled IoT devices. Hotspots produce and are compensated in HNT, the native cryptocurrency of the Helium blockchain. The Helium blockchain is a new, open source, public blockchain created entirely to incentivize the creation of physical, decentralized wireless networks.

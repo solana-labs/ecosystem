@@ -7,7 +7,8 @@ cta: "https://lobstershack.holaplex.com/#/"
 logo: /img/Lobster shack.svg
 category: metaplex, nft
 status: live
-Website: https://lobstershack.holaplex.com/#/
-Twitter: https://twitter.com/nephr0ps
+website: https://lobstershack.holaplex.com/#/
+twitter: https://twitter.com/nephr0ps
 ---
+
 Lobster shack is a crypto langoustine and NFT artist.

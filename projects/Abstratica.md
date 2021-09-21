@@ -6,8 +6,9 @@ logline: "Deep Neutral Networks generative arts."
 cta: "https://abstratica.holaplex.com/#/"
 logo: /img/abstratica.svg
 category: metaplex, nft
-Website: https://www.abstratica.art/
-Twitter: https://twitter.com/abstraticanft
-Discord: https://discord.com/invite/Jhc8hg7Fy3
+website: https://www.abstratica.art/
+twitter: https://twitter.com/abstraticanft
+discord: https://discord.com/invite/yGDumwcD7M
 ---
+
 Abstratica is a deep Neutral Networks generative arts.

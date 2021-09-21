@@ -7,8 +7,9 @@ cta: "http://pixelpenguins.holaplex.com/"
 logo: /img/Pixel Penguins.svg
 category: metaplex, nft
 status: live
-Website: http://pixelpenguins.holaplex.com/
-Twitter: https://twitter.com/PixeIPenguins
-Discord: https://discord.com/invite/wU8aftbKUG
+website: http://pixelpenguins.holaplex.com/
+twitter: https://twitter.com/PixeIPenguins
+discord: https://discord.com/invite/wU8aftbKUG
 ---
+
 Pixel Penguins is the the first official Penguin Project On Solana.
