@@ -5,7 +5,7 @@ date: 2021-09-22
 logline: "10,000 unique Solana Sus sussy made by punks"
 category: nft, metaplex
 cta: https://amogusnft.com/
-logo: /img/amogus.png
+logo: /img/amogusnft.png
 status: building
 website: https://amogusnft.com/
 twitter: https://twitter.com/NFT_Amogus
