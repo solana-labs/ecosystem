@@ -10,6 +10,7 @@ website: https://www.parsiq.net/en/
 twitter: https://twitter.com/parsiq_net
 telegram: https://t.me/parsiq_group
 discord: https://discord.com/invite/RXRTx4dGwQ
+status: live
 ---
 
 PARSIQ is a blockchain monitoring and automation work platform that can act as a multi-layer bridge between blockchain and off-chain applications. The function of PARSIQ can automate the blockchain analysis and monitoring process, and provide a customizable workflow with real-time intelligence.

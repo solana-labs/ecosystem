@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/math.png
+status: live
 ---
 
 Following its successful integration with Solana into its wallet app, MATH’s investment provides capital and technical resources to new communities wanting to access Solana's fast growing infrastructure and subscriber traffic.

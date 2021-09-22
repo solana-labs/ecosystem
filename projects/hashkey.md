@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-development-growth-strategic-investment-funds"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/hashkey.png
+status: live
 ---
 
 With up to $20M reserved, teams and developers building on Solana will be eligible for HashKey's specialized ecosystem fund. Hashkey Capital employs a rigorous screening process based on deep knowledge of blockchain and digital asset markets, thematic research, and extensive industry tracking.

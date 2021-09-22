@@ -10,6 +10,7 @@ website: https://solflare.com/
 twitter: https://twitter.com/solflare_wallet
 telegram: http://t.me/SolFlare_Wallet
 discord: https://discord.com/invite/25ufaEWuMn
+status: live
 ---
 
 SolFlare supports sending and receiving native SOL tokens as well as sending and receiving SPL Tokens

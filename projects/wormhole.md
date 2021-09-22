@@ -10,6 +10,7 @@ website: https://wormholenetwork.com/en/
 twitter: https://twitter.com/wormholecrypto
 telegram: https://t.me/wormholecrypto
 discord: https://discord.com/invite/TsjcDtTPVp
+status: live
 ---
 
 Wormhole is a communication bridge between Solana and other top decentralized finance (DeFi) networks. Wormhole allows existing projects, platforms, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed and low cost.

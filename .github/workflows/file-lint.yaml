@@ -16,8 +16,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: git checkout add-linting-action
-
       - name: Get list of changed files
         id: changed_files
         uses: tj-actions/changed-files@v1.1.2
@@ -30,10 +28,10 @@ jobs:
             echo "$file was modified"
           done
 
-      # This will lint all files, see https://github.com/timhagn/lint-md-fm.
+      # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.1.3
+        uses: timhagn/lint-md-fm@v1.1.5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ${{ steps.changed_files.outputs.all_modified_files }}

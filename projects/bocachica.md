@@ -6,6 +6,7 @@ logline: "Boca Chica is a collaboration between the HAPI team and Solana to crea
 cta: https://www.bocachica.io/
 logo: /img/boca.svg
 category: app
+status: live
 ---
 
 HAPI-owned Boca Chica is one of the main facilitators of new Solana-based projects. Boca Chica is creating a fertile soil for new projects on Solana blockchain that will bloster growth and promote their significance in the crypto sphere.
