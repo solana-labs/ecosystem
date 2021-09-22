@@ -9,4 +9,4 @@ category: wallet, spl, defi, dex
 status: live
 ---
 
-MoonletWallet is a node operator and a non-custodial virtual asset wallet provider that enables crypto enthusiasts to securely manage, stake, and swap cryptocurrency assets. Having been involved in software development for over two decades, the MoonletWallet team posesses strong engineering experience. We are raring to push the envelope in decentralization, and are dedicated to doing so using the Solana ecosystem. 
+MoonletWallet is a node operator and a non-custodial virtual asset wallet provider that enables crypto enthusiasts to securely manage, stake, and swap cryptocurrency assets. Having been involved in software development for over two decades, the MoonletWallet team posesses strong engineering experience. We are raring to push the envelope in decentralization, and are dedicated to doing so using the Solana ecosystem.
