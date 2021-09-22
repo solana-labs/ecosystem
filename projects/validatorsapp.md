@@ -6,6 +6,7 @@ logline: "Validators.app is a dashboard that shows each Solana validator by titl
 cta: "https://validators.app"
 logo: /img/validatorsapp.svg
 category: explorer
+status: live
 ---
 
 Meet the validators who power Solana, the world's fastest blockchain! If you own SOL tokens, and seek a staking partner, you can use Validators.app to create a "short-list" of validators.

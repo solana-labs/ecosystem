@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-secures-60m-fund-to-drive-growth-in-emerging-markets"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/hackeneco.png
+status: live
 ---
 
 Gate.io was established in 2013. As one of the world's top 10 exchanges with real trading volume, the first choice for more than 3 million registered customers, and with business in more than 130 countries around the world, we provide one-stop digital asset solutions.

@@ -6,6 +6,7 @@ logline: "Hoo has multiple SOL spot trading pairs on their exchange."
 cta: "http://hoo.com/"
 logo: /img/hoo.svg
 category: exchange
+status: live
 ---
 
-Hoo is another exchange that listed SOL, Solana's native currency. You can trade SOL on hoo.com and investigate their offerings.
+Hoo is an exchange that listed SOL, Solana's native currency. You can trade SOL on hoo.com and explore their offerings.

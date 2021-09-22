@@ -5,6 +5,7 @@ date: 2021-07-25
 logline: "Fixed rate and swap contracts tokenized on DEX Serum."
 category: defi
 logo: /img/futurefinance.svg
+cta: "https://future-ftr.io/"
 status: live
 website: https://future-ftr.io/
 twitter: https://twitter.com/ftr_finance

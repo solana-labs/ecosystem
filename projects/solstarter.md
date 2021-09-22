@@ -9,6 +9,7 @@ category: app
 website: https://solstarter.org/
 twitter: https://twitter.com/solstarterorg
 telegram: https://t.me/solstarter
+status: building
 ---
 
 Solstarter is the first IDO platform for Solana. It empowers launchpad projects to raise liquidity in a fair & decentralized manner.

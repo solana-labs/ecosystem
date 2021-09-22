@@ -5,7 +5,7 @@ title: "NftEyez"
 logline: "Wallet scanner and NFT gallery."
 cta: "https://nfteyez.global/"
 logo: /img/nfteyez.svg
-category: nft, cross-chain, explorer
+category: nft, explorer
 status: live
 ---
 

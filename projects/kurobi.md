@@ -5,7 +5,7 @@ title: "Kurobi"
 logline: "A seamless tool for experts to host video calls with guests worldwide"
 cta: "https://kurobi.io/"
 logo: /img/kurobi.svg
-category: web3, app
+category: app
 status: Building
 website: https://kurobi.io
 twitter: https://twitter.com/kurobi_io

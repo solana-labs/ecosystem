@@ -4,6 +4,7 @@ title: "Solv Protocol"
 date: 2021-07-25
 logline: "Solv Protocol is the decentralized infrastructure for creating and trading Financial NFTs"
 website: "https://solv.finance/"
+cta: "https://solv.finance/"
 category: defi
 logo: /img/solv protocol.svg
 status: live
