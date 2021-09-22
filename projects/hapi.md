@@ -9,4 +9,4 @@ category: app
 status: live
 ---
 
-HAPI has been built to allow easy implementation in various use cases. It supports cross-chain solutions for most of the popular blockchains such as Ethereum, Solana, Polkadot, and others.
+HAPI allows easy implementation in various use cases. It supports cross-chain solutions for most of the popular blockchains, such as Ethereum, Solana, and Polkadot.

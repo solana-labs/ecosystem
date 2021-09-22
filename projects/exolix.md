@@ -9,4 +9,4 @@ category: exchange
 status: live
 ---
 
-Exolix is a fast, anonymous, reliable and fully transparent cryptocurrency exchange that supports SOL.
+Exolix is a fast, anonymous, reliable, and fully transparent cryptocurrency exchange that supports SOL.
