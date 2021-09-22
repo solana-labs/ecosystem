@@ -2,11 +2,11 @@
 slug: "medianetwork"
 date: "2020-07-29"
 title: "Media Network"
-logline: "Media Network is a highly scalable, privacy-first, and community-governed CDN"
+logline: "Media Network is a highly scalable, privacy-oriented, and community-governed CDN"
 cta: "https://media.network"
 logo: /img/media.svg
 category: infra
 status: building
 ---
 
-Media Network is a new protocol that bypasses traditional CDN providers’ centralized approach for a self-governed and open source solution where everyone can participate. Media Network creates a distributed bandwidth market that enables service providers such as media platforms to hire resources from the network and dynamically come and go as the demand for last-mile data delivery shifts.
+Media Network is a new protocol that foregoes traditional centralized CDN approaches and opts for a self-governed, open source solution. We've created a distributed bandwidth market that enables service providers to hire resources from the network which are variable, as the demand for last-mile data delivery fluctuates. 

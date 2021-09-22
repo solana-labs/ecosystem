@@ -9,4 +9,4 @@ category: nft
 website: https://github.com/ArcadeCity/metamarket
 ---
 
-MetaMarket is a Serum DEX with NFT minting and listing with interoperability incentives to grow the open metaverse.
+MetaMarket is a Serum DEX with NFT minting and listing with interoperability incentive, growing the open metaverse.

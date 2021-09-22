@@ -3,7 +3,7 @@ slug: metasafari
 date: "2021-08-28"
 title: MetaSafari
 logline: >-
-  We’re a multi-chain multi-tribe NFT based MetaVerse bridging digital &
+  We’re a multi-chain, multi-tribe NFT based MetaVerse bridging digital and
   physical worlds, and gamifying hybrid finance (HyFi).
 cta: "https://metasafari.world/"
 logo: /img/metasafari.svg
@@ -12,8 +12,8 @@ status: building
 twitter: "https://twitter.com/metasafari"
 ---
 
-MetaSafari is a multi-chain multi-tribe NFT based MetaVerse bridging digital & physical worlds, and gamifying hybrid finance (HyFi).
-Our first tribe, Alt Saints is a purpose-driven brand pledging 1% of our revenue to support grassroots environmental organisations in their efforts to improve life for all living things and to help restore our delicate shared ecosystems.
+MetaSafari is a multi-chain, multi-tribe NFT based MetaVerse bridging digital and physical worlds, and gamifying hybrid finance (HyFi).
+Our first tribe--Alt Saints--is a purpose-driven brand pledging that 1% of revenue goes to support environmental organisations. 
 
 <b>Website</b>: https://metasafari.world/ </br>
 <b>Twitter</b>: https://twitter.com/metasafari </br>
