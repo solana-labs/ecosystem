@@ -5,7 +5,7 @@ date: 2021-06-22
 logline: "Hiro LaunchDAO is a decentralized and meritocratic venture capital protocol that leverages and rewards the wisdom of crowds to sustainably bring impactful projects onto the Solana ecosystem."
 cta: "https://twitter.com/HiroLaunchdao"
 category: defi
-logo: /img/Hiro .png
+logo: /img/Hiro.png
 status: Building
 ---
 
