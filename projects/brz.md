@@ -8,6 +8,9 @@ logo: /img/brz.svg
 category: stablecoin, spl
 status: live
 address: "https://explorer.solana.com/address/FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD"
+twitter: https://twitter.com/BrzToken
+medium: https://medium.com/@BrzToken
+reddit: https://www.reddit.com/user/BRZtoken
 ---
 
 The BRZ stablecoin with a 1:1 peg to Brazilian Real. BRZ operates as a native asset on Solana.
