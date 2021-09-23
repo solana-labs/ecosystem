@@ -10,6 +10,7 @@ website: https://apexit.finance/
 twitter: https://twitter.com/apeXit_finance
 telegram: https://t.me/apexit_finance
 discord: https://discord.gg/aASQy2dWsN
+status: building
 ---
 
 apeXit is a Solana on-chain risk management tool that enables the end-user to instantly close spot holdings over the Solana ecosystem in a tap.

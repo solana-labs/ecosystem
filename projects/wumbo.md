@@ -6,7 +6,8 @@ logline: "Wum.bo is bringing Creator Coins to a social network near you."
 category: app
 logo: /img/wumbo.svg
 status: live
-website: https://wumbo.info
+cta: "https://wum.bo"
+website: https://wum.bo
 twitter: https://twitter.com/teamwumbo
 discord: https://discord.com/invite/S8wJBR2BQV
 ---

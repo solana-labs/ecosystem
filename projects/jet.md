@@ -10,6 +10,7 @@ website: https://www.jetprotocol.io/
 twitter: https://twitter.com/jetprotocol
 telegram: https://t.me/jetprotocol
 discord: https://discord.com/invite/RW2hsqwfej
+status: live
 ---
 
 Jet Protocol is a borrowing and lending protocol built on the Solana blockchain.

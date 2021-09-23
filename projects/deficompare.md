@@ -6,6 +6,7 @@ logline: "DeFiCompare is an open and fair DeFi comparison tool across all blockc
 cta: https://github.com/solanax/deficompare
 logo: /img/deficompare.svg
 category: explorer, tools, defi
+status: building
 ---
 
 An open and fair DeFi comparison tool across all blockchains and DeFi applications.

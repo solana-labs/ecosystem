@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/solana-secures-60m-fund-to-drive-growth-in-emerging-markets"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/dcxeco.png
+status: building
 ---
 
 CoinDCX, one of India's largest cryptocurrency exchanges and liquidity aggregators, launched a strategic ecosystem fund with the Solana Foundation. Up to $20M in capital is used for growing the Solana Ecosystem in India, as well as investing in projects building new Web3 products in multiple verticals, including DeFi, NFT marketplaces, infrastructure solutions, wallets, exchanges, and tooling.

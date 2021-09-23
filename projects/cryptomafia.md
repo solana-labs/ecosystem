@@ -7,7 +7,7 @@ logline: >-
   real stakes games and exclusive NFT minting events.
 cta: "https://cryptomafia.gg"
 logo: /img/cryptomafia.svg
-category: "app, nfts"
+category: "app, nft"
 status: live
 twitter: "https://twitter.com/cryptomafiagg"
 ---

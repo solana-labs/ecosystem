@@ -6,6 +6,7 @@ logline: "APIs for a vibrant decentralized future"
 category: infra
 logo: /img/thegraph.svg
 status: live
+cta: "https://thegraph.com/"
 website: https://thegraph.com/
 twitter: https://twitter.com/graphprotocol
 telegram: https://t.me/graphprotocol
