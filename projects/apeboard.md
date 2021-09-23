@@ -7,6 +7,8 @@ cta: "https://apeboard.finance/"
 category: app
 logo: /img/apeboard.svg
 status: live
+twitter: https://twitter.com/ape_board
+telegram: https://t.me/apeboard
 ---
 
 ApeBoard is a cross-chain DeFi dashboard that supports the Solana network.
