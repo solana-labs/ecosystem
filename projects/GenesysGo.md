@@ -4,6 +4,7 @@ date: "2021-08-16"
 title: "GenesysGo"
 logline: "GenesysGo is a Blockchain Service Provider. We provide robust and secure infrastructure to give blockchain developers and operators the performance they need."
 cta: "https://genesysgo.com"
+twitter: "https://twitter.com/genesysgo"
 logo: /img/gg.svg
 category: infra
 status: building
