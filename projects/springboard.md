@@ -5,8 +5,8 @@ title: "Springboard"
 logline: "Springboard is the growth engine for your crypto assets."
 cta: "https://springboard.finance/"
 logo: /img/springboard.svg
-category: defi
+category: defi, governance
 status: building
 ---
 
-A set of customised risk strategies to earn yield with your assets. SpringBoard is the gateway to jump and dive into the Solana DeFi ecosystem.
+Springboard is a DAO where you can invest into Daults (Decentralised vaults governed by the community) and customised risk strategies to generate DeFi yield. Daults leverage those strategies.
