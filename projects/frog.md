@@ -9,7 +9,9 @@ cta: "https://froglana.com/"
 category: NFT
 logo: /img/frog.svg
 status: Live
-twitter: "https://twitter.com/frogsolana"
+website: https://froglana.com/
+twitter: https://twitter.com/frogsolana
+discord: https://discord.gg/kqJtNkb9C3
 ---
 
 FROG IS A COMMUNITY MEME TOKEN, BUILT ON SOLANA BLOCKCHAIN.
