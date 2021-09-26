@@ -7,6 +7,8 @@ cta: "https://popsicle.finance/"
 logo: /img/popsicle.svg
 category: amm
 status: building
+medium: https://popsiclefinance.medium.com/
+twitter: https://twitter.com/popsiclefinance
 ---
 
-Popsicle finance is a next-gen cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).
+Popsicle finance is a next-gen cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP). 
