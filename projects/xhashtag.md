@@ -11,7 +11,7 @@ website: https://www.xhashtag.io/
 twitter: https://twitter.com/xhashtagio
 ---
 
-xHashtag enables fractional ownership of tokenized #hashtags purchasable by locking $XTAG tokens into a bonding curve contract that controls price in relation to supply of #hashtags and guarantees liquidity. The protocol burns #hashtags based on its performance on twitter, increasing its floor price over time. xHashtag is also a powerful twitter marketing tool for crypto projects to drive consistent conversation and gain traction on the CryptoTwitter while incentivizing their fans. 
+xHashtag enables fractional ownership of tokenized #hashtags purchasable by locking $XTAG tokens into a bonding curve contract that controls price in relation to supply of #hashtags and guarantees liquidity. The protocol burns #hashtags based on its performance on twitter, increasing its floor price over time. xHashtag is also a powerful twitter marketing tool for crypto projects to drive consistent conversation and gain traction on the CryptoTwitter while incentivizing their fans.
 
 <b>Website</b>: https://www.xhashtag.io </br>
 <b>Twitter</b>: https://twitter.com/xhashtagio </br>
