@@ -1,6 +1,6 @@
 ---
-slug: "CrazyDice"
-date: ""
+slug: "crazydice"
+date: "2021-08-02"
 title: "CrazyDice"
 logline: "A fair crypto dice game on Solana"
 cta: "https://www.crazydice.app/"
