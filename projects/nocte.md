@@ -1,4 +1,4 @@
-
+---
 slug: "nocte"
 date: "2020-07-22"
 title: "Nocte"
@@ -12,4 +12,6 @@ github: https://github.com/nocteapp
 discord: https://discord.gg/xtnxJe9zrF
 telegram: https://t.me/noctesol
 ---
-Nocte is an Automated Market Maker and DEX built on Solana.
+Nocte is an Automated Market Maker and DEX built on Solana. Provide
+liquidity for SPL tokens and other cross-chain assets never before seen on
+the Solana blockchain.
