@@ -7,6 +7,8 @@ cta: https://solania.space/
 logo: /img/solania.svg
 category: nft
 status: live
+twitter: https://twitter.com/solanianft
+discord: https://discord.com/invite/dJ2dhMUXsc
 ---
 
 Solania is planet NFT orbiting the Solana.
