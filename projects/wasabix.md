@@ -8,6 +8,8 @@ category: defi
 logo: /img/wasabix.svg
 twitter: https://twitter.com/WasabixFinance
 status: Live
+twitter: https://twitter.com/WasabixFinance
+
 ---
 
 WasabiX Finance is a cross-chain zero-interest lending platform that takes user’s future yield as collateral to increase capital efficiency by up to 1.5x. It helps retail users to maximize yields and save money on gas fee by periodically compounding the returns.
