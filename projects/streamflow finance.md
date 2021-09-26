@@ -5,7 +5,7 @@ date: 2021-06-22
 logline: "Token vesting & payroll solution leveraging stream payments."
 cta: "https://streamflow.finance"
 category: defi, spl, tools, app
-logo: /public/img/icon.png
+logo: /img/streamflowfinance.svg
 status: live
 discord: https://discord.gg/9yyr8UBZjr
 github: https://github.com/streamflow-finance
