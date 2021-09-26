@@ -5,7 +5,7 @@ title: "COPE"
 logline: "COPE is a next level interactive Leaderboard-Ecosystem"
 cta: "https://unlimitedcope.com"
 logo: /img/cope.svg
-category: app
+category: app, game
 status: live
 website: https://www.unlimitedcope.com/
 twitter: https://twitter.com/cyrii_mm
