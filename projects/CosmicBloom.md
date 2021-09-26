@@ -4,7 +4,7 @@ date: "2021-04-01"
 title: "Cosmic Bloom"
 logline: "Cosmic Bloom is a worldwide healing community."
 cta: "https://cosmicbloom.com"
-logo: /img/COSMIC BLOOM.svg
+logo: /img/COSMIC BLOOOM.svg
 category: metaplex, nft
 website: https://cosmicblooom.com/
 twitter: https://twitter.com/cosmicblooom
