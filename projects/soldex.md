@@ -15,5 +15,5 @@ linkedin: https://www.linkedin.com/company/soldex/
 facebook: https://www.facebook.com/profile.php?id=100070128226771&show_switched_toast=true
 ---
 
-A third generation crypto exchange looks to solve the issues faced by order-matching centralized exchanges and trustless custody within current decentralized exchanges. 
+A third generation crypto exchange looks to solve the issues faced by order-matching centralized exchanges and trustless custody within current decentralized exchanges.
 The soldex.ai protocol will power the new wave of flexible financial markets by serving as a foundation layer for settlement, market making, custody and liquidity. New wave of market makers will own unique algorithms, customize their trading strategy, and adjust their desired risk exposure, while keeping custody of their funds.
