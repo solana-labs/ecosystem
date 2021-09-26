@@ -22,7 +22,7 @@ Kurobi is powered by the Solana blockchain and allows users to host video calls 
 
 Kurobi supports payments with USDT, USDC, SOL, and KURO. $KURO is our native token which is used to:
 
-- Drive mainstream crypto adoption using commission-based cashback incentives 
+- Drive mainstream crypto adoption using commission-based cashback incentives
 - Support experts via tipping
 
 It's free, seamless, and works on Android phones, iPhones, tablets, and desktops.
