@@ -19,5 +19,3 @@ The BRZ Cryptocurrency Board works with reputable Tellers around the world that 
 Sales of BRZ Tokens for fiat currencies are performed according to the Teller's local jurisdiction procedures and regulations.
 
 At the request of Transfero Swiss, creator of BRZ Token, the Law Firm, CMT - Carvalho, Machado and Timm Advogados, prepared a document that proves available funds to face existing assets, more specifically BRZ Token, the Brazilian stablecoin paired in Reais.
-
-

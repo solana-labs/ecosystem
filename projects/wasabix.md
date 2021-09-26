@@ -8,7 +8,6 @@ category: defi
 logo: /img/wasabix.svg
 status: Live
 twitter: https://twitter.com/WasabixFinance
-
 ---
 
 WasabiX will be integrating with every yield aggregator on Solana.
