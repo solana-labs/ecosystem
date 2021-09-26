@@ -1,12 +1,14 @@
 ---
 slug: "mixinmessenger"
 title: "Mixin Messenger"
-date: 2021-06-22
-logline: "Mixin Messenger is an open-source Dapp available for iOS and Android with social and cryptocurrency wallet functions that allows for payments to be made with SOL tokens."
-cta: "https://twitter.com/Mixin_Network"
+date: "2021-06-22"
+logline: "A free, lightning fast & decentralized network for transferring digital assets. Secure digital assets and messages on Mixin."
+cta: "https://mixin.one/"
 category: wallet
 logo: /img/mixinmessenger.svg
 status: live
+website: https://mixin.one/
+twitter: https://twitter.com/Mixin_Network
 ---
 
-Mixin Messenger is an open source Dapp available for iOS and Android with social and cryptocurrency wallet function that can be used to send and receive SOL tokens.
+A free, lightning fast & decentralized network for transferring digital assets. Secure digital assets and messages on Mixin.

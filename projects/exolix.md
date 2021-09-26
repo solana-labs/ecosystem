@@ -6,6 +6,7 @@ logline: "Exolix is a cryptocurrency exchange that supports the SOL asset."
 cta: "https://exolix.com/"
 logo: /img/exolix.svg
 category: exchange
+twitter: https://twitter.com/exolix_com
 status: live
 ---
 

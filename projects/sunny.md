@@ -5,7 +5,7 @@ title: "Sunny"
 logline: "Sunny is Solana’s first composable DeFi yield aggregator."
 cta: "https://app.sunny.ag/"
 logo: /img/Sunny.svg
-category: metaplex, nft
+category: defi, amm
 status: live
 Website: https://app.sunny.ag/
 Twitter: https://twitter.com/SunnyAggregator
