@@ -9,6 +9,7 @@ logo: /img/kekwcoin.svg
 status: Building
 website: https://www.kekw.io/
 twitter: https://twitter.com/kekwcoin
+discord: https://discord.com/invite/3QWhNxhQ
 ---
 
 KEKW will be a space that will allow creators to engage, empower each other, collaborate and fulfill their initiatives the way they want. This space is meant to bring opportunities to up and coming creators, giving them a window to expose their talent, a voice to be heard and, as a community driven ecosystem, the opportunity to be valued and rewarded for their contributions.
