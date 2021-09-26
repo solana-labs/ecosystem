@@ -3,11 +3,11 @@ slug: "marinade"
 title: "Marinade"
 date: 2021-07-25
 logline: "The easiest way to stake your tokens. "
-website: "https://marinade.finance/#/"
 category: AMM
-cta: https://twitter.com/MarinadeFinance
+cta: "https://marinade.finance/#/"
 logo: /img/marinade.svg
 status: live
+website: https://marinade.finance/#/
 twitter: https://twitter.com/MarinadeFinance
 discord: https://discord.com/invite/mGqZA5pjRN
 ---
