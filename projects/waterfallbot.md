@@ -9,7 +9,6 @@ logo: /img/waterfall.svg
 status: Live
 website: https://waterfallbot.info/
 twitter: https://twitter.com/waterfallbots
-
 ---
 
 Waterfall Bot is multi-chain tracking bot, supported Solana blockchain
