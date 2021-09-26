@@ -1,6 +1,6 @@
 ---
 slug: crystal
-date: "2021-09-25"
+date: "2021-09-26"
 title: Crystal
 logline: >-
   Crystal Project is an ecosystem product being developed in Solana Blockchain with a focus on Gaming and NFTs.
@@ -8,7 +8,8 @@ cta: "https://solcry.io/"
 logo: /img/crystal.png
 category: "dex, nft, Dapp, game"
 status: building
-twitter: "https://twitter.com/Crystal80955369"
+website: https://solcry.io/
+twitter: https://twitter.com/Crystal80955369
 telegram: https://t.me/sol_cry
 discord: https://discord.com/invite/ghnnPvQNgS
 ---
