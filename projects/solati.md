@@ -6,7 +6,8 @@ logline: "SOLATI is an audible nft project that connects the users and artists t
 cta: https://solati.io/
 logo: /img/solati.svg
 category: app, nft
-status: building
+status: live
+twitter: https://twitter.com/ProjectSOLATI
 ---
 
 SOLATI project boosts amateur music market and supports artists to create better work.By owning SOLATI NFT, not only the artwork but also the copyright of the music can be obtained later on. The part of the paid amount goes to the artists.
