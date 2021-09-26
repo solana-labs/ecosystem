@@ -12,4 +12,4 @@ twitter: https://twitter.com/MarinadeFinance
 discord: https://discord.com/invite/mGqZA5pjRN
 ---
 
-Marinade.finance is a liquid staking protocol built on Solana. Enjoy automatic reinvestment of rewards and immediate access to your tokens with no lockup period.
+Marinade.finance is a liquid staking protocol built on Solana. Enjoy automatic reinvestment of rewards and immediate access to tokens with no lockup period.
