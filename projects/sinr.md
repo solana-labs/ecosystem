@@ -4,7 +4,7 @@ title: "SNIR"
 date: "2021-09-10"
 logline: "SINR is a 1:1 INR pegged stable asset built on Solana Network."
 cta: https://cloudflare-ipfs.com/ipfs/QmW963A7i4z3peNL8zVSMVEfwVPWaC7tjKyNcQcBKagZNa/
-category: STABLECOIN, P2P, DEFI 
+category: stablecoin 
 logo: /img/SINR-white.png
 status: building 
 ---
