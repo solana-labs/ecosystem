@@ -6,6 +6,7 @@ logline: "Kreechures is Solana's first crypto-collectible NFT RPG. Generation-0 
 cta: https://www.kreechures.com/
 logo: /img/kreechures.svg
 category: nft
+status: building
 ---
 
 Kreechures, or crypto-collectible non-fungible tokens (NFTs) stored on the Solana (SOL) blockchain, are one of a kind and yours to level up, collect, trade, or sell.

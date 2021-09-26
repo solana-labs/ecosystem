@@ -10,6 +10,7 @@ cta2text: "Fund Announcement"
 cta2: "https://www.coindesk.com/okex-mcx-invest-solana-projects-defi-arms-race"
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/blockdreamfundeco.png
+status: building
 ---
 
 Block Dream Fund was established by the exchange OKEx in February 2021. OKEx has allocated $100 million to the Block Dream Fund in a bid to back talented entrepreneurs and exceptional projects innovating with blockchain technology.

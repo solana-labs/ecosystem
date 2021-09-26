@@ -9,6 +9,7 @@ category: app
 website: https://ropesolana.com
 twitter: https://twitter.com/Rope_Official
 discord: https://discord.gg/rope
+status: live
 ---
 
 ROPE is the central token of the ROPE ecosystem. The ROPE token holds the following utility:

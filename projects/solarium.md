@@ -5,6 +5,7 @@ date: 2021-07-25
 logline: "Solarium is a fully decentralised, end-to-end encrypted instant messenger on the Solana blockchain."
 category: app
 logo: /img/solarium.svg
+cta: "https://solarium.chat/"
 status: live
 website: https://solarium.chat/
 twitter: https://twitter.com/solariume2e

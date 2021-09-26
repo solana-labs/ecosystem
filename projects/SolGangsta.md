@@ -4,7 +4,7 @@ date: "2021-27-01"
 title: "SolGangsta"
 logline: "An NFT art for Gangsta built on Solana platform."
 cta: "https://solgangsta.holaplex.com/#/"
-logo: /img/<filename>.svg
+logo: /img/solgangsta.jpg
 category: metaplex, nft
 status: live
 website: https://solgangsta.holaplex.com/#/

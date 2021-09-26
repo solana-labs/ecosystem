@@ -10,6 +10,7 @@ website: http://samoyedcoin.com/
 twitter: https://twitter.com/samoyedcoin
 telegram: https://t.me/samoyedcoin
 discord: http://discord.gg/caEepqZVcb
+status: live
 ---
 
 Even though it was originally released as a memecoin, SAMO is becoming a real Solana ambassador. Helping introduce Solana to new people, building new and exciting solutions for the ecosystem, the cutest dog can do it all. Enhancing the user experience for everyeone using the Solana ecosystem and also helping other projects along the way.

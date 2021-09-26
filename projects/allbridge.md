@@ -9,4 +9,4 @@ category: infra
 status: live
 ---
 
-Modular and expandable token bridge, decentralized, with on-chain consensus. Exactly how the bridge is supposed to be.
+Allbridge is a simple, modern, and reliable way to transfer assets between networks. It's a decentralized, modular, and expanding token bridge with on-chain consensus. Transfer ERC20, SPL, and many more tokens in a few clicks

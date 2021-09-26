@@ -10,6 +10,7 @@ logo: /img/coin98.svg
 category: fund
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/coin98eco.png
+status: live
 ---
 
 Coin98 Ventures — the investment arm of Coin98 Finance, a blockchain-focused software company in Vietnam — announced an ecosystem fund of up to $5 million in partnership with the Solana Foundation. The new fund was established in December 2020 to nurture the Solana developer ecosystem in Southeast Asia, with a particular focus on Vietnam. The fund will be deployed over the next three years, concluding in January 2024.
