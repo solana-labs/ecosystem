@@ -1,12 +1,15 @@
 ---
 slug: "bsn"
-date: "2020-04-03"
+date: "2021-09-27"
 title: "BSN"
 logline: "The Blockchain Service Network partnered with Solana to provide convenient access for developers working with BSN’s infrastructure."
-cta: "https://cointelegraph.com/news/chinas-blockchain-service-network-integrates-three-more-public-chains"
+cta: "https://bsnbase.io"
 logo: /img/bsn.svg
 category: infra
 status: building
+website: https://bsnbase.io
+twitter: https://twitter.com/bsnbase
+telegram: https://t.me/bsnsupport
 ---
 
 China’s Blockchain-based Service Network, or BSN, is a cross-cloud, cross-portal, and cross-framework global public infrastructure network.
