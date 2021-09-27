@@ -4,7 +4,7 @@ date: "2021-09-27"
 title: "BSN"
 logline: "The Blockchain Service Network partnered with Solana to provide convenient access for developers working with BSN’s infrastructure."
 cta: "https://bsnbase.io"
-logo: /img/bsn.svg
+logo: /img/BSN.png
 category: infra
 status: building
 website: https://bsnbase.io
