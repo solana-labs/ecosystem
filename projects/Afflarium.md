@@ -2,10 +2,10 @@
 slug: "afflarium"
 date: "2021-08-31"
 title: "Afflarium"
-logline: "Afflarium - is a special and realistic gaming world, combining virtual reality, cryptocurrency, NFT, digital property, the real economy, and a unique gaming experience."
+logline: "Afflarium - is a special and realistic gaming world, combining virtual reality, cryptocurrency, NFT, digital property, real economy, and a unique gaming experience."
 cta: "https://afflarium.com/"
 logo: /img/Afflarium.svg
-category: app, nft
+category: app, nft, game
 status: building
 website: https://afflarium.com/
 twitter: https://twitter.com/afflarium
@@ -31,3 +31,6 @@ Assets are virtually tangible through the VR experience, each having its own use
 Earn from gameplay or from trading, it’s where you start investing instead of spending – and have
 fun while doing it.
 
+Website: https://afflarium.com/
+Twitter: https://twitter.com/afflarium
+Telegram: https://t.me/afflarium_news
