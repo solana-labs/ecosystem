@@ -21,7 +21,7 @@ royalty payments circumvent the exploitative status-quo of the music
 industry.
 
 Currently, nfrastructure providers in the industry profit by
-taking a piece of the artist’s revenue. Nina deems this unnecessary. 
+taking a piece of the artist’s revenue. Nina deems this unnecessary.
 
 At Nina, we believe a protocol that provides maximum value to artists
 and fans alike will bring the next wave of users to web3.

@@ -10,4 +10,4 @@ status: building
 ---
 
 Nocte is an Automated Market Maker and DEX built on Solana providing
-liquidity for SPL tokens and other cross-chain assets, a first for the Solana ecosystem. 
+liquidity for SPL tokens and other cross-chain assets, a first for the Solana ecosystem.

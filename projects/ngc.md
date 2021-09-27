@@ -15,6 +15,6 @@ status: live
 
 NGC Ventures' fund emphasizes development, hiring, and prudent treasury and financial management. By leveraging their polished thesis and rich network, NGC Ventures brings invaluable relationships to the Solana ecosystem.
 
-Up to $20M will be deployed to projects with potential for disrupting their target markets. Having a strong team with an innovative project and good product/market fit, strong community participation, and a clear pathway toward community ownership are all examples of criteria that NGC Ventures takes into account. 
+Up to $20M will be deployed to projects with potential for disrupting their target markets. Having a strong team with an innovative project and good product/market fit, strong community participation, and a clear pathway toward community ownership are all examples of criteria that NGC Ventures takes into account.
 
 In addition to capital, NGC Ventures offers mentorship based on entrepreneurial experience, specifically in regard to company building, hiring, and treasury management.
