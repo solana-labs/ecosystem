@@ -2,7 +2,7 @@
 slug: "ono"
 date: "2021-06-01"
 title: "Ono"
-logline: "A next generation curated NFT marketplace designed with creators first built on MetaplexNFT & Solana."
+logline: "A next generation curated NFT marketplace designed with creators in mind. Built on Metaplex & Solana."
 cta: "http://www.ono.art/"
 logo: /img/Ono.svg
 category: metaplex, nft
@@ -11,4 +11,4 @@ website: http://www.ono.art/
 twitter: https://twitter.com/onodotart
 ---
 
-Ono is a next generation curated NFT marketplace designed with creators first built on Metaplex & Solana.
+Ono is a next generation curated NFT marketplace designed with creators in mind. Built on Metaplex & Solana.
