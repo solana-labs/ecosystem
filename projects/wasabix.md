@@ -6,7 +6,6 @@ logline: "WasabiX's mission is to unlock the capital efficiency of yield bearing
 cta: "https://wasabix.finance/"
 category: defi
 logo: /img/wasabix.svg
-twitter: https://twitter.com/WasabixFinance
 status: Live
 twitter: https://twitter.com/WasabixFinance
 ---
