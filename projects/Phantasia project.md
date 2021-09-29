@@ -7,4 +7,7 @@ cta: "https://www.phantasia.digital/"
 logo: /img/phantasia_logo.svg
 category: app, tools
 status: building
+website: https://www.phantasia.digital
+twitter: https://twitter.com/PhantasiaSports
+
 ---
