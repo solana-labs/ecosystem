@@ -5,7 +5,7 @@ title: "Jackie Chan Fan Token"
 logline: "Jackie Chan Fan Token is community driven Crypto"
 cta: "https://anchorprotocol.com/"
 logo: /img/jackie.svg
-category: explorer
+category: explorer, app, spl
 status: live
 website: https://jackietoken.tk/
 twitter: https://twitter.com/jackie_token/
