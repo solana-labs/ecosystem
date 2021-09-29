@@ -65,19 +65,20 @@ defi
 dex
 exchange
 explorer
+fund
 game
 governance
 infra
+investmentfund
+metaplex
+nft
 oracle
+rpc
 sdk
 spl
 stablecoin
 tools
-metaplex
-nft
 wallet
-fund
-investmentfund
 ```
 
 Please only use existing ones and *watch out for typos*!  
