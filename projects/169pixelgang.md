@@ -3,7 +3,7 @@ slug: "169pixelgang"
 date: "2020-09-10"
 title: "169 Pixel Gang"
 logline: "169 Pixel Gang is a streetwear in metaverse and real world"
-cta: "https://anchorprotocol.com/"
+cta: "https://169pixel.com/"
 logo: /img/169pixelgang.svg
 category: nft
 status: live

@@ -20,25 +20,26 @@ Same goes for changed images or Logos for your Project.
 
 ```
 ---
-slug: "anchor"
-date: "2020-04-03"
-title: "Anchor"
-logline: "Anchor is a savings protocol that aims to produce a simple and convenient savings product with broad appeal to everyday users."
-cta: "https://anchorprotocol.com/"
-logo: /img/anchor.svg
-category: defi
+slug: "yourslug"
+date: "2020-09-30"
+title: "Project Title"
+logline: "Write a short description about your project."
+cta: "https://yourwebsite.tld/call-to-action"
+logo: /img/yourimage.svg
+category: amm, app, dapp
 status: building
-website: https://anchorprotocol.com/
-twitter: https://twitter.com/anchor_protocol
-telegram: https://t.me/anchor_official
-discord: https://discord.com/invite/9aUYgpKZ9c
+website: https://yourwebsite.tld/
+twitter: https://twitter.com/yourproject
+telegram: https://t.me/yourproject
+discord: https://discord.com/invite/12A3bcDE1f
 ---
 
-Anchor is a savings protocol that aims to produce a simple and
-convenient savings product with broad appeal to everyday users.
+This project will look nicely on the ecosystem page and very much advance
+the Solana Ecosystem. All while following the community rules, and the ones 
+stated herein.
 ```
 
-Example Markdown headers are above. Below are guidelines for each field:
+Example(!) Markdown headers are above. Below are guidelines for each field:
 
 - **(required)** `slug`: The page URL that follows after solana.com/ecosystem/
 - **(required)** `date`: The date of project addition
@@ -46,7 +47,7 @@ Example Markdown headers are above. Below are guidelines for each field:
 - **(required)** `logline`: The one line summary of the project and its integration to Solana
 - **(required)** `cta`: A URL to direct users to at the bottom of the page
 - **(required)** `logo`: A relative path to the corresponding image
-- **(enforced)** `category`: A comma separated list of categories describing the project
+- **(enforced)** `category`: A comma separated list of categories describing the project from the ones below!
 - **(required)** `status`: The status of the project: `live`, `building`, or `closed`
 - **(optional)** `website`: URL to the website (optional)
 - **(required)** `twitter`: URL to Twitter page (required)
