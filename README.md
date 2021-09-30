@@ -87,6 +87,7 @@ If you think there is need for another one to be added, ask so in your PR.
 
 All image files must be 100x100px / at an aspect ratio of ~1.   
 Only .svg, .png, and .jpg and .jpeg files are accepted.
+Please refrain from using SVGs with embedded PNG or JPG images!
 
 ### Linting
 
