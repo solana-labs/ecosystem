@@ -9,4 +9,5 @@ category: fund
 status: live
 ---
 
-Satori VC, based in Hong Kong, is a multi-strategy VC and research firm established by a group of crypto-veteran with a mission to advance the ecosystem by supporting promising projects in the space. Leverage our connection, advisory and support to build the next cornerstone of the ecosystem.
+Satori VC, based in Hong Kong, is a multi-strategy VC and research firm established by a group of crypto-veterans with a mission to advance the ecosystem by supporting promising projects in the space. Leverage our connection, advisory and support to build the next cornerstone of the ecosystem.
+
