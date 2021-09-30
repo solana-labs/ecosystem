@@ -9,7 +9,7 @@ logline: >-
 cta: "https://solstreet.finance/"
 logo: /img/solstreet.svg
 category: DeFi
-twitter: "https://twitter.com/SolStreetFin"
+twitter: https://twitter.com/SolStreetFin
 status: live
 ---
 
