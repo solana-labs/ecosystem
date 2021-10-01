@@ -10,3 +10,8 @@ status: live
 ---
 
 ApeBoard is a cross-chain DeFi dashboard that supports the Solana network.
+
+<b>Website</b>: https://apeboard.finance </br>
+<b>Twitter</b>: https://twitter.com/ape_board </br>
+<b>Telegram</b>: https://t.me/joinchat/IgrzTnHKm-A0RwSP </br>
+<b>Gitbook</b>: https://docs.apeboard.finance </br>
