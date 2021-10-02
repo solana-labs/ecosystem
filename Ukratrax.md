@@ -4,7 +4,7 @@ date: "2021-07-01"
 title: "Ukratrax"
 logline: "NFT items from the musicians and artists built on Solana."
 cta: "https://www.ukratrax.store/#/"
-logo: /img/<filename>.svg
+logo: /img/ukratrax.svg
 category: metaplex, nft
 status: live
 website: https://www.ukratrax.store/#/
