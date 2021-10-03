@@ -6,7 +6,7 @@ logline: "SolPayments is a payment processing platform for cryptocurrencies whic
 cta: "https://solpayments.com/"
 category: tools
 logo: /img/solpayments.svg
-status: live (demo)
+status: live
 twitter: https://twitter.com/SolPayments
 ---
 
