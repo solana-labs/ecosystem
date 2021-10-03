@@ -7,11 +7,10 @@ cta: "https://www.solanasail.com/"
 category: defi, app, spl, tools
 logo: /img/solanasail.svg
 status: Building
+website: https://www.solanasail.com/
 twitter: https://twitter.com/SolanaSail
-discord: https://discord.com/invite/37cMrQ8kV9
 telegram: https://t.me/SolanaSail_Official
-medium: https://solanasail.medium.com/
-reddit: https://www.reddit.com/r/solanasail/
+discord: https://discord.com/invite/37cMrQ8kV9
 ---
 
 SolanaSail's governance platform will provide to any SPL tokens/projects the ability to create/vote for their proposals. Solana Sail is the fastest and most scalable digital asset, enabling real-time global payments, Decentralized Finance(DeFi), Governance, Vaults and NFT marketplace anywhere in the world.
