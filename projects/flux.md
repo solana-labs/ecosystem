@@ -7,10 +7,10 @@ cta: "https://fluxprotocol.org/"
 logo: /img/flux.svg
 category: oracle
 status: building
+website: https://fluxprotocol.org/
 twitter: https://twitter.com/fluxprotocol
-linkedin: https://www.linkedin.com/company/fluxprotocol/
-discord: https://discord.com/invite/sJUveAvJHf
 telegram: https://t.me/fluxprotocol
+discord: https://discord.com/invite/sJUveAvJHf
 ---
 
 The trust-less data layer
