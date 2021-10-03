@@ -5,9 +5,8 @@ title: "SOLife"
 logline: "SOLife is reward-based NFT strategy game on Solana blockchain."
 cta: https://solife.town/
 logo: /img/solife.svg
-category: nft, games
+category: nft, game
 status: live
-discord: https://discord.com/invite/5m4mFc4Sw7
 twitter: https://twitter.com/SOLifeNFT
 ---
 
