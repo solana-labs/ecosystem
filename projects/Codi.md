@@ -4,7 +4,7 @@ date: "2020-09-02"
 title: "Codi Finance"
 logline: "The IDO Protocol facilitates the realization of broad ecosytem financial ideas."
 cta: "https://www.codi.finance/"
-logo: /img/Codi-logo.png
+logo: /img/Codi.png
 category: DEX IDO NFT
 status: Building
 website: https://www.codi.finance/
