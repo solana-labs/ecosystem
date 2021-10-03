@@ -8,9 +8,8 @@ logo: /img/acumen.svg
 category: app
 status: live
 twitter: https://twitter.com/Acumenofficial
-medium: https://medium.com/@Acumenofficial
-discord: https://discord.gg/3B4DsJKg5J
 telegram: https://t.me/AcumenOfficial
+discord: https://discord.gg/3B4DsJKg5J
 ---
 
 The Acumen protocol is an autonomous, non-custodial interest rate protocol native to the Solana blockchain that uses algorithmically set interest rates to enable open financial applications.
