@@ -7,6 +7,7 @@ cta: "https://solanatip.io"
 category: tools
 logo: /img/solanatip.svg
 status: live
+website: https://solanatip.io
 twitter: https://twitter.com/SolanaTip
 
 ---
