@@ -8,8 +8,6 @@ logo: /img/yiToken.svg
 category: wallet
 status: live
 twitter: https://twitter.com/yitokenwallet
-github: https://github.com/yitokenlabs
-medium: https://yitoken.medium.com/
 discord: https://discord.com/invite/BJ7H8CUbAb
 ---
 
