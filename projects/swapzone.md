@@ -1,7 +1,7 @@
 ---
 slug: "swapzone"
 title: "Swapzone"
-date: 2021-06-22
+date: "2021-06-22"
 logline: "Swapzone is an instant non-custodial cryptocurrency exchange aggregator."
 cta: "https://swapzone.io/"
 category: exchange, tools
