@@ -7,7 +7,7 @@ cta: "https://popsicle.finance/"
 logo: /img/popsicle.svg
 category: amm
 status: building
-medium: https://popsiclefinance.medium.com/
+website: https://popsicle.finance/
 twitter: https://twitter.com/popsiclefinance
 ---
 
