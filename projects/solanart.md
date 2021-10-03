@@ -6,7 +6,7 @@ logline: "Solanart is the first NFT marketplace on Solana. Get quick and easy ac
 cta: "https://solanart.io/"
 logo: /img/solanart.svg
 category: nft
-status: live (beta)
+status: live
 twitter: https://twitter.com/SolanartNFT
 discord: https://discord.com/invite/CJ772sEkGH
 
