@@ -3,10 +3,11 @@ slug: "velas"
 date: "2020-04-03"
 title: "Velas"
 logline: "Velas announced their support for Solana, allowing Velas to leverage one of the fastest blockchain frameworks in the industry and add EVM support throughout."
-cta: "https://velasblockchain.medium.com/velas-leverages-solana-codebase-to-become-one-of-the-fastest-blockchains-in-the-industry-8eb6baaa06db"
+cta: "https://velas.com/"
 logo: /img/velas.svg
 category: infra
 status: live
+e-mail: info@velas.com
 ---
 
 Velas announced their support for the the Solana codebase, resulting in one of the fastest blockchain frameworks in the industry. Velas has now added support for Ethereum Virtual Machine.

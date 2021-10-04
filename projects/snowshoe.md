@@ -6,7 +6,7 @@ logline: "Snowshoe is a community meme token built on Solana."
 cta: "https://twitter.com/snowshoesolana"
 category: app
 logo: /img/snowshoe.svg
-status: Live
+status: closed
 ---
 
 Snowshoe is a project that aims to reward art creators for their original art through a community-ranked leaderboard.

@@ -5,8 +5,9 @@ title: "SOLife"
 logline: "SOLife is reward-based NFT strategy game on Solana blockchain."
 cta: https://solife.town/
 logo: /img/solife.svg
-category: nft
+category: nft, game
 status: live
+twitter: https://twitter.com/SOLifeNFT
 ---
 
 SOLife is the first ever Solana-based NFT strategy game based on a worldview that was inspired by The Game of Life - a board game that covers a lifetime starting from birth to death.
