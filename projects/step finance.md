@@ -9,7 +9,7 @@ category: DeFi
 website: https://step.finance/
 twitter: https://twitter.com/StepFinance_
 telegram: https://t.me/stepfinance
-discord: https://discord.com/invite/k5gMJUAEJe 
+discord: https://discord.com/invite/k5gMJUAEJe
 status: live
 ---
 
