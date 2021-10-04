@@ -10,4 +10,3 @@ status: Live
 ---
 
 Waterfall Bot is a multi-chain tracking bot for Solana blockchain
-
