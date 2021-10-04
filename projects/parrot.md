@@ -9,7 +9,7 @@ category: DeFi
 website: https://partyparrot.finance/vaults/
 twitter: https://twitter.com/gopartyparrot
 telegram: https://t.me/gopartyparrot
-discord: https://discord.gg/TzhpCRsb57
+discord: https://discord.com/invite/gopartyparrot
 status: live
 ---
 
