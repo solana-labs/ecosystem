@@ -12,4 +12,5 @@ twitter: https://twitter.com/SurfSolana/
 discord: https://discord.gg/tHUyebe7ZE
 ---
 
-The simplest way to track your active investments and open liabilities on Serum.
+A simple way to track your active investments and open liabilities on Serum.
+
