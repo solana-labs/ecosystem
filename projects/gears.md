@@ -13,4 +13,6 @@ discord: https://t.co/cvobo3OTqF?amp=1
 telgram: https://t.me/decommas
 ---
 
-DeCommas Gears: tools for tracking on the Solana blockchain. Designed for quick and detailed overview, DeCommas Gears is the most convenient way to track activity inside the Solana blockchain.
+DeCommas Gears - tools for tracking on the Solana blockchain. Designed for a quick and detailed overview. Decommas Gears is a convenient way to track activity inside Solana blockchain.
+
+

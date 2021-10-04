@@ -12,6 +12,6 @@ twitter: https://twitter.com/LumosExchange
 discord: https://discord.gg/aNDpkWp9wG
 ---
 
-Lumos Exchange is currently the only P2P exchange with a focus on Solana. Our solution will integrate with SOL by providing buy/sell features in 186 countries and utilising more than 100+ payment methods.
+Lumos Exchange is currently the only P2P exchange with a focus on Solana. Our solution will integrate with SOL by providing buy/sell features in 186 countries and utilizing more than 100+ payment methods.
 
-Every project that currently exists on Solana could be accessible, by purchasing SOL via Lumos Exchange.
+Every project that currently exists on Solana could be accessible by purchasing SOL via Lumos Exchange.

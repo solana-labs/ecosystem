@@ -13,6 +13,6 @@ discord: https://discord.gg/xtnxJe9zrF
 telegram: https://t.me/noctesol
 ---
 
-Nocte is an Automated Market Maker and DEX built on Solana. Provide
-liquidity for SPL tokens and other cross-chain assets never before seen on
-the Solana blockchain.
+Nocte is an Automated Market Maker and DEX built on Solana to provide liquidity for SPL tokens and other cross-chain assets never before seen on the Solana blockchain.
+
+

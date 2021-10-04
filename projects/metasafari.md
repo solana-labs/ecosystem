@@ -12,8 +12,9 @@ status: building
 twitter: "https://twitter.com/metasafari"
 ---
 
-MetaSafari is a multi-chain, multi-tribe NFT based MetaVerse bridging digital and physical worlds, and gamifying hybrid finance (HyFi).
-Our first tribe--Alt Saints--is a purpose-driven brand pledging that 1% of revenue goes to support environmental organisations.
+MetaSafari is a multi-chain, multi-tribe NFT based MetaVerse bridging digital and physical worlds, and gamifying hybrid finance (HyFi). Our first tribe--Alt Saints--is a purpose-driven brand pledging that 1% of revenue goes to support environmental organizations.
+
+
 
 <b>Website</b>: https://metasafari.world/ </br>
 <b>Twitter</b>: https://twitter.com/metasafari </br>

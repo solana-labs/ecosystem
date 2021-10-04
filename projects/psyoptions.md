@@ -9,7 +9,7 @@ category: DeFi
 website: https://psyoptions.io/
 twitter: https://twitter.com/PsyOptions/photo
 telegram: https://t.me/psyoptions
-discord: https://discord.com/invite/cVHFVA4b
+discord: https://discord.com/invite/MgDdJKgZJc
 status: live
 ---
 

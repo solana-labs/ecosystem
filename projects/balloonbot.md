@@ -9,6 +9,7 @@ logo: /img/balloon.svg
 status: Live
 ---
 
-This bot provides an enjoyable experience for users thanks to the incredible speed of the Solana network, in addition to helping more users gain a positive experience in their respective communities.
+This bot provides an enjoyable experience for users in their respective communities thanks to the incredible speed of the Solana network
+
 
 Guide Document: https://www.notion.so/ENG-BalloonBot-Guide-ea629ec744f14e12adb2605c1f63babe

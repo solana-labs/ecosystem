@@ -9,12 +9,12 @@ category: dex, tools
 status: building
 ---
 
-Ashera will provide some features that will help many Solana Developer.
-Our features:
+Ashera will provide some features that will help many Solana Developers. Our features:
 
-- Ashera DEX
-- Dashboard Wallet
-- Ashera Tools
-- NFTs Marketplace
-- Discord Tip Bot
-- Discord Price Bot
+Ashera DEX
+Dashboard Wallet
+Ashera Tools
+NFTs Marketplace
+Discord Tip Bot
+Discord Price Bot
+

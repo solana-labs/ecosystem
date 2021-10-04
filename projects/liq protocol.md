@@ -13,4 +13,4 @@ discord: http://discord.gg/liq
 telegram: https://t.me/LIQ_channel
 ---
 
-LIQ Protocol processes liquidations on the Solana chain within the serum ecosystem on platforms that offer margin and leverage.
+LIQ Protocol processes liquidations on the Solana chain within the serum ecosystem on platforms offering margin and leverage.

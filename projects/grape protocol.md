@@ -4,11 +4,11 @@ title: "Grape Protocol"
 date: 2021-06-22
 logline: "GRAPE is a protocol for building token-based membership communities on the Solana blockchain."
 cta: "https://grapes.network"
-category: app
+category: app, community
 logo: /img/grapeprotocol.svg
 status: Live
 website: https://grapes.network/
-twitter: https://twitter.com/solanagrape
+twitter: https://twitter.com/grapeprotocol
 discord: https://discord.gg/greatape
 ---
 

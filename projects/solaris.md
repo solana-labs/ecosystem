@@ -13,4 +13,5 @@ discord: https://discord.com/invite/pJh4TuuzEp
 status: live
 ---
 
-Solaris is a protocol for DeFi users, earning interest on deposits and borrwing assets.
+Solaris is a protocol for DeFi users that allows for earning interest on deposits and borrowing assets.
+
