@@ -9,4 +9,4 @@ logo: /img/waterfall.svg
 status: Live
 ---
 
-Waterfall Bot is multi-chain tracking bot, supported Solana blockchain
+Waterfall Bot is a multi-chain tracking bot for Solana blockchain
