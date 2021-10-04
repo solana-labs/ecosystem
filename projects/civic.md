@@ -13,4 +13,5 @@ telegram: https://t.me/civicplatform
 discord: https://discord.com/invite/MWmhXauJw8
 ---
 
-Civic is a decentralized identity ecosystem, enabling identity verification in a safe, cost-effective way. Using the digital identification platform, users can create their own virtual identity and store it together with personal information on the device.
+Civic is a decentralized identity ecosystem enabling identity verification in a safe, cost-effective way. Using this digital identification platform, users can create their own virtual identity and store it together with personal information on their device.
+
