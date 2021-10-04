@@ -9,7 +9,6 @@ logo: /img/rpcpool.svg
 status: live
 twitter: https://twitter.com/rpcpool
 telegram: https://t.me/joinchat/K0ONdq7fE4s0Mjdl
-discord: 
 ---
 
 We provide low-latency access with servers in US, EU and Asia Pacific.
