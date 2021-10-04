@@ -1,7 +1,7 @@
 ---
 slug: "sypool"
 title: "Sypool"
-date: 2021-07-25
+date: "2021-07-25"
 logline: "Sypool is a synthetic asset management protocol."
 category: defi
 cta: https://twitter.com/SYP_Protocol

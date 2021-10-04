@@ -7,6 +7,9 @@ cta: https://nogoal.click/
 logo: /img/nogoal.svg
 category: nft, app, spl, dex
 status: building
+website: https://nogoal.click/
+twitter: https://twitter.com/InoSplToken
+discord: https://discord.gg/mHS3qbBaZk
 ---
 
 <b>NoGoalFaces</b>
