@@ -10,5 +10,3 @@ status: live
 ---
 
 solana-go-sdk as used in Blocto. You can use it to build your app. Follow our github project and you'll see the latest status.
-
-
