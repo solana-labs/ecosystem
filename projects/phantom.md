@@ -9,7 +9,6 @@ category: wallet
 status: live
 website: https://phantom.app/
 twitter: https://twitter.com/phantom
-discord:
 ---
 
 Phantom is a digital wallet reimagined for DeFi. Phantom makes it safe & easy for you to store, send, receive, collect and swap tokens on the Solana blockchain.
