@@ -26,4 +26,4 @@ twitter: "https://twitter.com/SolyardFinance"
 
 **GitHub**: https://github.com/SolyardFinance
 
-**Discord**: https://discord.gg/solyardfinance
+**Discord**: https://discord.com/invite/GxRj6nrX26 
