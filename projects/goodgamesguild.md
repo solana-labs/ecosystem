@@ -2,7 +2,6 @@
 slug: "goodgamesguild"
 date: "2021-09-16"
 title: "Good Games Guild"
-date: "2021-09-16"
 logline: "A Gaming hub focus on blockchain-based games. #Play2Earn movement! Metaverse for the living"
 cta: "http://goodgamesguild.com/"
 logo: /img/ggg.svg
