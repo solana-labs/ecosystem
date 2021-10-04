@@ -9,4 +9,5 @@ category: explorer
 status: live
 ---
 
-Salty Stats is a comprehensive validator explorer that aggregates multiple datapoints across Mainnet Beta, Tour de SOL, and Wormhole.
+Salty Stats is a comprehensive validator explorer that aggregates multiple data points across Mainnet Beta, Tour de SOL, and Wormhole.
+
