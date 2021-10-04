@@ -10,7 +10,6 @@ status: live
 website: https://www.bublhost.com/
 twitter: https://twitter.com/bublhost
 telegram: http://t.me/bublhost
-discord: https://discord.com/invite/bubl
 ---
 
 Decentralized event hosting and ticketing. Creating events and buying tickets is now safer and faster.
