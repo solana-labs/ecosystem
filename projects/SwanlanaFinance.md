@@ -5,8 +5,11 @@ title: "SWANLANA"
 logline: "Swanlana is a decentralized, Exchange and NFT Marketplace mixing social media."
 cta: "https://swanlana.com/"
 logo: /img/SwanlanaFinance.svg
-category: nft, dex, defi
-status: building
+category: nft, metaplex
+status: live
+website: https://www.swanlana.com/
+twitter: https://twitter.com/Swan_Solana
+discord: https://discord.com/invite/RMDAsJ8uVv
 ---
 
-Swanlana is a decentralized, Exchange and NFT Marketplace mixing social media.
+Swanlana is a decentralized exchange and NFT Marketplace combined with social media.

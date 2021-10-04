@@ -1,11 +1,12 @@
 ---
 slug: "thegraph"
 title: "The Graph"
-date: 2021-07-25
+date: "2021-07-25"
 logline: "APIs for a vibrant decentralized future"
 category: infra
 logo: /img/thegraph.svg
 status: live
+cta: "https://thegraph.com/"
 website: https://thegraph.com/
 twitter: https://twitter.com/graphprotocol
 telegram: https://t.me/graphprotocol

@@ -10,6 +10,7 @@ website: https://rampdefi.com/
 twitter: https://twitter.com/RampDefi
 telegram: https://t.me/rampdefiofficial
 discord: https://discord.com/invite/WY5TU7b
+status: live
 ---
 
 RAMP DeFI is committed to releasing liquidity from mortgaged digital assets. Our solution enables SOL users to obtain additional liquidity without giving up their mortgage rewards or capital appreciation potential.

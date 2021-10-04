@@ -11,6 +11,6 @@ status: live
 
 On August 6th, 2020, Crypto.com listed SOL.
 
-With SOL added to the Crypto.com App, users can now purchase it at true cost with no fees - credit card and bank transfer both supported.
+With SOL added to the Crypto.com app, users can now purchase at true cost with no fees - credit card and bank transfer both supported.
 
-As Crypto.com also offers a Visa Card, this adds additional utility to SOL as users can easily convert cryptocurrencies into fiat currencies and spend at over 60m merchants globally.
+As Crypto.com also offers a Visa Card, this adds additional utility to SOL as users can easily convert cryptocurrencies into fiat currencies and spend at over 60 million merchants globally.

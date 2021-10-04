@@ -14,6 +14,6 @@ featuredPartnerImage: ../img/illustrations/huobieco.png
 
 Huobi has long been focused on innovative blockchain infrastructure and brings nearly a decade of experience to the table.
 
-Huobi’s strategic fund will provide projects in Solana ecosystem with the strategic guidance on market insights, financing, mechanism design, and marketing support.
+Huobi’s strategic fund will provide projects in the Solana ecosystem with strategic guidance on market insights, financing, mechanism design, and marketing support.
 
-Up to $20M will be allocated to the teams developing the next generation of progressive and avant-garde blockchain solutions that aim to accomplish what other public chains cannot support or realize.
+Up to $20M will be allocated to teams developing the next generation of progressive and avant-garde blockchain solutions aiming to accomplish what other public chains cannot support or realize.

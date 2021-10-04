@@ -7,6 +7,9 @@ cta: "https://coinex.com"
 logo: /img/coinex.svg
 category: exchange
 status: live
+twitter: https://twitter.com/coinexcom
+medium: https://coinex.medium.com/
+reddit: https://www.reddit.com/r/Coinex/
 ---
 
-CoinEx, a Chinese based cryptocurrency exchange, listed SOL in early 2021.
+CoinEx is a Chinese based cryptocurrency exchange listed SOL in early 2021.
