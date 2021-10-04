@@ -13,4 +13,3 @@ status: live
 ---
 
 TokenPocket is one of the most popular self-custodial wallet, which supports mainstream public chains including BTC, Ethereum, BSC, HECO, Arbitrum, Optimism, Solana, Fantom, Tron, OEC, HSC, Polkadot, Kusama, EOS, etc., and it is also a must-have wallet for DeFi&NFTs users. TokenPocket has provided reliable services for over 10 million users around the world. The number of monthly active users exceeds 3 million and the users are located in more than 200 countries around the world.
-

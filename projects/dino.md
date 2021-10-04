@@ -12,4 +12,4 @@ twitter: https://twitter.com/SolanaDINO
 discord: https://discord.gg/BuRMWvRFPm
 ---
 
-Dino is the ultimate key to enter the Dinoverse. It is issued as a fungible token which allows for the minting of Dino NFTs through a process which creates, incubates, and hatches eggs. The Dino NFT is intended to have a game dynamic to it whereby the NFT’s are characters in a game, and provide additional capability within a game. 
+Dino is the ultimate key to enter the Dinoverse. It is issued as a fungible token which allows for the minting of Dino NFTs through a process which creates, incubates, and hatches eggs. The Dino NFT is intended to have a game dynamic to it whereby the NFT’s are characters in a game, and provide additional capability within a game.
