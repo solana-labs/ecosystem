@@ -9,7 +9,7 @@ category: defi, app
 status: building
 website: https://solend.fi
 twitter: https://twitter.com/solendprotocol
-discord: https://discord.gg/solend
+discord: https://discord.com/invite/aGXvPNGXDT
 ---
 
 Solend is an algorithmic, decentralized protocol for lending and borrowing. Solend allows anyone with an internet connection to earn interest on their assets and manage collateralized loans. Using Solend, you can earn interest on deposits and borrow assets on the fastest, lowest fee, and most scalable lending protocol.
