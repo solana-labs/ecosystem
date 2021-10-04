@@ -3,9 +3,9 @@ slug: "jackie"
 date: "2021-09-03"
 title: "Jackie Chan Fan Token"
 logline: "Jackie Chan Fan Token is community driven Crypto"
-cta: "https://anchorprotocol.com/"
+cta: "https://jackietoken.tk/"
 logo: /img/jackie.svg
-category: explorer, app, spl
+category: explorer, app, spl, exchange
 status: live
 website: https://jackietoken.tk/
 twitter: https://twitter.com/jackie_token/
