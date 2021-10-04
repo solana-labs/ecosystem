@@ -11,5 +11,4 @@ website: https://www.phantasia.digital/
 twitter: https://twitter.com/PhantasiaSports
 ---
 
-
 Phantasia is a fantasy sports platform leveraging blockchain technology. The application allows users to play their favorite fantasy sports games while betting against their friends.
