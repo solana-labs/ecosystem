@@ -13,4 +13,4 @@ telegram: https://t.me/port_finance
 discord: https://discord.com/invite/nAMXAYhTb2
 ---
 
-Port Finance is a lending protocol that aims to provide an entire suite of fixed income products including variable rate lending, fixed rate lending and interest rate swaps. Port Finance is a non-custodial money market protocol on Solana. Its goals are to bring a whole suite of interest rate product including: variable rate lending, fixed rate lending and interest rate swap to the Solana blockchain.
+Port Finance is a non-custodial money market protocol providing a suite of fixed income products, including variable rate lending, fixed rate lending, and interest rate swaps all on the Solana network.
