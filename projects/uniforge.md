@@ -12,4 +12,3 @@ twitter: https://twitter.com/uniforge
 ---
 
 Uniforge - Stop Minting, Start Forging. Our first application, algorithmically generated beach scenes called Solsets, is live on Solana Devnet.
-
