@@ -9,4 +9,5 @@ category: nft
 status: building
 ---
 
-Kreechures, or crypto-collectible non-fungible tokens (NFTs) stored on the Solana (SOL) blockchain, are one of a kind and yours to level up, collect, trade, or sell.
+Kreechures, aka crypto-collectible non-fungible tokens (NFTs) stored on the Solana (SOL) blockchain, are one of a kind and yours to level up, collect, trade or sell.
+
