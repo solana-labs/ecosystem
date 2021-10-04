@@ -10,5 +10,3 @@ status: building
 ---
 
 Balisari is a customer reward token designed to allow BST customers to conveniently pay fees for travel expenses, daily tours, and airport transportation.
-
-
