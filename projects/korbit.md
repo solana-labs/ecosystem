@@ -9,4 +9,5 @@ category: exchange
 status: live
 ---
 
-Korbit is Korea’s first crypto exchange established in 2013.
+Korbit is Korea’s first crypto exchange. Established in 2013.
+
