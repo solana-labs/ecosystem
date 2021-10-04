@@ -2,8 +2,8 @@
 slug: "offpiste"
 date: "2021-08-02"
 title: "off-piste"
-logline: "off-piste is a decentralized pre-IPO synthetic derivatives protocol leveraging Serum's order book based DEX."
-cta: https://offpiste.io/
+logline: "Off-Piste is a decentralized pre-IPO synthetic derivatives protocol, leveraging Serum's order book-based DEX."
+cta: https://offpsite.io
 logo: /img/offpiste.svg
 category: defi
 status: building
