@@ -13,4 +13,3 @@ discord: https://discord.gg/tHUyebe7ZE
 ---
 
 A simple way to track your active investments and open liabilities on Serum.
-
