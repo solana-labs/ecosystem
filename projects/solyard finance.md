@@ -10,4 +10,3 @@ status: Live
 ---
 
 SolYard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard provides yield enhancement strategies for your Solana crypto assets.
-

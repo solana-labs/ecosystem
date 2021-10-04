@@ -14,6 +14,5 @@ twitter: "https://twitter.com/risk_swap"
 
 RiskSwap introduces traders to a suite of trading tools allowing for efficient use of capital and high returns. Traders will be able to create and trade futures and options, as well as easily create complex trading strategies using proprietary portfolio builders and Singleblock solutions for simultaneous transaction execution. All the contracts represented by SPL tokens are tradable on Serum central limit order book.
 
-
 website: https://riskswap.com</br>
 twitter: https://twitter.com/risk_swap</br>

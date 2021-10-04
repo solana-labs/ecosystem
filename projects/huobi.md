@@ -10,4 +10,3 @@ status: live
 ---
 
 Huobi provides hundreds of tokens & futures trading pairs to enable traders to optimize their strategies in a seamless trading interface.
-

@@ -14,4 +14,3 @@ discord: https://t.co/TqOjU40spT?amp=1
 ---
 
 Shoebill Coin is a meme coin designed to bring people’s attention to endangered species like the Shoebill and raise environmental awareness.
-

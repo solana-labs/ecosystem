@@ -13,4 +13,3 @@ reddit: https://www.reddit.com/r/Coinex/
 ---
 
 CoinEx is a Chinese based cryptocurrency exchange listed SOL in early 2021.
-
