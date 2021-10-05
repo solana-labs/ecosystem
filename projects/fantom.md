@@ -7,10 +7,10 @@ cta: "https://fantom.foundation"
 logo: /img/fantom.svg
 category: infra
 status: live
-<b>Twitter</b>: https://twitter.com/FantomFDN </br>
-<b>Telegram</b>: https://t.me/Fantom_English </br>
-<b>Discord</b>: http://chat.fantom.network </br>
-<b>Reddit</b>: https://www.reddit.com/r/FantomFoundation </br>
+Twitter: https://twitter.com/FantomFDN
+Telegram: https://t.me/Fantom_English 
+Discord: http://chat.fantom.network 
+Reddit: https://www.reddit.com/r/FantomFoundation 
 ---
 
 The Fantom Foundation is building a highly scalable blockchain ecosystem that facilitates decentralized, scalable, and secure technologies.
