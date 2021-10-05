@@ -4,7 +4,7 @@ date: "2021-10-05"
 title: "Solana Punk Led"
 logline: "Punk Led Light version on Solana, each punk will be presented in a very fanciful night. There are 10,000 exclusive punks."
 cta: "https://www.nftmagic.me/"
-logo: /img/logo.png
+logo: /img/SolPunkLed.png
 category: metaplex, nft
 status: live
 Website: https://www.nftmagic.me/solpunkled
