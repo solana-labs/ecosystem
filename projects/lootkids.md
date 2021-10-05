@@ -1,6 +1,6 @@
 slug:"lootkids"
 date:"2021-09-30"
-title:"Lootkids"
+title:"LootKids"
 logline:"Lootkids are 10,000 unique characters with many randomly generated attributes, created by program on Solana blockchain."
 cta:"https://lootkids.com"
 logo:"/img/Lootkids.png"
