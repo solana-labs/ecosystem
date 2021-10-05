@@ -11,7 +11,6 @@ website: https://solhamster.space
 twitter: https://twitter.com/sol_hamster
 telegram: https://t.me/SolHamster
 discord: https://discord.gg/aqb73zZuDP
-gitbook: https://gitbook.solhamster.space
 ---
 
 HAMS is a community token built on the Solana blockchain. It has a great use case. The token is fully community driven. So far we have built several ready to use products - Decentralized exchange and NFT Marketplace and plan to develop further.
