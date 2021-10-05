@@ -3,10 +3,17 @@ slug: "graphlinqprotocol"
 title: "GraphLinq Protocol"
 date: 2021-06-22
 logline: "automate actions on-chain & off-chain without having to code. learn: http://docs.graphlinq.io | build: http://ide.graphlinq.io | instant deploy: http://app.graphlinq.io"
-cta: "https://twitter.com/graphlinq_proto"
+cta: "https://graphlinq.io"
 category: infra, tools, defi
 logo: /img/graphlinqprotocol.svg
 status: Live
+twitter: https://twitter.com/graphlinq_proto
+telegram: https://t.me/graphlinq
+Discord: https://discord.gg/AYFfd9fFef
+Medium: https://graphlinq.medium.com
+Youtube: https://www.youtube.com/channel/UCV2RJ7hYJwBSGuEsnDU5Wog
+Instagram: https://www.instagram.com/graphlinq/
+Reddit: https://www.reddit.com/r/graphlinq/
 ---
 
 GraphLinq currently has integrations for ethereum, BSC & Polygon and is now building the following integrations:
