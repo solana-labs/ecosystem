@@ -7,6 +7,10 @@ cta: "https://fantom.foundation"
 logo: /img/fantom.svg
 category: infra
 status: live
+<b>Twitter</b>: https://twitter.com/FantomFDN </br>
+<b>Telegram</b>: https://t.me/Fantom_English </br>
+<b>Discord</b>: http://chat.fantom.network </br>
+<b>Reddit</b>: https://www.reddit.com/r/FantomFoundation </br>
 ---
 
 The Fantom Foundation is building a highly scalable blockchain ecosystem that facilitates decentralized, scalable, and secure technologies.
@@ -17,7 +21,4 @@ The speed, low transaction costs, and high throughput make Fantom ideal for DeFi
 
 Fantom will push towards a non-tribalistic cross-chain ecosystem with other platforms like Solana, while also reducing friction for developers who want to build on multiple ecosystems.
 
-<b>Twitter</b>: https://twitter.com/FantomFDN </br>
-<b>Telegram</b>: https://t.me/Fantom_English </br>
-<b>Discord</b>: http://chat.fantom.network </br>
-<b>Reddit</b>: https://www.reddit.com/r/FantomFoundation </br>
+
