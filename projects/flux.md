@@ -7,4 +7,7 @@ cta: "https://fluxprotocol.org/"
 logo: /img/flux.svg
 category: oracle
 status: building
+Telegram: https://t.me/fluxprotocol
+Discord: https://discord.com/invite/sJUveAvJHf
+Twitter: https://twitter.com/fluxprotocol
 ---
