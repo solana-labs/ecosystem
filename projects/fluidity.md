@@ -9,4 +9,4 @@ logo: /img/fluidity.svg
 status: Building
 ---
 
-Fluidity will allow Solana based assets to be converted in Fluid version that reward user users when they use them. Fluidity will launch on Solana and Integrate with Solana based Defi Protocols. Fluidity is also a Solana Grant recipient.
+Fluidity allows Solana based assets to be converted into a Fluid version that rewards users when they use them. Fluidity will launch on Solana and integrate with Solana based Defi Protocols. Fluidity is also a Solana Grant recipient.

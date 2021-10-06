@@ -13,4 +13,4 @@ featuredPartnerImage: ../img/illustrations/mxceco.png
 status: live
 ---
 
-MXC is a veteran exchange with a large user base in China and the Asia Pacific regions. Under MXC's strategic investment fund announced in March 2021, up to $20M will be invested within the Solana Ecosystem. MXC will focus on expanding non-fungible token support and other consumer-centric projects building on Solana. The fund looks for projects developing technology-focused solutions in DeFi and other emerging fields.
+MXC is a veteran exchange with a large user base in China and the Asia Pacific regions. Under MXC's strategic investment fund announced in March 2021, up to $20M will be invested within the Solana ecosystem. MXC will focus on providing support for non-fungible tokens and other consumer-centric projects building on Solana. The fund looks for projects developing technology-focused solutions in emerging fields, such as DeFi.

@@ -9,4 +9,4 @@ category: exchange
 status: live
 ---
 
-The SOL token has proven to be a strong addition to the OKEx ecosystem with trading volume ranking in the top 9 on the exchange. This listing is an exciting new development and we’re delighted Solana will now be traded on one of the largest exchanges in Asia.
+The SOL token has proven to be a strong addition to the OKEx ecosystem, with trading volume ranked in the top 9 on the exchange. This listing is an exciting new development and we’re delighted Solana will now be traded on one of the largest exchanges in Asia.

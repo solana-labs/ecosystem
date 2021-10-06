@@ -13,4 +13,4 @@ telegram: https://t.me/joinchat/zxN7cvrWGmljNDJl
 discord: https://discord.com/invite/qNcQwwRHwq
 ---
 
-Francium is an innovative leveraged yield aggregator built on Solana. Francium brings users with continuous high APY through diverse community strategies.
+Francium is an innovative leveraged yield aggregator built on Solana bringing users continuous high APY through diverse community strategies.
