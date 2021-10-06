@@ -10,6 +10,8 @@ status: building
 website: https://zeta.markets/
 twitter: https://twitter.com/ZetaMarkets
 discord: https://discord.gg/zeta
+Instagram: https://www.instagram.com/zetamarkets/
+Medium: https://zetamarkets.medium.com/
 ---
 
 Zeta is building an options trading platform on Solana, enabling users to effectively hedge risk against crypto market movement and events.
