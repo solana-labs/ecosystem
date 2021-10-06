@@ -5,7 +5,7 @@ title: "Boxch"
 logline: "Boxch - first mobile wallet no fee payer for transaction. Built on Solana."
 cta: "https://naxar.ru"
 logo: /img/boxch.svg
-category: wallet, SPL, 
+category: wallet, SPL, app 
 status: building
 ---
 
