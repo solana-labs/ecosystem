@@ -16,4 +16,3 @@ The team plans to actively develop the application. The first stable version for
 <b>Twitter</b>: https://twitter.com/_Naxar </br>
 <b>Telegram</b>: https://t.me/naxar_official </br>
 <b>Discord</b>: https://discord.gg/9zbHM7JZbW </br>
-<b>Instagram</b>: https://instagram.com/naxar__ </br>
