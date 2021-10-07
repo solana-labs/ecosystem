@@ -1,9 +1,14 @@
 ---
 slug: "solsea"
-date: "2021-10-04"
+date: "2021-10-07"
 title: "solsea"
+logline: "The first open NFT marketplace on Solana by @AllArtProtocol"
+cta: "https://solsea.io/"
+logo: https://trello.com/1/cards/615affcb7575612dbdf70ec1/attachments/615cac5683e2b714bd0ca769/download/solsea.jpg
+category: amm, app, dapp, nft
+status: live
+website: https://solsea.io/
+twitter: https://twitter.com/SolSeaNFT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+---
 
-website: "https://solsea.io/"
-twitter: "https://twitter.com/SolSeaNFT?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-
-The first open NFT marketplace on #Solana by @AllArtProtocol
+The first open NFT marketplace on Solana by @AllArtProtocol.
