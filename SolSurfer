@@ -1,9 +1,14 @@
 ---
 slug: "solsurfer"
-date: "2021-10-04"
+date: "2021-10-07"
 title: "solsurfer"
-
-website: "https://solsurfer.xyz/"
-twitter: "https://twitter.com/solsurfer_xyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+logline: "Building an interchain NFT secondary marketplace on Solana."
+cta: "https://solsurfer.xyz/"
+logo: https://trello.com/1/cards/615afd3213526c1a17a9f7d9/attachments/615cad7f2fa2765e4f9e4e86/download/solsurfer.jpg
+category: amm, nft, exchange
+status: building
+website: https://solsurfer.xyz/
+twitter: https://twitter.com/solsurfer_xyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+---
 
 Building an interchain NFT secondary marketplace on Solana.
