@@ -13,6 +13,6 @@ discord: https://discord.com/invite/solape
 status: live
 ---
 
-Solape is a serum-based Solana DEX built by apes, for other apes.
+Solape is a Serum-based Solana DEX built by apes, for other apes.
 
-Solape Finance was created with the belief that crypto and blockchain tech should appeal to the masses through easy-accessibility and bring forth an ecosystem that is rewarding and fun. As firm believers in Solana, our goal is supplying fellow apes with an onboarding point to the crypto domain, or for existing members to experience it in a whole new light. Our Decentralized Exchange (DEX) serves as not only a place to trade the highest market cap coins, but also offers new projects within Solana a platform to list their tokens, and deliver their communities a center to trade them.
+Solape Finance was created with the belief that crypto and blockchain tech appeal to the masses through easy-accessibility. Bringing forth an ecosystem that is rewarding and fun fulfills this desire. As firm believers in Solana, our goal is supplying fellow apes with an onboarding point to the crypto domain, or for existing members to experience it in a whole new light. Our Decentralized Exchange (DEX) serves not only as a place to trade the highest market cap coins, but also bolsters new projects within Solana with a platform to list their tokens, and deliver their communities a center to trade them.

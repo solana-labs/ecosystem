@@ -10,4 +10,4 @@ website: https://www.soldick.xyz/
 
 ---
 
-SODI is the currency that powers the SODI social environment system. SODI is a utility token that can be used to access our suite of community building features. These features will also be offered to other communities in exchange for project tokens or for burning SODI.
+SODI, which powers our social environment, is a utility token that can be used to access our suite of community building features. These features will also be offered to other communities in exchange for project tokens or for burning SODI.

@@ -9,6 +9,6 @@ logo: /img/snowshoe.svg
 status: Live
 ---
 
-Snowshoe is a project that aims to reward art creators for their original art through a community-ranked leaderboard.
+Snowshoe is a project that rewards creators for their original art through a community-ranked leaderboard.
 
-Every week artists will compete in a "CAT ART" event. The top artist will be rewarded in SNOWSHOE tokens with their art presented on our website.
+Every week, artists compete in a "CAT ART" event. The top artist will be rewarded in SNOWSHOE tokens and have their art presented on our website.
