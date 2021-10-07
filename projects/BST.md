@@ -7,6 +7,7 @@ cta: "https://www.balisaritrans.site/"
 logo: /img/BST.svg
 category: app
 status: building
+Twitter: https://twitter.com/balisaritrans
 ---
 
 Balisari is a customer reward token designed to allow BST customers to conveniently pay fees for travel expenses, daily tours, and airport transportation.
