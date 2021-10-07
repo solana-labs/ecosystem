@@ -4,8 +4,9 @@ date: "2021-06-01"
 title: "Apeshit Social"
 logline: "Apeshit is a charity social club."
 cta: "https://apeshit.social/"
-logo: /img/<filename>.svg
+logo: /img/apeshit social.svg
 category: metaplex, nft
+status: live
 website: https://apeshit.social/
 twitter: https://twitter.com/apeshitsocial
 discord: https://discord.com/invite/apeshit

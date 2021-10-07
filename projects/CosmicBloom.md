@@ -1,5 +1,5 @@
 ---
-slug: "Cosmic Bloom"
+slug: "cosmicbloom"
 date: "2021-04-01"
 title: "Cosmic Bloom"
 logline: "Cosmic Bloom is a worldwide healing community."
