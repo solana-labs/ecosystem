@@ -1,9 +1,14 @@
 ---
 slug: "solana valley"
-date: "2021-10-01"
+date: "2021-10-07"
 title: "solana valley"
-
-website: "https://solanavalley.com/"
-twitter: "https://twitter.com/solanavalley"
+logline: "Farm based project on Solana"
+cta: "https://solanavalley.com/"
+logo: https://trello.com/1/cards/61573d104d31047f9ed5594a/attachments/615cbe66546aed85d3ce0448/download/solana_valley.jpg
+category: amm, app, dapp
+status: building
+website: https://solanavalley.com/
+twitter: https://twitter.com/solanavalley
+---
 
 Farm based project on Solana.
