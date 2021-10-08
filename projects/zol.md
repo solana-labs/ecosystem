@@ -8,6 +8,8 @@ logo: /img/zol.svg
 category: defi
 status: building
 twitter: "https://twitter.com/ZolFinance"
+telegram: https://t.me/joinchat/saFuTapAdEMxMGE1
+Discord: https://discord.com/invite/qQ2u26na
 ---
 
 Zol is a Smart Yield Farming Optimizer Built On the Solana Ecosystem. We aim to simplify every step in Solana with Zol-Switch.
