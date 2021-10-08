@@ -6,7 +6,10 @@ logline: "ICHI is a self-sustaining, community governed platform that is buildin
 cta: "https://www.ichi.org/"
 logo: /img/ichi.svg
 category: governance
-status: building
+status: Live
+Twitter: https://twitter.com/ichifarm
+Telegram: https://t.me/ichifarm
+Discord: https://discord.com/invite/Bm6pUHjHUC
 ---
 
 ICHI is building a Decentralized Monetary Authority for the Solana community. This will bring the first decentralized stablecoin to the Solana ecosystem. oneSOL will be capital efficient (does not require you take a debt position), decentralized (governed by its holders), growth enabling (putting upward price pressure on the underlying SOL), and 100% on-chain (fully transparent). This will enable Solana to implement its own Monetary Policy through an underlying stable asset.
