@@ -1,6 +1,6 @@
 ---
 slug: "1sol"
-date: "2021-05-28"
+date: "2021-09-21"
 title: "1Sol"
 logline: "An innovative cross-chain DeFi aggregator on Solana."
 cta: "https://1sol.io/"
