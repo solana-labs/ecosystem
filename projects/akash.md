@@ -6,7 +6,7 @@ logline: "Akash is an open, decentralized marketplace and a deployment platform 
 cta: "https://akash.network"
 logo: /img/akash.svg
 category: infra
-status: building
+status: Live
 website: https://akash.network/
 twitter: https://twitter.com/akashnet_
 telegram: https://t.me/akashnw
