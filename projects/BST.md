@@ -6,7 +6,8 @@ logline: "Balisari is the first project in Solana which aims as a reward token, 
 cta: "https://www.balisaritrans.site/"
 logo: /img/BST.svg
 category: app
-status: building
+status: Live
+Twitter: https://twitter.com/balisaritrans
 ---
 
 bali sari token is the first token that bridges between costumers and airport transport ground, costumers can pay fees for pick up, daily tours, drop to airports with balisari trans tokens
