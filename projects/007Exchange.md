@@ -4,7 +4,7 @@ date: "2021-10-04"
 title: "007 Exchange"
 logline: "Do Different"
 cta: "https://007exchange.tk/"
-logo: /img/007 Exchange.png
+logo: /img/007Exchange.svg
 category: exchange, spl, defi, app
 status: live
 website: https://007exchange.tk/
