@@ -7,6 +7,7 @@ cta: "https://genesysgo.com"
 logo: /img/gg.svg
 category: infra
 status: building
+Twitter: https://www.twitter.com/genesysgo
 ---
 
 The universe that is Blockchain is constantly moving at warp speed. As this nascent technology continues to expand and evolve the need for a robust infrastructure becomes more and more crucial. Being a builder on the forefront of blockchain development requires strong technical skills and laser focus. As your project grows, so will the need for a strong foundation to support its weight. GenesysGo allows you to build confidently by providing a foundation that will scale in size as your project does.
