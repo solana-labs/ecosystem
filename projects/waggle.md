@@ -10,6 +10,7 @@ status: building
 website: https://waggle.network/
 twitter: https://twitter.com/wagglenetwork
 telegram: https://t.me/wagglenetwork
+Medium: https://medium.com/@wagglenetwork
 ---
 
 Waggle.network is a Multi-Chain Marketplace Protocol for Locked Tokens. We are empowering retail investors to have exposure to primary market investments of their favourite project.
