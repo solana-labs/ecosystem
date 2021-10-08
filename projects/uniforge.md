@@ -1,13 +1,14 @@
 ---
 slug: "uniforge"
+date: "2021-07-25"
 title: "Uniforge"
-date: 2021-07-25
 logline: "Stop Minting, Start Forging."
-website: "https://www.uniforge.io"
-category: app
-twitter: https://twitter.com/uniforge
+cta: "https://www.uniforge.io"
 logo: /img/uniforge.svg
+category: app
 status: live
+website: https://www.uniforge.io
+twitter: https://twitter.com/uniforge
 ---
 
-Uniforge, Stop Minting, Start Forging. Our first application, algorithmically generated beach scenes called Solsets, is live on Solana Devnet.
+Uniforge is an application which algorithmically generates beach scenes called Solsets and it is live on Solana Devnet. Uniforge provides the ability to create digital assets in real-time at negligible cost.

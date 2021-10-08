@@ -6,6 +6,9 @@ logline: "Solaris is a Lending/Borrowing protocol that brings Flashloans to Sola
 cta: https://solarisprotocol.com/
 logo: /img/solaris.svg
 category: DeFi
+website: https://solarisprotocol.com/
+twitter: https://twitter.com/solarisprotocol
+telegram: https://t.me/SolarisProtocol
+discord: https://discord.com/invite/pJh4TuuzEp
 ---
-
-Solaris is a Lending/Borrowing protocol that brings Flashloans to Solana blockchain (inspired by Aave and Compound).
+Solaris is a protocol for DeFi users, earning interest on deposits and borrowing assets.

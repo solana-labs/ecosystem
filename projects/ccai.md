@@ -5,7 +5,7 @@ title: "Cryptocurrencies.Ai"
 logline: "Cryptocurrencies.ai is a CEX and DEX with easy to use advanced tools."
 cta: "https://cryptocurrencies.ai/"
 logo: /img/ccai.svg
-category: dex, wallet, analytics
+category: dex, wallet
 status: building
 ---
 

@@ -7,6 +7,9 @@ cta: "https://bandprotocol.com"
 logo: /img/band.svg
 category: oracle
 status: building
+website: https://bandprotocol.com/
+Twitter: https://twitter.com/bandprotocol
+Telegram: https://t.me/bandprotocol
+Discord: https://discord.com/invite/3t4bsY7
 ---
-
-Band Protocol is a cross-chain data oracle platform that will provide real-world data and APIs to Solana smart contracts.
+Band Protocol is a decentralized, permissionless blockchain protocol for decentralized data curation. We create token-curated registries and communities. It is also a decentralized data curation protocol. Band is a protocol to Create Token-Curated Registry, each with its own community token. We band communities with open and reliable data source.
