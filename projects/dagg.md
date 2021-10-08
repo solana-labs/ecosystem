@@ -5,7 +5,7 @@ date: "2021-05-28"
 logline: "DAGG is a cross-chain DEX aggregator built on Solana."
 cta: https://twitter.com/daggtrade
 category: defi
-logo: /img/dagg.svg
+logo: /img/dagg.png
 status: Building
 website: https://daggtrade.com/
 twitter: https://twitter.com/DaggTrade

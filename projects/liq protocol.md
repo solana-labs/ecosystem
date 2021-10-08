@@ -5,7 +5,7 @@ date: 2021-06-22
 logline: "A decentralized liquidation engine built for Serum DEX margin markets on the Solana network."
 cta: "https://liqsolana.com/"
 category: dex, defi, spl
-logo: /img/liqprotocol.svg
+logo: /img/liqprotocol.png
 status: Live
 website: https://liqsolana.com/
 twitter: https://twitter.com/liqprotocol
