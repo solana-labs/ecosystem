@@ -9,8 +9,8 @@ logo: /img/synergy.svg
 status: building
 website: https://synergyland.world/
 twitter: https://twitter.com/SynergyLandGame
-telegram: 
-discord: 
+telegram:
+discord:
 ---
 
 Synergy Land is a blockchain multiplayer ARPG game currently in development by Sygergy Studio, set in a fantasy world divided intofour ecosystems, each based on the following elements: earth, water, fire and cold.
