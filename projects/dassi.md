@@ -13,7 +13,7 @@ telegram: https://t.me/dassicommunity
 discord: https://discord.com/invite/qxr42kBXP8
 ---
 
-Dassi is a blockchain based crowdfunding platform for zero interest micro-loans and collateral free commercial loans. Our platform is going to be a peer to peer lending platform based on Solana blockchain. 
+Dassi is a blockchain based crowdfunding platform for zero interest micro-loans and collateral free commercial loans. Our platform is going to be a peer to peer lending platform based on Solana blockchain.
 
 Dassi will also provide users with credit cards with interest rates of around 10% that can be used on websites like Amazon to get emi’s on products like laptops, this will also help us build crypto credit scores of our users.
 
