@@ -2,7 +2,7 @@
 slug: "metatun"
 date: "2021-10-09"
 title: "Metatun NFT"
-logline: "Metatun is a generative NFT collection of 10,000 magical Crypto babies living as "Metaplex standard" tokens on the Solana blockchain"
+logline: "Metatun is a generative NFT collection of 10,000 magical Crypto babies living as 'Metaplex standard' tokens on the Solana blockchain"
 cta: "https://metatun.com"
 logo: /img/a_tun.png
 category: metaplex, nft
