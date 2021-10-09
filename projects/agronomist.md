@@ -13,7 +13,3 @@ discord: https://discord.gg/tR45QftB6K
 ---
 
 Agronomist.tech - powerful analytics platform for farming, staking and liqudity pools based on Solana platform. This project provide indicators for farming, analytics about reliability and allow create some notifications for any indicators.
-
-
-
-
