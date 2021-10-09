@@ -4,7 +4,7 @@ date: "2021-08-31"
 title: "Afflarium"
 logline: "Afflarium - is a special and realistic gaming world, combining virtual reality, cryptocurrency, NFT, digital property, the real economy, and a unique gaming experience."
 cta: "https://afflarium.com/"
-logo: /img/Afflarium.svg
+logo: /img/Afflarium.png
 category: app, nft
 status: building
 website: https://afflarium.com/
