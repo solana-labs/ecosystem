@@ -7,7 +7,7 @@ logline: >-
   publish, and play blockchain games all in one place.
 cta: "https://solcery.xyz/"
 logo: /img/solcery.svg
-category: "game, dapp, nft, metaplex"
+category: "game, gaming, dapp, nft, metaplex"
 status: building
 twitter: "https://twitter.com/SolceryGames"
 ---
