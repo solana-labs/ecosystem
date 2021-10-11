@@ -2,19 +2,19 @@
 slug: "xhashtag"
 date: "2021-09-18"
 title: "xHashtag"
-logline: "A stock exchange for trading tokenized #hashtags"
+logline: "A #PlayToEarn DAO for #FutureOfWork"
 cta: "https://www.xhashtag.io/"
-logo: /img/xhashtag.png
-category: "dapp, defi, nft"
+logo: /img/xhashtag.svg
+category: "dapp, defi, community, governance"
 status: building
 website: https://www.xhashtag.io/
 twitter: https://twitter.com/xhashtagio
 ---
 
-xHashtag enables fractional ownership of tokenized #hashtags purchasable by locking $XTAG tokens into a bonding curve contract that controls price in relation to supply of #hashtags and guarantees liquidity. The protocol burns #hashtags based on its performance on twitter, increasing its floor price over time. xHashtag is also a powerful twitter marketing tool for crypto projects to drive consistent conversation and gain traction on the CryptoTwitter while incentivizing their fans. 
+Building on Solana, xHashtag is a Play2Earn DAO for Future Of Work where users can earn crypto by completing simple marketing, on-chain and creative quests. Projects can leverage community talent to accelerate community growth by rewarding valuable actions in their own $tokens with optional vesting. 
 
 <b>Website</b>: https://www.xhashtag.io </br>
 <b>Twitter</b>: https://twitter.com/xhashtagio </br>
 <b>Telegram</b>: https://t.me/xhashtagio </br>
-<b>Discord</b>: https://discord.gg/4chxsHC9St </br>
+<b>Discord</b>: https://discord.gg/TWueAnVC </br>
 <b>Medium</b>: https://medium.com/xhashtag </br>
