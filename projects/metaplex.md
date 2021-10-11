@@ -2,7 +2,7 @@
 slug: "metaplex"
 date: "2021-06-02"
 title: "Metaplex"
-logline: "Metaplex lets artists and creators launch their own self-hosted NFT storefronts as easily as building a website. Ultra-fast NFTs with insanely low minting fees."
+logline: "Metaplex enables artists and creators to launch self-hosted NFT storefronts as easily as building a website. Ultra-fast NFTs with insanely low minting fees."
 cta: "https://metaplex.com"
 logo: /img/metaplex.svg
 category: nft
@@ -12,6 +12,4 @@ discord: https://discord.com/invite/metaplex
 status: building
 ---
 
-Metaplex is a protocol built on top of Solana that allows: Creating and minting non-fungible tokens; starting a variety of auctions for primary/secondary sales, and Visualizing NFTs in a standard way across wallets and applications.
-
-Metaplex is comprised of two core components: an on-chain program, and a self-hosted front-end web2 application. Metaplex lets artists and creators launch their own self-hosted NFT storefronts as easily as building a website.
+Metaplex is a Solana-powered protocol that allows for the creation and minting of non-fungible tokens, auctions, and visualizing NFTs in a standard way across wallets and applications, comprised of two core components: an on-chain program, and a self-hosted front-end web2 application.

@@ -5,7 +5,7 @@ date: 2021-06-22
 logline: "CATO is a Serum-based DEX and Solana's first CAT MEME token."
 cta: "https://twitter.com/SolanaCATO"
 category: dex, app
-logo: /img/cato.svg
+logo: /img/cato.png
 status: Live
 ---
 

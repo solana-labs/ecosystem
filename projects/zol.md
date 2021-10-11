@@ -10,7 +10,7 @@ status: building
 twitter: "https://twitter.com/ZolFinance"
 ---
 
-Zol is a Smart Yield Farming Optimizer Built On the Solana Ecosystem. We also aim to make every step in solana more effortless with a one-click button (Zol-Switch).
+Zol is a Smart Yield Farming Optimizer Built On the Solana Ecosystem. We aim to simplify every step in Solana with Zol-Switch.
 
 Devnet: https://zol-vault.pages.dev/
 Twitter: https://twitter.com/ZolFinance

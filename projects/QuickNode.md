@@ -5,7 +5,7 @@ title: "QuickNode"
 logline: "QuickNode make it simple to power your blockchain applications and scale up as you grow."
 cta: "https://www.quicknode.com/"
 logo: /img/QuickNode.svg
-category: metaplex, nft
+category: metaplex, nft, infra
 status: live
 website: https://www.quicknode.com/
 twitter: https://twitter.com/QuickNode

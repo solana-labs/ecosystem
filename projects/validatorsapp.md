@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Validators.app"
 logline: "Validators.app is a dashboard that shows each Solana validator by title and includes recent statistics for each."
 cta: "https://validators.app"
-logo: /img/validatorsapp.svg
+logo: /img/validatorsapp.png
 category: explorer
 status: live
 ---
