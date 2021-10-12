@@ -21,4 +21,5 @@ discord: https://t.co/cAP2SbIfGa?amp=1
 Pet Rocks On The Solana Blockchain. First and official generation SolRock NFTs on Solana.
 =======
 SolRocks are pet rocks on the Solana blockchain.
->>>>>>> Stashed changes
+
+> > > > > > > Stashed changes

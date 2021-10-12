@@ -18,4 +18,5 @@ Each Sollama is individually generated with attributes based on rarity. From hat
 discord: https://discord.gg/sollamasnft
 
 twitter: https://twitter.com/SollamasNFT
->>>>>>> Stashed changes
+
+> > > > > > > Stashed changes

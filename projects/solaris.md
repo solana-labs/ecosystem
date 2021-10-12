@@ -17,4 +17,5 @@ status: live
 Solaris is a protocol for DeFi users that allows for earning interest on deposits and borrowing assets.
 =======
 Solaris is a protocol for DeFi users to earn interest on deposits and borrow assets.
->>>>>>> Stashed changes
+
+> > > > > > > Stashed changes

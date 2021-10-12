@@ -15,4 +15,5 @@ status: live
 Solong is a slick new extension browser that allows users to interact with any application on Solana or in the Serum ecosystem. It also includes the ability to mint new SPL tokens directly within the UI.
 =======
 Solong is a new extension browser that allows users to interact with any application on Solana or in the Serum ecosystem. It also includes the ability to mint new SPL tokens directly within the UI.
->>>>>>> Stashed changes
+
+> > > > > > > Stashed changes
