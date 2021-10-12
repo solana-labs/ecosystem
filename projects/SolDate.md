@@ -2,7 +2,7 @@
 slug: "soldate"
 date: "2021-09-08"
 title: "SolDate"
-logline: "Make love happen on Blockchain, receive rewards on finding a match"
+logline: "Make love happen on blockchain. Receive rewards on finding a match"
 cta: "https://www.soldate.org"
 category: app
 logo: /img/soldate.svg

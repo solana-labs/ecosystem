@@ -9,6 +9,5 @@ category: nft
 status: live
 ---
 
-SOLife is the first ever Solana-based NFT strategy game based on a worldview that was inspired by The Game of Life - a board game that covers a lifetime starting from birth to death.
-Users perform missions, choose directions, and ultimately draw out their lives by participating in the game with the baby cards that they possess. SOLife is built based on the Solana blockchain.
-The NFT, game goods, and rewards used in SOLife all function on this corresponding blockchain.
+SOLife is the first ever Solana-based NFT strategy game based inspired by The Game of Life - a board game that covers a lifetime starting from birth to death.
+Users perform missions, choose directions, and ultimately draw out their lives by participating in the game with the baby cards they possess. SOLife is built on the Solana blockchain, providing funcitionality for the NFT, game goods, and rewards used in SOLife. 
