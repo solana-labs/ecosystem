@@ -5,7 +5,7 @@ title: "Saber"
 logline: "Saber is the leading cross-chain stablecoin exchange on Solana."
 cta: "https://saber.so"
 logo: /img/saber.svg
-category: defi, amm, dex, app, app
+category: defi, amm, dex, app,
 twitter: https://twitter.com/Saber_HQ/
 status: live
 ---
