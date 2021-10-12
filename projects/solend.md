@@ -5,7 +5,7 @@ title: "Solend"
 logline: "Solend is the autonomous interest rate machine for lending and borrowing on Solana."
 cta: "https://solend.fi"
 logo: /img/solend.svg
-category: defi, lending, borrowing, app
+category: defi, app
 status: live
 website: https://solend.fi
 twitter: https://twitter.com/solendprotocol
