@@ -1,9 +1,0 @@
-slug: "Anchor"
-date: "2021-09-30"
-
-cta: "https://docs.google.com/spreadsheets/d/1F3npkdHNxcUBxbphuqGnwttFy5XknimD/edit#gid=1636419872"
-website: "https://github.com/project-serum/anchor"
-
-
-
-Anchor is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
