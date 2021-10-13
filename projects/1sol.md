@@ -5,7 +5,7 @@ title: "1Sol"
 logline: "An innovative cross-chain DeFi aggregator on Solana."
 cta: "https://1sol.io/"
 logo: /img/1sol.svg
-category: amm, dex, exchange, tools
+category: defi, dex, exchange, tools
 status: building
 website: https://1sol.io
 twitter</b>: https://twitter.com/1solProtocol
