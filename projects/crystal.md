@@ -8,7 +8,7 @@ logo: /img/crystal.png
 category: dex, nft, Dapp, game
 status: building
 website: https://solcry.io/
-twitter: https://twitter.com/Crystal80955369
+twitter: https://twitter.com/sol_crystal_io
 telegram: https://t.me/sol_cry
 discord: https://discord.com/invite/ghnnPvQNgS
 ---
@@ -21,7 +21,7 @@ Where you can SELL/BUY, collect NFTs in the game and more.
 <b>Crystal Contact</b>: https://solcry.io/contact.html </br>
 <b>Crystal NFT</b>: https://nft.solcry.io/ </br>
 <b>Crystal Dex</b>: https://dex.solcry.io/ </br>
-<b>Twitter</b>: https://twitter.com/Crystal80955369 </br>
+<b>Twitter</b>: https://twitter.com/sol_crystal_io </br>
 <b>Telegram</b>: https://t.me/sol_cry </br>
 <b>Discord</b>: https://discord.com/invite/ghnnPvQNgS </br>
 <b>Medium</b>: https://solcrystal.medium.com/ </br>
