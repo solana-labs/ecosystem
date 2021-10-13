@@ -9,6 +9,7 @@ category: metaplex, nft
 status: live
 website: http://www.ono.art/
 twitter: https://twitter.com/onodotart
+discord: https://discord.gg/kMkMKp8aCs
 ---
 
-Ono is the next generation curated NFT marketplace designed with creators first built on MetaplexNFT & Solana.
+Ono is a next generation curated NFT marketplace designed with creators in mind. Built on Metaplex & Solana.

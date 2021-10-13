@@ -11,4 +11,4 @@ website: https://cryptomonks.holaplex.com/
 twitter: https://twitter.com/cryptomonx
 ---
 
-Crypto monks is Zen-monks NFTS built on Solana.
+CryptoMonks are building Zen monk NFTs on Solana.
