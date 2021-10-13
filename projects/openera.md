@@ -7,7 +7,8 @@ cta: "https://twitter.com/OpenEraHQ"
 logo: /img/openera.svg
 category: app
 status: building
-twitter: https://twitter.com/OpenEraHQ	
-discord: http://discord.gg/Tg9dXcnSM4		
+twitter: https://twitter.com/OpenEraHQ
+discord: http://discord.gg/Tg9dXcnSM4
 ---
+
 OpenEra is a MMORPG built on the Solana blockchain and powered by Serum. It is inspired by classics like RuneScape and modern MMOs like Albion Online. OpenEra is about uncovering your destiny and taking part in an evolving timeline — traveling through space and time together, as an ever expanding community.

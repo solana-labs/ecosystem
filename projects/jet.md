@@ -6,11 +6,11 @@ logline: "Jet is a lending protocol built on the Solana blockchain with a focus 
 cta: "https://www.jetprotocol.io/"
 logo: /img/jet.svg
 category: defi
-website: https://www.jetprotocol.io/		
+website: https://www.jetprotocol.io/
 twitter: https://twitter.com/jetprotocol
 telegram: https://t.me/jetprotocol
-discord: https://discord.com/invite/RW2hsqwfej		
+discord: https://discord.com/invite/RW2hsqwfej
 ---
 
-Jet Protocol is a borrowing and lending protocol built on the Solana blockchain. 
+Jet Protocol is a borrowing and lending protocol built on the Solana blockchain.
 Most of the widely used DeFi protocols used to-date have been built on top of and supported by the Ethereum ecosystem. Jet is ready to take the borrowing and lending primitives to the next level using Solana’s bleeding edge tech, low transaction costs, speed and scalability. Users can also look forward to Jet's innovative interest bearing products which will be used to create markets on Serum DEX.

@@ -7,7 +7,7 @@ cta: "https://solasystem.io/"
 logo: /img/solasystem.svg
 category: tools
 status: live
-website: https://solasystem.io/		
+website: https://solasystem.io/
 twitter: https://twitter.com/Sola_System
 telegram: https://t.me/sola_system
 ---

@@ -9,6 +9,7 @@ category: app
 status: live
 website: https://www.bublhost.com/
 twitter: https://twitter.com/bublhost
-telegram: http://t.me/bublhost	
+telegram: http://t.me/bublhost
 ---
-Bubl is an event hosting and ticketing platform built on the Solana blockchain. Creating events and buying tickets is now safer and faster. 
+
+Bubl is an event hosting and ticketing platform built on the Solana blockchain. Creating events and buying tickets is now safer and faster.

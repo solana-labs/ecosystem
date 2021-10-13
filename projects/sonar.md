@@ -7,8 +7,8 @@ cta: https://twitter.com/Sonarwatch
 category: defi
 logo: /img/sonar.svg
 status: building
-website: https://sonar.watch/	
-twitter: https://twitter.com/Sonarwatch	
+website: https://sonar.watch/
+twitter: https://twitter.com/Sonarwatch
 discord: https://discord.gg/gG4DvM2JGw
 ---
 

@@ -10,5 +10,6 @@ website: https://solstarter.org/
 twitter: https://twitter.com/solstarterorg
 telegram: https://t.me/solstarter
 ---
+
 Solstarter is the first decentralized fundraising and Initial Distribution Offering (IDO) platform on the Solana blockchain. Solstarter empowers Solana-based projects with the ability to raise liquidity in a fair manner while also
 developing dedicated communities behind them.

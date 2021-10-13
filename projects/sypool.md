@@ -7,9 +7,9 @@ category: defi
 cta: "http://sypool.io/"
 logo: /img/sypool.svg
 status: live
-website: http://sypool.io/	
+website: http://sypool.io/
 twitter: https://twitter.com/SYP_Protocol
-telegram: https://t.me/sypool_protocol	
+telegram: https://t.me/sypool_protocol
 discord: https://discord.com/invite/TeHJZG7xaj
 ---
 

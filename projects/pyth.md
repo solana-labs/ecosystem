@@ -7,10 +7,10 @@ cta: "https://pyth.network"
 logo: /img/pyth.svg
 category: oracle
 status: building
-website: https://pyth.network/	
-twitter: https://twitter.com/PythNetwork	
+website: https://pyth.network/
+twitter: https://twitter.com/PythNetwork
 telegram: https://t.me/Pyth_Network
-discord: https://discord.com/invite/Ff2XDydUhu		
+discord: https://discord.com/invite/Ff2XDydUhu
 ---
 
 Pyth Network is an oracle network being built by some of the biggest names in traditional finance and DeFi with the goal of providing the infrastructure for DeFi to support reliable, institutional grade market data oracles. Pyth is focused on continuous data originating off-chain and disseminating it at sub-second speeds, while having advanced security.

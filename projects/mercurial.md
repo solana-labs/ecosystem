@@ -7,9 +7,9 @@ cta: "https://mercurial.finance"
 logo: /img/mercurial.svg
 category: DeFi, AMM
 status: live
-website: https://www.mercurial.finance/	
+website: https://www.mercurial.finance/
 twitter: https://twitter.com/MercurialFi
-telegram: https://t.me/MercurialFi		
+telegram: https://t.me/MercurialFi
 discord: https://discord.com/invite/WwFwsVtvpH
 ---
 

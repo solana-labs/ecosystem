@@ -7,8 +7,8 @@ cta: https://switchboard.xyz/
 category: oracle, infra, tools, spl, defi, app
 logo: /img/switchboard.svg
 status: live
-website: https://switchboard.xyz/	
-twitter: https://twitter.com/switchboardxyz			
+website: https://switchboard.xyz/
+twitter: https://twitter.com/switchboardxyz
 telegram: https://t.me/switchboardxyz
 discord: https://discord.com/invite/sNeGymrabT
 ---

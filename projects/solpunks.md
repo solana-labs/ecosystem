@@ -7,8 +7,8 @@ cta: "https://solpunks.com/"
 logo: /img/solpunks.svg
 category: nft
 status: live
-website: https://solpunks.com/	
-twitter: https://twitter.com/PunksOnSolana	
+website: https://solpunks.com/
+twitter: https://twitter.com/PunksOnSolana
 discord: https://discord.com/invite/SFnXKFEY8G
 ---
 

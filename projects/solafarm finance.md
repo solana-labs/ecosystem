@@ -8,6 +8,7 @@ category: defi
 logo: /img/solafarmfinance.svg
 status: building
 ---
+
 SolaFarm is the first Yield Farming Aggregator Optimizer protocol on Solana. SolaFarm provides profit automatically produces DeFi products on Solana. Adopts an open community operation model and FARM holders can participate in any proposal and governance of the platform. The following are the core products and brief descriptions that are currently in progress and will be released in the future.‌
 
 Yield Optimization Strategies with SolaFarm‌

@@ -11,4 +11,5 @@ twitter: https://twitter.com/solarisprotocol
 telegram: https://t.me/SolarisProtocol
 discord: https://discord.com/invite/pJh4TuuzEp
 ---
+
 Solaris is a protocol for DeFi users, earning interest on deposits and borrowing assets.

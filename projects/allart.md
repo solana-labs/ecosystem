@@ -7,14 +7,15 @@ cta: "https://all.art"
 logo: /img/allart.svg
 category: nft
 status: live
-website: https://allart.io/	
+website: https://allart.io/
 twitter: https://twitter.com/AllArtProtocol
 telegram: https://t.me/allartprotocol
 discord: https://discord.com/invite/WrHUhqgnBd
 ---
 
 The All-Art protocol provides constant liquidity for NFTs by introducing a new type of liquidity pool AMMs, while upgrading the current NFT standard with improved functionalities and embedded license rights called NFT-PRO. The All-Art Protocol will enable NFTs to become perpetually traded like any crypto token, with continuous liquidity through a new type of AMM liquidity pool.
-The All-Art Protocol runs on a new superior blockchain - Solana, with four key benefits: 
+The All-Art Protocol runs on a new superior blockchain - Solana, with four key benefits:
+
 1. Blazing speed and cheap transactions running on L1
 2. Scalability
 3. Low energy consumption

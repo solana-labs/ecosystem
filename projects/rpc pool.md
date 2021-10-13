@@ -10,7 +10,7 @@ status: live
 website: https://www.rpcpool.com/
 twitter: https://twitter.com/rpcpool
 telegram: https://t.me/joinchat/K0ONdq7fE4s0Mjdl
-discord: https://discord.gg/E7XfrfkT		
+discord: https://discord.gg/E7XfrfkT
 ---
 
 Geographically distributed, we provide low-latency access with servers in US, EU and Asia Pacific.

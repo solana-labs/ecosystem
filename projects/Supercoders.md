@@ -12,4 +12,4 @@ twitter: https://twitter.com/nftxzbt
 discord: https://discord.com/invite/S3pDd6G4EM
 ---
 
-Supercoders/Metamorph is a neural network lion tamer.  It is a home of the MetaMorph AI machine ft. wild and wonderful animated NFT art collections minted on Solana.
+Supercoders/Metamorph is a neural network lion tamer. It is a home of the MetaMorph AI machine ft. wild and wonderful animated NFT art collections minted on Solana.

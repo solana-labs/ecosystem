@@ -3,11 +3,11 @@ slug: "solsurvivor"
 date: "2020-04-03"
 title: "SOL Survivor"
 logline: "SOL Survivor is a messaging app and fighting game built on the Solana testnet."
-cta: https://solsurvivor.net/ 
+cta: https://solsurvivor.net/
 logo: /img/solsurvivor.svg
 category: app
 status: live
-website: https://solsurvivor.net/ 
+website: https://solsurvivor.net/
 twitter: https://twitter.com/sol__survivor
 ---
 

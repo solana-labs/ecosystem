@@ -6,7 +6,7 @@ logline: "SolPAD is a launchpad built for the Solana Ecosystem."
 cta: "https://www.solpad.finance/"
 category: app
 logo: /img/solpad.svg
-website: https://www.solpad.finance/	
+website: https://www.solpad.finance/
 twitter: https://twitter.com/FinanceSolpad
 telegram: https://t.me/solpadfinancechat
 ---

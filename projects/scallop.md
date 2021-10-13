@@ -7,7 +7,7 @@ cta: "https://www.scallop.io/"
 logo: /img/scallop.svg
 category: defi, app, NFT
 status: building
-website: https://www.scallop.io/	
+website: https://www.scallop.io/
 twitter: https://twitter.com/Scallop_io
 telegram: https://t.me/scallop_io
 discord: https://discord.com/invite/scallop

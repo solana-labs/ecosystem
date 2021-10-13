@@ -7,7 +7,7 @@ cta: "https://lido.fi/"
 logo: /img/lido.svg
 category: app
 status: live
-website: https://lido.fi/	
+website: https://lido.fi/
 twitter: https://twitter.com/lidofinance
 telegram: https://t.me/lidofinance
 discord: https://discord.gg/vgdPfhZ

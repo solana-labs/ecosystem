@@ -8,7 +8,7 @@ logo: /img/solstake.svg
 category: defi
 status: live
 website: https://solstake.io
-twitter: https://twitter.com/solstakeio		
+twitter: https://twitter.com/solstakeio
 discord: https://discord.com/invite/r5fZHdfu
 ---
 

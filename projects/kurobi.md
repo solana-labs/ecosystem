@@ -7,10 +7,11 @@ cta: "https://kurobi.io/"
 logo: /img/kurobi.svg
 category: web3, app
 status: building
-website: https://kurobi.io	
+website: https://kurobi.io
 twitter: https://twitter.com/kurobi_io
-telegram: https://t.me/kurobi_io		
+telegram: https://t.me/kurobi_io
 ---
+
 Why Kurobi
 
 - No easy way exists to schedule and host calls in one place, several apps are mashed up to set this up

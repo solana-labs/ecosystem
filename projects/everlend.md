@@ -7,9 +7,9 @@ cta: "https://everlend.finance/"
 logo: /img/everlend.svg
 category: defi
 status: live
-website: https://everlend.finance/	
+website: https://everlend.finance/
 twitter: https://twitter.com/EverlendFinance
-telegram: https://t.me/joinchat/Znd69xFkYK45NTAy			
+telegram: https://t.me/joinchat/Znd69xFkYK45NTAy
 discord: https://discord.com/invite/wwqnJYQGxM
 ---
 

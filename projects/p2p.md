@@ -9,4 +9,5 @@ category: wallet
 Website: https://p2p-org.github.io/p2p-wallet-web/#/
 Twitter: https://twitter.com/p2pwallet
 ---
+
 The P2P Org team built a bundle of open-source Solana wallet implementations, written for iOS, Android, and a web browser version. The team leveraged Solana, Serum, and Bonfida infrastructure. P2P Wallet offers super-speed and free transactions. It is the first ever wallet where you can send money with free transactions and without hidden fees.

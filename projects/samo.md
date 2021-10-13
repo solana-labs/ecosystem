@@ -6,7 +6,7 @@ logline: "Samoyedcoin ($SAMO) is Solana’s ambassador."
 cta: "https://samoyedcoin.com/"
 logo: /img/samoyedcoin.svg
 category: app
-website: http://samoyedcoin.com/	
+website: http://samoyedcoin.com/
 twitter: https://twitter.com/samoyedcoin
 telegram: https://t.me/samoyedcoin
 discord: http://discord.gg/caEepqZVcb

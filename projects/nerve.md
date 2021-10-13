@@ -7,7 +7,7 @@ cta: "https://nerve.fi/"
 logo: /img/nerve.svg
 category: amm
 status: building
-website: https://nerve.fi/	
+website: https://nerve.fi/
 twitter: https://twitter.com/NerveFinance
 telegram: https://t.me/nervefinance
 discord: https://discord.gg/waqfG39F4j
