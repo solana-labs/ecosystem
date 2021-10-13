@@ -9,4 +9,4 @@ category: app, nft
 status: building
 ---
 
-SOLATI project boosts amateur music market and supports artists to create better work.By owning SOLATI NFT, not only the artwork but also the copyright of the music can be obtained later on. The part of the paid amount goes to the artists.
+SOLATI project boosts the amateur music market and supports artists to create better work. By owning SOLATI NFT, not only the artwork but also the copyright of the music can be obtained later on. Part of the paid amount goes to the artists.

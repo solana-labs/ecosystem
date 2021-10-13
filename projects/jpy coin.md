@@ -11,4 +11,4 @@ website: https://jpyc.jp/
 twitter: https://twitter.com/jpy_coin
 ---
 
-JPYC can bring real-world Japanese yen to the Solana network. JPYC enables users to supply liquidity in DEX and exchange other tokens, allowing for easier participation in DeFi. Moreover, users can purchase goods on Amazon through Japan Crypto Asset Market Inc.
+JPY Coin (JPYC) is aiming to bring Japanese yen from the real world to Solana. With an active team and enthusiastic communities, JPYC ’s presence has been growing very rapidly. In Japan legally, JPYC isn’t a collateral-backed cryptocurrency, but a prepaid stablecoin issued by JPYC Inc. Users who have JPYC can shop using JPYC at the rate of 1 JPYC = 1 JPY. JPYC is also planning to support paying hometown tax using JPYC. JPYC is being traded on some DEX by the communities.

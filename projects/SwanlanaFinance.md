@@ -12,4 +12,4 @@ twitter: https://twitter.com/Swan_Solana
 discord: https://discord.com/invite/RMDAsJ8uVv
 ---
 
-Swanlana is a decentralized exchange and NFT Marketplace mixing social media.
+Swanlana is a decentralized exchange and NFT Marketplace combined with social media.

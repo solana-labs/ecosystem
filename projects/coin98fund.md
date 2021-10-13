@@ -6,7 +6,7 @@ logline: "The Coin98 Ecosystem Fund focuses on incubating and investing in highl
 cta: "https://share.hsforms.com/1n1sF6nFhTMqKSiJY_yXK5Q5lohw"
 cta2: "https://coin98insights.com/coin98-solana-ecosystem-fund"
 cta2text: "Fund Announcement"
-logo: /img/coin98.svg
+logo: /img/coin98.png
 category: fund
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/coin98eco.png

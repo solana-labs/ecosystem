@@ -1,5 +1,5 @@
 ---
-slug: "anchor"
+slug: "optonuke"
 date: "2020-04-03"
 title: "Opto_nuke"
 logline: "Opto_nuke is an NFT firm working towards digitalizing physical electronics in the form of 3d NFTs to provide a decentralized trustless exchange of electronics."
