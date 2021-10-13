@@ -5,7 +5,7 @@ title: "Atomic"
 logline: "Atomic is a non-custodial crypto wallet and payments gateway that supports SOL and SPL tokens."
 cta: "https://atomicwallet.io"
 category: wallet, SPL, exchange
-logo: /img/atomic.svg
+logo: /img/atomic.png
 status: live
 website: https://atomicwallet.io/
 twitter: https://twitter.com/atomicwallet

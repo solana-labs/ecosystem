@@ -1,11 +1,11 @@
 ---
 slug: "goodgamesguild"
-title: "Good Games Guild"
 date: "2021-09-16"
+title: "Good Games Guild"
 logline: "A Gaming hub focus on blockchain-based games. #Play2Earn movement! Metaverse for the living"
 cta: "http://goodgamesguild.com/"
-category: app
 logo: /img/ggg.svg
+category: app
 status: Building
 website: http://goodgamesguild.com/
 twitter: https://twitter.com/goodgamesguild

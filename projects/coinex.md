@@ -12,6 +12,4 @@ medium: https://coinex.medium.com/
 reddit: https://www.reddit.com/r/Coinex/
 ---
 
-CoinEx, a Chinese based cryptocurrency exchange, listed SOL in early 2021.
-
-Founded in December 2017 with its headquarters in Hong Kong, CoinEx (COINEX TECHNOLOGY LIMITED) is a global and professional digital coin exchange service provider.
+CoinEx is a Chinese based cryptocurrency exchange listed SOL in early 2021.

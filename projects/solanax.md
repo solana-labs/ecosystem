@@ -13,11 +13,11 @@ telegram: https://t.me/solanaxcommunity
 discord: https://discord.gg/23zsTCd4u3
 ---
 
-Our project focuses on users needs and trust in decentralised finance. We want to provide our community with a seamless, trustworthy Defi experience. With Solana, we can remove all intermediaries, complexity, and time-consuming procedures from the equation, giving users the freedom to trade without fear of censorship or losing ownership of their assets.
+Our project focuses on users needs and trust in decentralized finance. We want to provide our community with a seamless, trustworthy Defi experience. With Solana, we can remove all intermediaries, complexity, and time-consuming procedures from the equation, giving users the freedom to trade without fear of censorship or losing ownership of their assets.
 
 Users have complete control:
 
-- Next-level liquidity
-- Friction-less yield
-- Light-speed swaps
-- DeFi that is faster, cheaper, and more powerful
+Next-level liquidity
+Friction-less yield
+Light-speed swaps
+DeFi that is faster, cheaper, and more powerful
