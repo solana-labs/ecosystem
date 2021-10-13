@@ -13,4 +13,4 @@ discord: https://discord.com/BabyBlobs
 ---
 
 The first interactive NFT collection on Solana, launching on October 25th using the Metaplex Candy Machine. 
-These cute, bouncy blobs are an adorable, fun addition to your NFT portfolio!
+These cute, bouncy blobs will be an adorable, fun addition to your NFT portfolio!
