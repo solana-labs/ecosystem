@@ -16,25 +16,10 @@ jobs:
         with:
           fetch-depth: 0
 
-#      - name: Get list of changed files
-#        id: changed_files
-##        uses: tj-actions/changed-files@v1.1.2
-#        uses: jitterbit/get-changed-files@v1
-#        with:
-##          separator: ","
-#          format: 'csv'
-#          token: ${{ secrets.GITHUB_TOKEN }}
-#
-#      - name: List all modified files
-#        run: |
-#          for file in "${{ steps.changed_files.outputs.added_modified_files }}"; do
-#            echo "$file was modified"
-#          done
-
       # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.2.4
+        uses: timhagn/lint-md-fm@v1.2.5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ""
