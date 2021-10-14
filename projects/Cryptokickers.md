@@ -7,7 +7,7 @@ cta: "https://www.cryptokickers.com"
 logo: /img/cryptokickers.svg
 category: metaplex, nft
 status: live
-website: www.cryptokickers.com
+website: https://metaplex.cryptokickers.com/
 twitter: https://twitter.com/cryptokickers
 discord: https://discord.com/invite/vmXvKcx2QQ
 ---
