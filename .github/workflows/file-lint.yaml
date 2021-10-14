@@ -21,6 +21,7 @@ jobs:
         uses: tj-actions/changed-files@v1.1.2
         with:
           separator: ","
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: List all modified files
         run: |
