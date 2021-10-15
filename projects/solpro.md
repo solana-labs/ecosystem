@@ -3,9 +3,9 @@ slug: "SolPro"
 date: "2021-08-08"
 title: "SolPro"
 logline: "SolPro——Solana Ecosystem Data Aggregation & Analytics Platform"
-website:"https://www.solpro.ai"
-twitter:"https://twitter.com/SolProProject"
-telegram:"https://t.me/solpro_project"
+website: "https://www.solpro.ai"
+twitter: "https://twitter.com/SolProProject"
+telegram: "https://t.me/solpro_project"
 category: defi, tools
 status: live
 --- 
