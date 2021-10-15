@@ -7,6 +7,9 @@ cta: https://twitter.com/PlutosNetwork
 category: defi
 logo: /img/plutosnetwork.svg
 status: building
+website: https://plutos.network/
+twitter: https://twitter.com/PlutosNetwork
+telegram: https://t.me/plutosnetwork
 ---
 
 Plutos Network will integrate Solana in its Synthetic Issuance and trading platform, for better scalability performances.

@@ -7,6 +7,9 @@ cta: "https://twitter.com/ZetaMarkets"
 logo: /img/zeta.svg
 category: defi
 status: building
+website: https://zeta.markets/
+twitter: https://twitter.com/ZetaMarkets
+discord: https://discord.gg/zeta
 ---
 
 Zeta is building an options trading platform on Solana, enabling users to effectively hedge risk against crypto market movement and events.

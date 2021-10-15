@@ -6,6 +6,10 @@ logline: "Polarity is building a community-owned & decentralized advertising net
 cta: "https://www.polarity-network.com/"
 category: app
 logo: /img/polarity.svg
+website: https://www.polarity-network.com/
+twitter: https://twitter.com/PolarityNetwork
+discord: https://discord.gg/yJf2vjBbRz
+status: building
 ---
 
 Currently no easy, non-technical interface exists for end-users to exchange services or bid for responses from specific user groups on the blockchain. Polarity aims to implement a protocol which enables regular consumers to cryptographically represent themselves with a pseudonymous identity in order to interact with others to fairly exchange information or other specific services.

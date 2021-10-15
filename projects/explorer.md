@@ -6,6 +6,7 @@ logline: "The Solana Explorer allows users to look up transactions and accounts 
 cta: "https://explorer.solana.com/"
 logo: /img/explorer.svg
 category: explorer
+status: live
 ---
 
 The Solana Explorer allows users to look up transactions and accounts on the various Solana clusters.
