@@ -11,11 +11,11 @@ twitter: "https://twitter.com/lagrange_fi"
 discord: "https://discord.gg/lagrange"
 ---
 
-Lagrange tries to solve many of the problems of the real world by leveraging 
-Solana’s existing technology. We are building an interface to a decentralized 
-liquidity network similar to FOREX Electronic Communication Network. 
-We are doing this by connecting to liquidity providers on different blockchains. 
-Further, the connection between the Real World Hierarchy and Crypto World 
-Hierarchy will be established with the help of CEX and Stablecoin companies. 
-We are also building a DEX and different tools for creating markets dedicated 
+Lagrange tries to solve many of the problems of the real world by leveraging
+Solana’s existing technology. We are building an interface to a decentralized
+liquidity network similar to FOREX Electronic Communication Network.
+We are doing this by connecting to liquidity providers on different blockchains.
+Further, the connection between the Real World Hierarchy and Crypto World
+Hierarchy will be established with the help of CEX and Stablecoin companies.
+We are also building a DEX and different tools for creating markets dedicated
 specifically to Digital Currencies and Forex.
