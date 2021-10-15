@@ -11,11 +11,11 @@ status: live
 --- 
 
 
-SolPro——Ecosystem Data Aggregation & Analytics Platform
-Analyzes all of the projects within the Solana ecosystem to help you make better decisions.
-
-SolPro in Action
-——Full tracking of project performance
-——Analyze project user characteristics
-——Monitor and analyze top addresses
-——Latest project news aggregation
+SolPro——Ecosystem Data Aggregation & Analytics Platform </br>
+Analyzes all of the projects within the Solana ecosystem to help you make better decisions. </br>
+</br>
+SolPro in Action </br>
+——Full tracking of project performance </br>
+——Analyze project user characteristics </br>
+——Monitor and analyze top addresses </br>
+——Latest project news aggregation </br>
