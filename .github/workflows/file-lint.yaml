@@ -1,7 +1,7 @@
 name: Lint PR
 
 on:
-  pull_request:
+  pull_request_target:
   push:
     branches:
       - master
@@ -11,15 +11,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJSON(github) }}
-        run: echo "$GITHUB_CONTEXT"
       - name: Checkout
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.event.pull_request.head.ref }}
 
       # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
