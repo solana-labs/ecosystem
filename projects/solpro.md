@@ -1,3 +1,4 @@
+---
 slug: "SolPro"
 date: "2021-08-08"
 title: "SolPro"
@@ -7,7 +8,7 @@ twitter:"https://twitter.com/SolProProject"
 telegram:"https://t.me/solpro_project"
 category: defi, tools
 status: live
-logo: 
+--- 
 
 
 SolPro——Ecosystem Data Aggregation & Analytics Platform
