@@ -8,6 +8,7 @@ twitter: "https://twitter.com/SolProProject"
 telegram: "https://t.me/solpro_project"
 category: defi, tools
 status: live
+logo: /img/solpro.svg
 --- 
 
 
