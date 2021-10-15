@@ -1,6 +1,6 @@
 ---
 slug: "starlaunch"
-date: "2020-09-30"
+date: "2021-10-15"
 title: "StarLaunch"
 logline: "The first insured IDO launchpad for SOLANA"
 cta: "https://www.starlaunch.com"
