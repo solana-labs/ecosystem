@@ -14,7 +14,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        ref: ${{ github.head_ref }}
+        fetch-depth: 0
+        ref: refs/pull/${{ github.event.pull_request.number }}/merge
 
     - name: Prettify code
       uses: creyD/prettier_action@v3.3
