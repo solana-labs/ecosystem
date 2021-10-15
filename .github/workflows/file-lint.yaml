@@ -17,8 +17,6 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.head_ref }}
 
-      - run: git checkout ${{ github.head_ref }}
-
       # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
