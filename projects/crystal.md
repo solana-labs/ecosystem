@@ -12,10 +12,8 @@ twitter: https://twitter.com/sol_crystal_io
 telegram: https://t.me/sol_cry
 discord: https://discord.com/invite/ghnnPvQNgS
 ---
- 
-Crystal Project is dedicated for gaming and NFTs.
-We aim to build a multiplatform game supporting smart-contract within Solana Blockchain,
-Where you can SELL/BUY, collect NFTs in the game and more.
+
+We aim to build an open source cross platform game supporting smart-contract within Solana Blockchain, Where players can SELL/BUY, collect NFTs in the game and more.
 
 <b>Website</b>: https://solcry.io/ </br>
 <b>Crystal Contact</b>: https://solcry.io/contact.html </br>
