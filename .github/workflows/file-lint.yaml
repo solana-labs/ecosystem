@@ -20,7 +20,7 @@ jobs:
       # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.2.8
+        uses: timhagn/lint-md-fm@v1.2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           changed-files: ""
