@@ -14,4 +14,4 @@ discord: https://discord.com/invite/Vk26nVgTMk
 
 Welcome my fellow introverts to the A.S.R.C (Anti Social Robot Club), a collection of 4,444 NFTs on the Solana Blockchain. These digital collectibles grant access to the least competent club on the internet and the perks that result in teaming up with a bunch of hermits.
 
-As a member, you will have a vote in the future development of the community and how we grow. Most importantly, you will have a voice in establishing the mechanics of the first Play-to-Earn battle game on SOL, exclusively for members of the A.S.R.C 
+As a member, you will have a vote in the future development of the community and how we grow. Most importantly, you will have a voice in establishing the mechanics of the first Play-to-Earn battle game on SOL, exclusively for members of the A.S.R.C
