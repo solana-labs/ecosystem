@@ -16,6 +16,7 @@ discord: https://discord.com/invite/EX4JXMGAGB
 Coinmeca is a DEX (Decentralized Exchange) with the mission to solve the problem of CEX (Centralized Exchange) and Other Ethereum-based DEX through aiming to process all transactions on-chain through the Solana Blockchain. With Solana Wormhole (Bridge), Coinmeca aims to present faster transactions and lower transaction costs associated with attached networks such as Ethereum.
 
 The four components of Coinmeca infrastructure are followed:
+
 1. Exchange (On-chain Tx)
 2. Vault (On-chain liquidity provision & staking)
 3. Asset (Asset Management)
