@@ -4,7 +4,7 @@ date: "2021-10-14"
 title: "Lagrange"
 logline: "Remittance and Forex trading based on stablecoins, backed by DeFi on Solana blockchain"
 cta: "https://lagrange.fi"
-logo: /img/lagrange.svg
+logo: /img/Lagrange.svg
 category: defi, app, dapp, stablecoin
 status: building
 twitter: "https://twitter.com/lagrange_fi"
