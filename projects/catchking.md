@@ -5,7 +5,7 @@ title: "CatchKing"
 logline: "The CatchKing Explorers are 5555 randomly generated NFTs."
 cta: "https://www.catchking.io"
 logo: /img/catchking.png
-category: nft, gaming
+category: nft, game
 status: live
 website: https://www.catchking.io
 twitter: https://twitter.com/catch_king
