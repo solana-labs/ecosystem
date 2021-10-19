@@ -13,4 +13,4 @@ telegram: https://t.me/SodaProtocol
 discord: https://discord.gg/4r7uyyTR3V
 ---
 
-Soda is a lending protocol with on-chain credit rating system. Soda provides easy-to-use lending service and credit system, Sol ID. Sol ID analyzes both retail users and protocols'/institutions' on-chain behaviors, and issues a score according to their trading behaviors. With this credit system we can achieve on-chain management and have a new mechanism for protocol-to-protocol/business cooperation.
+Soda is a lending protocol with credit rating system. Soda provides easy-to-use lending service and credit system, Sol ID. Sol ID analyzes both retail users and protocols'/institutions' on-chain behaviors, and issues a score according to their trading behaviors. With this credit system we can achieve on-chain management and have a new mechanism for protocol-to-protocol/business cooperation.
