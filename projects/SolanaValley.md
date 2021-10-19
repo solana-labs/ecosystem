@@ -4,7 +4,7 @@ date: "2021-10-08"
 title: "Solana Valley"
 logline: "Farm based project on Solana"
 cta: "https://solanavalley.com/"
-logo: /img/solanavalley.jpg
+logo: /img/solana%20valley.jpg
 category: nft
 status: live
 website: https://solanavalley.com/
