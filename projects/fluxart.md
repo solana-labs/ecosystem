@@ -1,9 +1,9 @@
 ---
-slug: “fluxproject”
-date: "2021-10-19”
-title: “Flux”
-logline: “Long Form Generative Art on Solana & Arweave”
-cta: https://fluxproject.art/
+slug: "fluxproject"
+date: "2021-10-19"
+title: "Flux"
+logline: "Long Form Generative Art on Solana & Arweave"
+cta: "https://fluxproject.art/"
 logo: /img/fluxart.png
 category: nft
 status: building
