@@ -11,4 +11,4 @@ twitter: https://twitter.com/ValHlla2
 status: building
 ---
 
-Val-hölla is a Solana decentralized DeFi kickstarter and investment platform. Val-hölla has been designed to be a platform where a) users can find and invest in new innovative and exciting projects using the Solana block chain and easily keep up to date on the progress of projects that they have invested in. b) project owners and innovators can list their project and kickstart their DeFi project with investment from the Solana community.
+Val-hölla is a Solana decentralized DeFi kickstarter and investment platform. Using Val-hölla, users can find and invest in innovative and exciting projects using the Solana blockchain and easily track the progress of projects. Oswners and innovators can kickstart DeFi projects with investment from the Solana community.
