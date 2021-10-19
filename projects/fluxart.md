@@ -1,3 +1,4 @@
+---
 slug: “fluxproject”
 date: "2021-10-19”
 title: “Flux”
@@ -9,3 +10,4 @@ status: building
 website: https://fluxproject.art/
 twitter: https://twitter.com/fluxArtProject
 discord: https://discord.com/invite/6SVng3Q4eR
+---
