@@ -5,7 +5,7 @@ title: "Synergy Land"
 logline: "Synergy Land: ARPG Play-to-Earn game project powered by Solana."
 cta: "https://synergyland.world/"
 category: game, dapp
-logo: /img/synergy.svg
+logo: /img/synergy.png
 status: building
 website: https://synergyland.world/
 twitter: https://twitter.com/SynergyLandGame
