@@ -4,7 +4,7 @@ date: "2021-10-08"
 title: "Kaiju Cards"
 logline: "Collectible NFTs on Solana"
 cta: "https://kaijucards.io/"
-logo: /img/kaijucards.png
+logo: /img/kaiju%20cards.png
 category: nft
 status: live
 website: https://kaijucards.io/
