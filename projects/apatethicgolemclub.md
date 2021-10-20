@@ -12,4 +12,4 @@ twitter: https://twitter.com/ApatheticGolem
 discord: https://discord.com/invite/xQtxrbCqqt
 ---
 
-Apathetic Golem Club is 2500 Collectibles NFT on Solana. 
+Apathetic Golem Club is 2500 Collectibles NFT on Solana.

@@ -12,4 +12,4 @@ twitter: https://twitter.com/CryptZeroArt
 discord: https://discord.com/invite/BHwjhwV7DH
 ---
 
-CryptZero is a series of unique collectible avatars / personal profile NFTs with a horror genre theme on the Solana blockchain. 
+CryptZero is a series of unique collectible avatars / personal profile NFTs with a horror genre theme on the Solana blockchain.

@@ -9,4 +9,4 @@ logo: /img/solanasail.svg
 status: Building
 ---
 
-SolanaSail's governance platform will provide to all SPL tokens and projects the ability to create and vote for  proposals.
+SolanaSail's governance platform will provide to all SPL tokens and projects the ability to create and vote for proposals.

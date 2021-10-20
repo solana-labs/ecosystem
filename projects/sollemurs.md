@@ -13,5 +13,3 @@ discord: https://discord.com/invite/yNVNfcUAsJ
 ---
 
 Sollemurs are 10,000 algorithmically generated, unique Lemur characters originating from the island of Solasgar and now on the Solana blockchain. Ownership is demonstrable and all commercial rights belong to the holder.
-
-

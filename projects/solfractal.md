@@ -12,4 +12,4 @@ twitter: https://twitter.com/SolFractals
 discord: https://discord.gg/solfractals
 ---
 
-Bringing HD Quality Art to Solana. Make $ By Holding. 10,000 Individually Designed Fractals. 
+Bringing HD Quality Art to Solana. Make $ By Holding. 10,000 Individually Designed Fractals.

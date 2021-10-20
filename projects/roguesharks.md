@@ -12,4 +12,4 @@ twitter: https://twitter.com/RogueSharkTank
 discord: https://discord.com/invite/roguesharks
 ---
 
-3D High-quality collection of 5,000 Rogue Shark NFTs swimming on the Solana blockchain 
+3D High-quality collection of 5,000 Rogue Shark NFTs swimming on the Solana blockchain
