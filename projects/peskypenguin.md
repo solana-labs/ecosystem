@@ -12,5 +12,4 @@ twitter: https://twitter.com/PeskyPenguinNFT
 discord: https://discord.com/invite/akwKnaKzRy
 ---
 
-8776 deflationary, uniquely generated Penguins running from THE SNOWBALL so they aren’t swept from circulation. 
-
+8776 deflationary, uniquely generated Penguins running from THE SNOWBALL so they aren’t swept from circulation.

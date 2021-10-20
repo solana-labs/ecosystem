@@ -12,4 +12,4 @@ twitter: https://twitter.com/luckylemursnft
 discord: https://discord.com/invite/H4bAVBfCAS
 ---
 
-7777 Programmatically Generated NFT Lemurs 
+7777 Programmatically Generated NFT Lemurs

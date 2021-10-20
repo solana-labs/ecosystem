@@ -12,4 +12,4 @@ twitter: https://twitter.com/NiftyNanas
 discord: https://discord.com/invite/niftynanas
 ---
 
-Nifty Nanas is a collection of 8,888 uniquely generated bananas that was built to represent a commitment to supporting the Solana ecosystem. 
+Nifty Nanas is a collection of 8,888 uniquely generated bananas that was built to represent a commitment to supporting the Solana ecosystem.
