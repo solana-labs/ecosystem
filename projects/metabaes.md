@@ -4,7 +4,7 @@ date: "2021-10-05"
 title: "Metabaes"
 logline: "8888 algorithmically generated anime styled characters to take part in our anime episodes."
 cta: "https://metabaes.com/"
-logo: /img/yourimage.svg
+logo: /img/metabaes.png
 category: nft
 status: live
 website: https://metabaes.com/
