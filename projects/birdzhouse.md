@@ -12,5 +12,5 @@ twitter: https://twitter.com/birdzhouse
 discord: https://discord.com/invite/KXXwFaWCKp
 ---
 
-A collection of 333 epic birdzhouse mansions for the toughest Thugbirdz PFP holders. 
+A collection of 333 epic birdzhouse mansions for the toughest Thugbirdz PFP holders.
 Your birdzhouse provides access to club exclusives.
