@@ -14,7 +14,6 @@ twitter: "https://twitter.com/coinmeca"
 
 Coinmeca: the DeFi hybrid of DEX and CEX with low fees through Solana's high-performance blockchain. Coinmeca is an optimized market maker used for efficiently managing assets through automatic liquidity distribution.
 
-
 <b>Website</b>: https://coinmeca.net </br>
 <b>Twitter</b>: https://twitter.com/coinmeca </br>
 <b>Medium</b>: https://coinmeca.medium.com/ </br>

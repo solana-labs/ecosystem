@@ -14,4 +14,4 @@ discord: https://discord.com/invite/169pixel
 
 169 Pixel Gang is an adult animated gangster sitcom 100% funded by fans.
 It follows the small time crook Charlie, and his gang of misfts as they try and rise to the top of organised crime in the city.
-Holders of Season 1 NFTs will get daily token drops they will be able to use to buy items from the show shop like – tickets to meet the writers, live screenings, merch and more. 
+Holders of Season 1 NFTs will get daily token drops they will be able to use to buy items from the show shop like – tickets to meet the writers, live screenings, merch and more.

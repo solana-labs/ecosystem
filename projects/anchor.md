@@ -1,18 +1,14 @@
 ---
 slug: "anchor"
-date: "2020-04-03"
+date: "2021-01-31"
 title: "Anchor"
-logline: "Anchor is a savings protocol that aims to produce a simple and convenient savings product with broad appeal to everyday users."
-cta: "https://anchorprotocol.com/"
-logo: /img/anchor.svg
-category: DeFi
-status: building
-website: https://anchorprotocol.com/
-twitter: https://twitter.com/anchor_protocol
-telegram: https://t.me/anchor_official
-discord: https://discord.com/invite/9aUYgpKZ9c
+logline: "Anchor is a framework that makes building Solana applications easier by abstracting a lot of the heavy lifting."
+cta: "https://github.com/project-serum/anchor"
+logo: /img/anchorframework.png
+category: sdk, tools
+status: live
 ---
 
-Anchor is a savings protocol that aims to produce a simple and convenient savings product with broad appeal to everyday users. The protocol accepts Terra deposits, allows instant withdrawals and pays depositors a low-volatility interest rate. To generate yield, Anchor lends out deposits to borrowers who put down liquid-staked Proof-of-Stake assets from major blockchains as collateral (bAssets).
+Web 2 devs: Anchor is framework for building and interacting with smart contracts on Solana. Think Ruby on Rails for Solana.
 
-Anchor stabilizes the deposit interest rate by passing on a variable fraction of the bAsset yield to the depositor. It guarantees the principal of depositors by liquidating borrowers’ collateral via liquidation contracts and third-party arbitrageurs.
+For ethereum devs: Anchor is Solidity, web3.js/ethers.js, Truffle/ganache all in one toolchain.

@@ -12,4 +12,3 @@ status: live
 ---
 
 Ledger is a smart way to secure, buy, exchange and grow your crypto assets. The SOL asset is supported on all Ledger devices, including the Nano X and Nano S.
-
