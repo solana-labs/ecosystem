@@ -12,4 +12,5 @@ discord: https://discord.gg/UjwkJwcj
 telegram: https://t.me/applehead_token
 status: building
 ---
+
 Applehead ($APPLEHEAD) is a fully decentralized, community powered Solana ecosystem, peer to peer digital currency, owned in whole by it’s community with instant rewards for holders.
