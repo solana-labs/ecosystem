@@ -4,7 +4,7 @@ date: "2021-10-15"
 title: "NeopetsMeta"
 logline: "The Neopets exist as SPL tokens based on the Metaplex NFT standard."
 cta: "https://www.neopetsmetacollection.com"
-logo: /img/NeopetsMeta.png
+logo: /img/neopetsmeta.png
 category: nft
 status: building
 website: https://www.neopetsmetacollection.com
