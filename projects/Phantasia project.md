@@ -2,13 +2,13 @@
 slug: "Phantasia"
 date: "2021-07-27"
 title: "Phantasia"
-logline: "Phantasia is the first of its kind, it's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while betting against their friends."
-cta: "https://www.phantasia.digital/"
+logline: "Welcome to the future of Fantasy Sports. Phantasia is the first of its kind Fantasy Sports Platform that leverages blockchain technology to bring the benefits of blockchain to Fantasy Sports players. Through Phantasia's Play to Earn model, users can earn $FANT token by winning contests and completing in-game quests. To enhance user experience, the Phantasia platform introduces an NFT concept where users can build their “Fan Card” from NFTs that can be bought on the exclusive Phantasia NFT shop or earned from in game play."
+cta: "https://phantasia.app/"
 logo: /img/phantasia_logo.svg
 category: app, tools
 status: building
-website: https://www.phantasia.digital/
+website: https://www.phantasia.app/
 twitter: https://twitter.com/PhantasiaSports
 ---
 
-Phantasia is the first of its kind. It's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while betting against their friends.
+Welcome to the future of Fantasy Sports. Phantasia is the first of its kind Fantasy Sports Platform that leverages blockchain technology to bring the benefits of blockchain to Fantasy Sports players. Through Phantasia's Play to Earn model, users can earn $FANT token by winning contests and completing in-game quests. To enhance user experience, the Phantasia platform introduces an NFT concept where users can build their “Fan Card” from NFTs that can be bought on the exclusive Phantasia NFT shop or earned from in game play..
