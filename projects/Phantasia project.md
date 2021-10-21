@@ -2,13 +2,13 @@
 slug: "Phantasia"
 date: "2021-07-27"
 title: "Phantasia"
-logline: "Phantasia is the first of its kind, it's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while betting against their friends."
-cta: "https://www.phantasia.digital/"
+logline: "Phantasia is the first of its kind, it's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while playing against their friends."
+cta: "https://www.phantasia.app/"
 logo: /img/phantasia_logo.svg
 category: app, tools
 status: building
-website: https://www.phantasia.digital/
+website: https://www.phantasia.app/
 twitter: https://twitter.com/PhantasiaSports
 ---
 
-Phantasia is the first of its kind. It's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while betting against their friends.
+Phantasia is the first of its kind. It's a Fantasy Sports Platform that leverages blockchain technology, bringing the benefits of blockchain to the end users. The application allows users to play their favorite fantasy sports games while playing against their friends.
