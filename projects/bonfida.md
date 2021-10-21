@@ -15,4 +15,4 @@ discord: https://discord.gg/B4xzATxQHC
 
 Bonfida is a full product suite that bridges the gap between Serum, Solana, and the user. It aims to be a single source of data truth in the cryptocurrency industry, focusing on, among other things, exchange statistics, crypto company reviewing and scoring, and researching crypto trends.
 
-Bonfida also handles an array of data aggregation and visualisation, which has proved popular among crypto traders who don’t typically have the means to parse this data themselves.
+Bonfida also handles an array of data aggregation and visualization which has proved popular among crypto traders who don’t typically have the means to parse this data themselves.

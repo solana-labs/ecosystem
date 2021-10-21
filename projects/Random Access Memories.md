@@ -12,4 +12,4 @@ twitter: https://twitter.com/RAM_NFT
 discord: https://discord.com/invite/fZP4g4BYdD
 ---
 
-Random Access Memories is a retrofuture inspired collectibles from the block.
+Random Access Memories is designing retrofuture inspired collectibles from the block.

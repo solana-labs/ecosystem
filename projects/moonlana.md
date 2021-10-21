@@ -9,4 +9,4 @@ logo: /img/moonlana.svg
 status: Live
 ---
 
-Moonlana created a on-chain tipbot that can be accessed on Discord.
+Moonlana created an on-chain tip bot that can currently be used on Discord.

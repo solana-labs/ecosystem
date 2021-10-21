@@ -1,5 +1,5 @@
 ---
-slug: "1sol"
+slug: "agronomist"
 date: "2021-08-31"
 title: "Agronomist"
 logline: "Powerful DeFi analytics platform for farming, staking and liqudity pools"
