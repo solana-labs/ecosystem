@@ -6,6 +6,10 @@ logline: "yiToken is a decentralized multi-chain cryptocurrency and NFT wallet w
 cta: "https://yitoken.im/"
 logo: /img/yiToken.svg
 category: wallet
+Twitter: https://twitter.com/yitokenwallet
+Discord: https://discord.com/invite/BJ7H8CUbAb
+Medium: https://yitoken.medium.com/
+Telegram: https://t.me/yitoken
 status: Development stage(test)
 ---
 
