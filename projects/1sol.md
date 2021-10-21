@@ -14,4 +14,3 @@ discord: https://discord.gg/juvVBKnvkj
 ---
 
 1Sol is a cross-chain DEX aggregator for decentralized protocols on Solana enabling seamless, efficient, and protected operations in DeFi. With DeFi infrastructures in rapid growth, aggregators in high demand, and cross-chain transactions being the future, 1Sol is born for Solana. 1Sol is aimed at aggregating swaps, integrating order books, and expanding to OTC markets.
-

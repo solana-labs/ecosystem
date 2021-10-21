@@ -10,4 +10,3 @@ status: live
 ---
 
 HAPI-owned Boca Chica is one of the main facilitators of new Solana-based projects. Boca Chica is creating a fertile soil for new projects on the Solana blockchain that will bolster growth and promote their significance in the crypto sphere.
-

@@ -13,4 +13,3 @@ status: live
 ---
 
 Abstratica is Deep Neural Networks generative art.
-

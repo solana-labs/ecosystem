@@ -10,4 +10,3 @@ status: Live
 ---
 
 Moonlana created an on-chain tip bot that can currently be used on Discord.
-

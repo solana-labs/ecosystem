@@ -4,7 +4,7 @@ date: "2021-03-30"
 title: "Hedgehog"
 logline: "Hedgehog is a user-centric prediction market platform."
 cta: "https://twitter.com/HedgehogMarket"
-logo: /img/hedgehog.svg
+logo: /img/hedgehog.png
 category: defi, amm
 status: live
 website: https://hedgehog.markets/#/
