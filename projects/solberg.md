@@ -1,6 +1,6 @@
 ---
 slug: "solberg"
-date: "2020-09-04"
+date: "2021-09-04"
 title: "Solberg"
 logline: "Solberg is a decentralized exchange that will support NFT marketplace and staking."
 cta: "https://www.solbergtoken.com"
