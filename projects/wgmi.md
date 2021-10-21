@@ -8,6 +8,7 @@ logo: /img/wgmi.svg
 category: nft
 status: live
 website: https://wgmi.cc
+Discord: https://discord.com/invite/yr4PpZNQXK
 twitter: https://twitter.com/WGMIcc
 ---
 
