@@ -9,6 +9,8 @@ category: exchange
 status: live
 website: https://uphold.com/
 twitter: https://twitter.com/UpholdInc
+Facebook: https://web.facebook.com/UpholdInc?
+Instagram: https://www.instagram.com/upholdinc/
 ---
 
 Founded as Bitreserve in 2013 and later changing its title, Uphold is a leading cryptocurrency exchange. It allows users to transact across more than 1,000 different cryptocurrencies and commodities, including a number of prominent digital currencies and precious metals.
