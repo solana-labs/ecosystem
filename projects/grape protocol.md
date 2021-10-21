@@ -8,7 +8,7 @@ category: app, community
 logo: /img/grapeprotocol.svg
 status: Live
 website: https://grapes.network/
-twitter: https://twitter.com/solanagrape
+twitter: https://twitter.com/grapeprotocol
 discord: https://discord.gg/greatape
 ---
 

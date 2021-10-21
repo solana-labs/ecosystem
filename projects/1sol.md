@@ -13,4 +13,4 @@ telegram: https://t.me/onesolcommunity
 discord: https://discord.gg/juvVBKnvkj
 ---
 
-1Sol Protocol is a cross-chain DEX aggregator for decentralized protocols on Solana, enabling the most seamless, efficient and protected operations in DeFi. With DeFi infrastructure rapidly growing, aggregators in high demand, cross-chain transactions being the future, 1Sol is born to bring together liquidity from both DeFi and CeFi (swaps, orderbook DEX(s), OTC, etc.) for multi-chains.
+1Sol is a cross-chain DEX aggregator for decentralized protocols on Solana enabling seamless, efficient, and protected operations in DeFi. With DeFi infrastructures in rapid growth, aggregators in high demand, and cross-chain transactions being the future, 1Sol is born for Solana. 1Sol is aimed at aggregating swaps, integrating order books, and expanding to OTC markets.

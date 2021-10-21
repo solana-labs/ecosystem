@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Square</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF0017" offset="0%"></stop>
+            <stop stop-color="#B7001C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Black" fill="#000000" x="0" y="0" width="100" height="100"></rect>
+        <g id="MEAN_Vertical_OnBlack" transform="translate(15.000000, 16.000000)" fill="url(#linearGradient-1)">
+            <path d="M69.0654326,0 L35.5018758,8.75814484 L1.93831901,0 L0,15.2577917 L13.894621,50.13767 L35.5043768,68 L57.1085054,50.13767 L71,15.2577917 L69.0654326,0 Z M62.8596854,8.29757873 L63.7775733,15.5299444 L51.5711656,46.1779098 L43.790378,52.6098263 L54.7800215,18.2422355 L40.7334613,21.8036183 L38.1598739,52.5248556 L35.5006253,59.4185697 L32.8420019,52.5248556 L30.2671639,21.8036183 L16.221229,18.2422355 L27.2108726,52.6098263 L19.4300849,46.1779098 L7.22430252,15.5299444 L8.14219036,8.29757873 L35.5006253,15.4400478 L62.8596854,8.29757873 Z" id="Fill-1-Copy-2"></path>
+        </g>
+    </g>
+</svg>

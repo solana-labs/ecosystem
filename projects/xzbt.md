@@ -7,4 +7,5 @@ cta: "https://xzbt.io/"
 logo: /img/xzbt.svg
 category: nft, metaplex
 status: building
+website: https://xzbt.io
 ---

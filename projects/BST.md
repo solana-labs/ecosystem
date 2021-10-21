@@ -9,5 +9,4 @@ category: app
 status: building
 ---
 
-bali sari token is the first token that bridges between costumers and airport transport ground, costumers can pay fees for pick up, daily tours, drop to airports with balisari trans tokens
-the first project we starting on Bali island
+Balisari is a customer reward token designed to allow BST customers to conveniently pay fees for travel expenses, daily tours, and airport transportation.

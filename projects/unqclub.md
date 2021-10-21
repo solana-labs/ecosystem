@@ -13,6 +13,6 @@ telegram: https://t.me/unq_community
 discord: https://discord.com/invite/hbuDW9WmnW
 ---
 
-UNQ.club is a platform for NFT collectors focused on seamless experience. Major aspects are: bulding a community, fundraising, purchasing NFTs across different blockchains and protocols from a single intefrace.
+UNQ.club is a platform for NFT collectors focused on seamless experience. Major aspects are: building a community, fundraising, purchasing NFTs across different blockchains and protocols from a single interface.
 
 Our goal is to make collecting a full-time job.
