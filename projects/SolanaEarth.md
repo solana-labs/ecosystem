@@ -5,6 +5,7 @@ title: "SolanaEarth"
 logline: "A project of 2222 art pieces Ai-drawn"
 cta: "https://www.solanaearth.org"
 logo: /img/SolanaEarth.png
+category: nft
 status: Live
 website: https://www.solanaearth.org
 twitter: https://twitter.com/SolanaEarth
