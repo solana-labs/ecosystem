@@ -4,7 +4,7 @@ date: "2021-10-15"
 title: "Incept Protocol"
 logline: "The most user-friendly synthetic asset DEX on Solana"
 cta: "https://www.incept.so"
-logo: /img/incept protocol.jpg
+logo: /img/incept_protocol.jpg
 category: dex
 status: building
 website: https://www.incept.so
