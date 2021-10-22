@@ -13,4 +13,4 @@ telegram: https://t.me/runnode
 discord: https://discord.gg/V2f74X8Zrt
 ---
 
-RunNode will have a dual revenue structure that is innovative to the industry. They will host a staking solution for users to stake their crypto assets in a non-custodial way to act as validators on their respective networks. Beyond that, RunNode will also build an API that will tap into those validator nodes so that they can both act as a validator and as a developer portal.
+RunNode contains a revolutionary dual revenue structure. Bearing a staking solution, users can stake crypto assets in a non-custodial way to act as validators on their respective networks. Beyond that, RunNode will host an API that will tap into those validator nodes so that they can both act as validator and developer portal.
