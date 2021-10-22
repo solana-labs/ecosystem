@@ -2,7 +2,7 @@
 slug: "foxvillenfts"
 date: "2021-10-22"
 title: "Foxville NFTs"
-logline: "First NFTs project "Foxville" has entered into farm games based on Solana.Play to Earn & Stake your NFTs"
+logline: "First NFTs project Foxville has entered into farm games based on Solana.Play to Earn & Stake your NFTs"
 cta: "https://foxville.app"
 logo: /img/FoxvilleNFTs.jpg
 category: nft
