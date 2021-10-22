@@ -3,7 +3,7 @@ slug: "TheWalkingChain"
 date: "2021-10-31"
 title: The Walking Chain
 logline: "Zombie NFTs Built on #Solana"
-cta: "https://thewalkingchain.com"
+cta: "https://thewalkingchain.io"
 logo: /img/thewalkingchain.png
 category: nft,metaplex,candymachine
 status: live
