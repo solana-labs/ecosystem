@@ -5,7 +5,7 @@ title: "xHashtag"
 logline: "A #PlayToEarn DAO for #FutureOfWork"
 cta: "https://www.xhashtag.io/"
 logo: /img/xhashtag.svg
-category: "dapp, defi, community, governance"
+category: "dapp, defi, governance, game"
 status: building
 website: https://www.xhashtag.io/
 twitter: https://twitter.com/xhashtagio
