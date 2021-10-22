@@ -5,7 +5,7 @@ title: realy
 logline: "The 1st Solana 3A Graphics Metaverse - “Live to Earn” Gamefi"
 cta: "https://realy.pro/"
 logo: /img/Realy.png
-category: metaverse
+category: app
 status: live
 twitter: "https://twitter.com/RealyOfficial"
 ---
