@@ -5,7 +5,7 @@ title: "256 VRJunky"
 logline: "256 VRJunky - a diversity of VR aficionados with the vision of connecting VR and the NFT community. A trading card for adults."
 cta: "https://www.cybershoes.com/nft/"
 logo: /img/256VRJunky.png
-category: nft, gaming
+category: nft, game
 status: building
 website: https://www.cybershoes.com/nft/
 twitter: https://twitter.com/CybershoesVR
