@@ -6,7 +6,10 @@ logline: "FTX, Alameda Research, and a consortium of other partners created the 
 cta: "https://projectserum.com/"
 logo: /img/serum.svg
 category: DeFi, DEX, SPL
+website: https://www.projectserum.com/
 status: live
+Telegram: https://t.me/ProjectSerum
+Discord: https://discord.com/invite/zxPsXcB
 twitter: https://twitter.com/ProjectSerum
 ---
 
