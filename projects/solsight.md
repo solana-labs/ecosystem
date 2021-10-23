@@ -5,7 +5,7 @@ title: "SolSight"
 logline: "SolSight is a Solana historical balance explorer that allows users a new way of looking at market conditions through wallet movement."
 cta: "https://solsight.io/"
 logo: /img/solsight.png
-category: app, infra, explorer, rpc, tools
+category: app, explorer, tools
 status: live
 website: https://solsight.io/
 twitter: https://twitter.com/solsightio
