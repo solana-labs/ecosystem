@@ -3,11 +3,11 @@ slug: "beachboyz"
 date: "2021-10-22"
 title: "BeachBoyz"
 logline: "A lifetime membership to the BeachBoyz Club and a key to unlock the BeachBoyz world, powered by Solana Blockchain!"
-cta: "https://BeachBoyz.stuio/"
+cta: "https://BeachBoyz.studio/"
 logo: /img/BeachBoyz.png
 category: game, nft, metaplex
 status: building
-website: https://BeachBoyz.stuio/
+website: https://BeachBoyz.studio/
 twitter: https://twitter.com/SolBeachBoyz
 discord: https://discord.gg/BeachBoyz
 ---
