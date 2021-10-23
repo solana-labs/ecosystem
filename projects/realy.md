@@ -10,7 +10,7 @@ status: live
 twitter: "https://twitter.com/RealyOfficial"
 ---
 
-Realy: The 1st Solana 3A Graphics Metaverse - “Live to Earn” Gamefi
+Realy: The 1st Solana 3A Graphics Metaverse -- “Live to Earn” Gamefi
 
 <b>Website</b>: https://realy.pro/ </br>
 <b>Twitter</b>: https://twitter.com/RealyOfficial </br>
