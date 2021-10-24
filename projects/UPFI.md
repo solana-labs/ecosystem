@@ -6,8 +6,11 @@ logline: UPFI is a stablecoin pegged to the U.S dollar built on Solana.
 cta: "https://upfi.network"
 logo: /img/upfi.svg
 category: "stablecoin, defi, app"
-twitter: "https://twitter.com/upfi_network"
 status: building
+website: https://upfi.network
+twitter: https://twitter.com/upfi_network
+telegram: https://t.me/upfinetworkchannel
+discord: https://discord.gg/nHMDdyAggx
 ---
 
 The ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.

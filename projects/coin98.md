@@ -4,7 +4,7 @@ date: "2020-04-03"
 title: "Coin98"
 logline: "Coin98 is a non-custodial crypto wallet and payments gateway that supports SOL and SPL tokens."
 cta: "https://coin98.app/"
-logo: /img/coin98.svg
+logo: /img/coin98.png
 category: wallet, SPL
 status: live
 website: https://coin98.app/

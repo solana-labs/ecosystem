@@ -1,7 +1,7 @@
 name: Lint PR
 
 on:
-  pull_request:
+  pull_request_target:
   push:
     branches:
       - master
@@ -11,32 +11,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout PR
+        if: ${{ github.event.pull_request.number }}
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-
-      - run: git checkout add-linting-action
-
-      - name: Get list of changed files
-        id: changed_files
-        uses: tj-actions/changed-files@v1.1.2
+          ref: refs/pull/${{ github.event.pull_request.number }}/merge
+      - name: Checkout on main branch
+        if: ${{ !github.event.pull_request.number }}
+        uses: actions/checkout@v2
         with:
-          separator: ","
+          fetch-depth: 0
+          ref: ${{ github.head_ref }}
 
-      - name: List all modified files
-        run: |
-          for file in "${{ steps.changed_files.outputs.all_modified_files }}"; do
-            echo "$file was modified"
-          done
-
-      # This will lint all files, see https://github.com/timhagn/lint-md-fm.
+      # This will lint all files, see https://github.com/timhagn/lint-md-fm
       - name: Lint Current PR
         id: lint
-        uses: timhagn/lint-md-fm@v1.1.3
+        uses: timhagn/lint-md-fm@v2.0.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          changed-files: ${{ steps.changed_files.outputs.all_modified_files }}
+          changed-files: ""
           directories: |
             projects
             img
