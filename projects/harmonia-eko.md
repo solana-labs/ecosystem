@@ -12,6 +12,6 @@ discord: "https://discord.com/invite/Vh84sw3B"
 twitter: "twitter.com/harmonia-eko"
 ---
 
-Harmonia-eko is a Solana-powered CO2e offset marketplace, rewarding buyers with collectable and tradable NFT certificates, from the best of the web's artists!
+Harmonia-eko is a Solana-powered CO2e offset marketplace, rewarding buyers with collectible and tradable NFT certificates, from the best of the web's artists!
 
 🌳🌍🌏🌌😌
