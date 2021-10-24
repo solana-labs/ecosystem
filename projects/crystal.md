@@ -16,7 +16,6 @@ discord: https://discord.com/invite/ghnnPvQNgS
 We aim to build an open source cross platform game supporting smart-contract within Solana Blockchain, Where players can SELL/BUY, collect NFTs in the game and more.
 
 <b>Website</b>: https://solcry.io/ </br>
-<b>Crystal NFT</b>: https://nft.solcry.io/ </br>
 <b>Crystal Dex</b>: https://dex.solcry.io/ </br>
 <b>Twitter</b>: https://twitter.com/sol_crystal_io </br>
 <b>Telegram</b>: https://t.me/sol_cry </br>
