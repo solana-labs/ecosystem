@@ -2,7 +2,7 @@
 slug: "ramp"
 date: "2020-04-03"
 title: "Ramp"
-logline: "RAMP is a decentralized protocol that intends to boost DeFi adoption. RAMP DeFI uses Solana to deliver staked liquidity and cross-chain yield farming for SOL token holders."
+logline: "RAMP is a decentralized protocol that boosts DeFi adoption. RAMP DeFI uses Solana to deliver staked liquidity and cross-chain yield farming for SOL token holders."
 cta: "https://medium.com/rampdefi/ramp-defi-empowering-sol-users-with-staked-liquidity-and-cross-chain-defi-farming-8861af6a6e62"
 logo: /img/ramp.svg
 category: DeFi
