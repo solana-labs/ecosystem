@@ -2,15 +2,14 @@
 slug: "apeboard"
 date: "2021-05-11"
 title: "ApeBoard"
-logline: "ApeBoard is a cross-chain DeFi dashboard that supports Solana."
+logline: "A Cross-chain DeFi Dashboard"
 cta: "https://apeboard.finance/"
-category: app
+category: app, defi
 logo: /img/apeboard.svg
 status: live
-twitter: "https://twitter.com/ape_board/"
-telegram: "https://t.me/apeboard"
+website: https://apeboard.finance/
+twitter: https://twitter.com/ape_board/
+telegram: https://t.me/apeboard
 ---
 
 ApeBoard is a cross-chain DeFi dashboard that supports the Solana network.
-
-<b>twitter:</b>https://twitter.com/ape_board/
