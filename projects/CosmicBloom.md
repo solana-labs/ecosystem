@@ -3,11 +3,13 @@ slug: "cosmicbloom"
 date: "2021-04-01"
 title: "Cosmic Bloom"
 logline: "Cosmic Bloom is a worldwide healing community."
-cta: "https://cosmicbloom.com"
+cta: "https://rally.io/creator/STARS/"
 logo: /img/COSMIC BLOOOM.svg
 category: metaplex, nft
-website: https://cosmicblooom.com/
+website: https://rally.io/creator/STARS/
 twitter: https://twitter.com/cosmicblooom
+telegram: https://www.t.me/CosmicBlooom
+discord: https://discord.com/invite/uYNfT3c4Gg
 status: live
 ---
 
