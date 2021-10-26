@@ -6,6 +6,7 @@ logline: " stake.tax aims to make tax season easier for staking coin hodlers."
 cta: "https://stake.tax/"
 category: tools
 status: building
-Website:https://stake.tax/
+Website: https://stake.tax/
 Twitter: https://twitter.com/staketax
+
 ---
