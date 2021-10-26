@@ -13,4 +13,4 @@ Agronomist.tech - powerful analytics platform for farming, staking and liqudity 
 
 <b>Website</b>: https://agronomist.tech </br>
 <b>Twitter</b>: https://twitter.com/AgronomistTech </br>
-<b>Discord</b>: https://discord.gg/tR45QftB6K </br>
+<b>Discord</b>: https://discord.com/invite/yeNVPM96YJ </br>
