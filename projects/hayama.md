@@ -3,7 +3,7 @@ slug: "Hayama"
 title: "Hayama"
 date: 2021-10-25
 logline: "Hayama is a decentralized NFT trading platform built on top of Solana block-chain."
-category: NFT
+category: nft,dapp
 logo: /img/sol-hayama.png
 cta: "https://www.sol-hayama.com/"
 status: live
