@@ -3,10 +3,12 @@ slug: "bigdataprotocol"
 title: "Big Data Protocol"
 date: 2021-05-28
 logline: "Big Data Protocol is DeFi protocol to source commercially valuable data from professional data providers, tokenize it, and make it liquid."
-cta: https://twitter.com/bigdataprotocol
+cta: https://www.bigdataprotocol.com/
 category: defi
 logo: /img/bigdataprotocol.svg
-status: building
+status: finished
+website: https://www.bigdataprotocol.com/
+telegram: https://t.me/bigdataprotocol
 ---
 
 Big Data Protocol has the following products:
