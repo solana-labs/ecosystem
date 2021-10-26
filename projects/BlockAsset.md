@@ -10,7 +10,7 @@ status: live
 website: https://blockasset.co/#/
 twitter: https://twitter.com/blockassetco
 telegram: https://t.me/blockassetofficial/
-discord: https://discord.com/invite/ezRCfH52wu
+discord: https://discord.com/invite/9FZ3j6ZmsG
 ---
 
 Block Asset is a verified NFT ecosystem connecting fans to athletes. We leverage strategic relationships with athletes, agencies, and clubs and connect them to fans using our proprietary NFT marketplace, blockchain NFT ticketing, and blockchain NFT gaming.
