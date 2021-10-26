@@ -19,4 +19,4 @@ Our story tells about Candy’s Halloween Night. She will visit 8888 different H
 
 Will it be a game like “Trick or Treat” ? Well, ...no idea. We just want it to be a little mysterious. Come buy a house and be part of the story, now is the time.
 
-Next stage is nft staking, create unique nft game and governance ecosystem.
+Next stage is nft staking, create unique nft game and governance ecosystem. 
