@@ -4,7 +4,7 @@ date: "2021-10-26"
 title: "SUPADROP"
 logline: "a curated NFT art & collectibles marketplace on @solana. Connecting top creators and collectors."
 cta: "https://supadrop.com/"
-logo: /img/Supadrop_logo_100x100.jpg
+logo: /img/supadrop.svg
 category: nft, app, dapp, metaplex
 status: building
 website: https://supadrop.com/
