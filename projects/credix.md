@@ -3,7 +3,7 @@ slug: "credix"
 date: "2021-10-27"
 title: "Credix"
 logline: "Democratizing credit investing with a positive impact"
-cta: "https://credix.finance"
+cta: "https://Credix.finance"
 logo: /img/credix.png
 category: defi, app
 status: building
