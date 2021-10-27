@@ -7,7 +7,7 @@ cta: "https://www.solcubator.io"
 logo: /img/solcubator.png
 category: amm, app, dapp
 status: live
-website: https://www.solcubator.io
+website: https://www.solcubator.io/
 twitter: https://twitter.com/solcubator
 telegram: https://t.me/Solcubator
 ---
