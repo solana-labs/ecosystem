@@ -5,7 +5,7 @@ title: "DappRadar"
 logline: "Discover and analyse top Solana dapps ranked by various metrics. Explore NFTs, DeFi and more."
 cta: "https://dappradar.com"
 logo: /img/dappradar.png
-category: explorer, nfts, defi
+category: explorer, nft, defi
 status: live
 website: https://dappradar.com
 twitter: https://twitter.com/dappradar
