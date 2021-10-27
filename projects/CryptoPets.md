@@ -9,7 +9,7 @@ category: metaplex, nft, game
 status: live
 website: https://cryptopets.tech
 twitter: https://twitter.com/CryptopetsAR
-discord: https://discord.gg/XEUUwsUTPc
+discord: https://discord.gg/dd2BpmBsy4
 ---
 
 CryptoPets are the first augmented reality NFTs on Solana, which can be used as in-game avatars for their upcoming P2E game. The team is following up with an open-source, interoperable, metaverse project that CryptoPets will be a part of.
