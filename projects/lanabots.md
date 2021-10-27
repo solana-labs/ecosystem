@@ -11,3 +11,5 @@ discord: https://discord.gg/Rr7SWpdhgf
 logo: /img/lanabots.png
 status: Live
 ---
+
+3,333 Solana Tipbot Collection Of Programmatically, Randomly Generated NFTs. Evolution Comes After Fusion.
