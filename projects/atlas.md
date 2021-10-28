@@ -4,7 +4,7 @@ date: "2021-07-21"
 title: Atlas
 logline: Atlas provides the deepest liquidity for swaps on Solana
 cta: "https://atlasdex.finance/"
-logo: /img/atlas.svg
+logo: /img/atlas-logo.png
 category: "amm, dex, defi"
 status: Live
 twitter: "https://twitter.com/atlas_dex"
