@@ -4,7 +4,7 @@ date: "2021-02-10"
 title: "Potato Coin"
 logline: "Potato is a Serum-based DEX and meme token built on Solana."
 cta: "https://potatocoinspl.com/"
-category: dex,nft,meme
+category: dex,nft
 logo: /img/PotatoLogo.png
 website: https://potatocoinspl.com/
 twitter: https://twitter.com/PotatoCoinSPL
