@@ -6,7 +6,6 @@ logline: "Dexlab is a decentralized exchange where Solana projects can mint and 
 cta: "https://www.dexlab.space"
 logo: /img/dexlab.svg
 category: DEX
-Status: live
 website: https://www.dexlab.space/#/
 twitter: https://twitter.com/Dexlab_official
 telegram: https://t.me/dexlab_official

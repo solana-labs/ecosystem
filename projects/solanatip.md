@@ -9,4 +9,4 @@ logo: /img/solanatip.svg
 status: live
 ---
 
-Solanatip is a Chrome extension who allows you to reward your favorite content on Twitter with $SOL. It works using the Solana Name Service for Twitter, with this service we can check if the user to receive the tip has an associated wallet and proceed to make the transaction using your Phantom or Sollet wallet
+Solanatip is a Chrome extension which allows for Twitter content creators to be rewarded with $SOL. Using Solana's Twitter-specific Name Service, we check if the user to receive the tip has an associated wallet and proceed to make the transaction using the Phantom or Sollet wallet.
