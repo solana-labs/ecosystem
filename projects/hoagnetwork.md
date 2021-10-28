@@ -11,7 +11,7 @@ date: "2021-10-27\'94\
 title: \'93Hoag\'94\
 logline: \'93A self hosted video platform for every content creator\'94\
 cta: "https://hoag.network/"\
-logo: /img/hoaglogo.png\
+logo: /img/Hoag_logo.png\
 category: app, not, infra\
 status: building\
 website: https://hoag.network/\
@@ -21,9 +21,9 @@ discord: https://discord.gg/QeyPpjfbrH\
 \
 \pard\pardeftab720\sl340\partightenfactor0
 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Hoag Network is A self-hosted video platform for creators to run their own censorship resistant Twitch. The code is open source and was the latest Solana Hackathon winner on Media Prize.\cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+Hoag Network is A self-hosted video platform for creators to run their own censorship resistant Twitch. The code is open source and was the latest Solana Hackathon winner on Media Prize.\cf0 \cb1 \kerning1\expnd0\expndtw0 \
 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
+\
 \pard\pardeftab720\sl460\sa480\partightenfactor0
 \cf2 Hoag PlayDAO is a decentralized media network that creates and distributes content. HOAG Play uses HOAG Networks\'91 code and guarantees its development. \
 \pard\pardeftab720\sl340\partightenfactor0
