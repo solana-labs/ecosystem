@@ -1,8 +1,8 @@
 ---
-slug: “Hoag”
-date: "2021-10-27”
-title: “Hoag”
-logline: “A self hosted video platform for every content creator”
+slug: "Hoag"
+date: "2021-10-27"
+title: "Hoag"
+logline: "A self hosted video platform for every content creator"
 cta: "https://hoag.network/"
 logo: /img/Hoag_logo.png
 category: app, nft, infra
