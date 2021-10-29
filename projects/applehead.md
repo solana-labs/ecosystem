@@ -4,7 +4,7 @@ date: "2021-10-11"
 title: "Applehead"
 logline: "Applehead ($Applehead) is a fully decentralized, community powered Solana ecosystem, peer to peer digital currency, owned in whole by it’s community with instant rewards for holders."
 cta: "https://applehead.finance/"
-category: defi, nft
+category: defi, nft, game
 logo: /img/APHDLogo.svg
 website: https://applehead.finance/
 twitter: https://twitter.com/Applehead_token
