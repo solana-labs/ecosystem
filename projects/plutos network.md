@@ -3,10 +3,10 @@ slug: "plutosnetwork"
 title: "Plutos Network"
 date: "2021-05-28"
 logline: "Plutos Network is a cross-chain synthetic issuance and derivative trading platform which introduces mining incentives and Staking rewards to users."
-cta: https://twitter.com/PlutosNetwork
+cta: https://plutos.network
 category: defi
 logo: /img/plutosnetwork.svg
-status: building
+status: live
 website: https://plutos.network/
 twitter: https://twitter.com/PlutosNetwork
 telegram: https://t.me/plutosnetwork

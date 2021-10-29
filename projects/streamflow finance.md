@@ -7,6 +7,10 @@ cta: "https://streamflow.finance"
 category: defi, spl, tools, app
 logo: /img/streamflowfinance.svg
 status: building
+Website: https://streamflow.finance
+Twitter: https://twitter.com/streamflow_fi
+Telegram: https://t.me/streamflow_fi
+Discord: https://discord.gg/9yyr8UBZjr
 ---
 
 StreamFlow Finance is a platform for streaming payments.

@@ -12,7 +12,7 @@ twitter: https://twitter.com/VelasBlockchain
 telegram: https://t.me/velascommunity
 ---
 
-Velas announced their support for the the Solana codebase, resulting in one of the fastest blockchain frameworks in the industry. Velas has now added support for Ethereum Virtual Machine.
+Velas announced their support for the Solana codebase, resulting in one of the fastest blockchain frameworks in the industry. Velas has now added support for Ethereum Virtual Machine.
 
 Velas will expand upon the Solana codebase in order to obtain and leverage one of the fastest blockchain frameworks in the entire crypto industry, far exceeding previous framework speeds and those of competitors, while furthering the visions and aspirations of the Velas journey further.
 
