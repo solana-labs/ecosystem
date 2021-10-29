@@ -2,7 +2,7 @@
 slug: "quicknode"
 date: "2017-07-01"
 title: "QuickNode"
-logline: "QuickNode make it simple to power your blockchain applications and scale up as you grow."
+logline: "QuickNode makes it simple to power your blockchain applications and scale up as you grow."
 cta: "https://www.quicknode.com/"
 logo: /img/QuickNode.svg
 category: metaplex, nft
@@ -12,5 +12,5 @@ twitter: https://twitter.com/QuickNode
 discord: https://discord.com/invite/DkdgEqE
 ---
 
-Blockchain nodes for dApps & devs. Access ETH, BTC, BSC, MATIC, OPTIMISM, FTM, CELO, SOL & xDAI data via API. Infra & tools to build + scale your #Web3 app.
-We make it simple to power your blockchain applications and scale up as you grow. From elastic APIs & dedicated nodes, to powerful tools & analytics, all at your command through a simple control panel.
+Blockchain nodes for dApps and devs. Access ETH, BTC, BSC, MATIC, OPTIMISM, FTM, CELO, SOL, and xDAI data via API. Infra and tools to build + scale your #Web3 app.
+We make it simple to power your blockchain applications and scale up as you grow. From elastic APIs and dedicated nodes, to powerful tools and analytics, a simple control panel can run all your commands.

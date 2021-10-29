@@ -14,11 +14,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
+        fetch-depth: 0
         ref: ${{ github.head_ref }}
 
     - name: Prettify code
       uses: creyD/prettier_action@v3.3
       with:
-        prettier_options: --write **/*.md
+        prettier_options: --write **/*.{md,mdx}
+        only_changed: True
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
