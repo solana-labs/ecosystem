@@ -1,4 +1,4 @@
---
+---
 slug: "arcade88"
 date: "2021-10-29"
 title: "Arcade '88"
