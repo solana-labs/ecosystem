@@ -17,4 +17,6 @@ Even though it was originally released as a memecoin, SAMO is becoming a real So
 
 Not only is it the most adorable dog on any blockchain, it also bears the name of one of Solana’s ecosystem most prominent figures: Sam Bankman-Fried, CEO of FTX, making it the perfect Solana doge!
 
-It’s community-owned and fun!
+It’s community-owned and fun
+
+Instagram: https://www.instagram.com/officialsamoye/

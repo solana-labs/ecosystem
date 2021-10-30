@@ -6,7 +6,7 @@ logline: "The goblin laboratory is upon us. Upload your consciousness to a wetwa
 cta: "https://goblinlab.io/#/"
 logo: /img/goblin.png
 category: nft
-status: building
+status: live
 website: https://goblinlab.io/#/
 twitter: https://twitter.com/GoblinLabNFT
 discord: https://discord.com/invite/12A3bcDE1f
