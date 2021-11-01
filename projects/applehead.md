@@ -2,7 +2,7 @@
 slug: "applehead"
 date: "2021-10-11"
 title: "Applehead"
-logline: "Applehead ($Applehead) is a fully decentralized, community powered Solana ecosystem, peer to peer digital currency, owned in whole by it’s community with instant rewards for holders."
+logline: "Applehead ($APHD) is a fully decentralized, community-powered, Solana ecosystem peer-to-peer digital currency which focus on creating NFTs and a play-to-earn game."
 cta: "https://applehead.finance/"
 category: defi, nft, game
 logo: /img/APHDLogo.svg
@@ -12,4 +12,4 @@ discord: https://discord.gg/UjwkJwcj
 telegram: https://t.me/applehead_token
 status: building
 ---
-Applehead ($Applehead) is a fully decentralized, community powered Solana ecosystem, peer to peer digital currency, owned in whole by it’s community with instant rewards for holders.
+Applehead ($APHD) is a fully decentralized, community-powered, Solana ecosystem peer-to-peer digital currency which focus on creating NFTs and a play-to-earn game.
