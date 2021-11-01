@@ -4,7 +4,7 @@ date: "2021-08-15"
 title: "Bitpie Wallet"
 logline: "Bitpie Wallet is a decentralized wallet that enables storage and usage of SOL/SPL tokens."
 cta: "https://bitpie.com"
-logo: /img/bitpie.svg
+logo: /img/bitpie.png
 category: wallet, defi
 status: live
 website: https://bitpie.com
