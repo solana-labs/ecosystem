@@ -5,7 +5,7 @@ date: "2021-11-01"
 title: "Trollbox"
 logline: "Decentralized Trollbox"
 cta: "https://trollbox.io"
-logo: https://firebasestorage.googleapis.com/v0/b/trollbox-1525027136481.appspot.com/o/trollbox-200.png?alt=media&token=bc156b08-5551-4f26-abac-5532dd402cf1
+logo: https://assets.coingecko.com/coins/images/16903/large/trollbox-200.png
 category: app
 status: active
 website: https://trollbox.io
