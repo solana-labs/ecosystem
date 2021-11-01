@@ -1,6 +1,6 @@
 ---
 slug: "bitpiewallet"
-date: "2021-08-15"
+date: "2021-11-01"
 title: "Bitpie Wallet"
 logline: "Bitpie Wallet is a decentralized wallet that enables storage and usage of SOL/SPL tokens."
 cta: "https://bitpie.com"
