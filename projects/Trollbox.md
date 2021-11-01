@@ -4,7 +4,7 @@ date: "2021-11-01"
 title: "Trollbox"
 logline: "Decentralized Trollbox moderated by Liquidity Incentive Model"
 cta: "https://trollbox.io"
-logo: img/tox.png
+logo: tox.png
 category: app, dapp
 status: live
 website: https://trollbox.io
