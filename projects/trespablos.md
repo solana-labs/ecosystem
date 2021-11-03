@@ -2,9 +2,9 @@
 slug: "trespablos"
 date: "2021-11-03"
 title: "Tres Pablos"
-logline: "9333 Pablos are riding across the Metaverse making their way to the Solana valley. 100% of royalties go back to the community”
+logline: "9333 Pablos are riding across the Metaverse making their way to the Solana valley. 100% of royalties go back to the community."
 cta: "https://trespablos.com/"
-logo: https://trespablos.com/assets/images/tres-pablos-feature.png
+logo: /img/tres-pablos.png
 category: nft
 status: live
 website: https://trespablos.com/
