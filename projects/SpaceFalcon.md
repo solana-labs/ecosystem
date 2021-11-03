@@ -13,4 +13,4 @@ Telegram: https://t.me/spacefalconIO
 Discord: https://discord.gg/AN7fpbmK
 ---
 
-SpaceFalcon is a next-gen Intergalactic metaverse featuring the classic space shooter game with a time travel storyline and premium Sci-Fi NFTs from cosmos and beyond. 
+SpaceFalcon is a next-gen Intergalactic metaverse featuring the classic space shooter game with a time travel storyline and premium Sci-Fi NFTs from cosmos and beyond.
