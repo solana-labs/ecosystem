@@ -12,4 +12,4 @@ telegram: https://t.me/yourproject
 discord: https://discord.com/invite/pfl
 ---
 
-PvP fighting  #Game  backed by Solana
+PvP fighting #Game backed by Solana

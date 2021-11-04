@@ -14,7 +14,7 @@ logo: /img/solpro.svg
 
 SolPro——Ecosystem Data Aggregation & Analytics Platform <br/>
 Analyzes all of the projects within the Solana ecosystem to help you make better decisions. <br/>
- <br/>
+<br/>
 SolPro in Action <br/>
 ——Full tracking of project performance <br/>
 ——Analyze project user characteristics <br/>
