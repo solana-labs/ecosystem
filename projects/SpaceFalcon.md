@@ -2,7 +2,7 @@
 slug: "spacefalcon"
 date: "2021-10-25"
 title: "Space Falcon"
-logline: "SpaceFalcon is an Intergalatic Metaverse featuring the classic space shooter game and curated SciFi NFTs"
+logline: "SpaceFalcon is an Intergalatic Metaverse featuring the classic space shooter game and community built SciFi NFTs"
 cta: "https://www.spacefalcon.io/"
 logo: /img/spacefalcon.png
 category: game,metaplex,nft
