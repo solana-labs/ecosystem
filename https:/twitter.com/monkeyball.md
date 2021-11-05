@@ -13,7 +13,7 @@ telegram: https://t.me/monkeyball_game
 discord: https://discord.gg/ubhDR2F5Kf
 ---
 
-Matches are played between two teams, each with 4 Monkeys playing the positions of Scorer, Defender, Midfielder and Goalkeeper. With 6 rounds of play per half, 
+Matches are played between two teams, each with 4 Monkeys playing the positions of Scorer, Defender, Midfielder and Goalkeeper. With 6 rounds of play per half,
 the first team to 3 goals wins.
 
 Back at your HQ, boost your Monkeys’ abilities and in-game performance by caring for and training them, as well as increasing their morale.

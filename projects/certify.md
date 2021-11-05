@@ -5,7 +5,7 @@ title: "Certify"
 logline: "Rapid and scalable blockchain certification platform, built with Solana."
 cta: "https://certify.someshkar.com/"
 logo: /img/certify.png
-category: nft, dapp, tools
+category: nft, app, tools
 status: live
 website: https://certify.someshkar.com/
 ---

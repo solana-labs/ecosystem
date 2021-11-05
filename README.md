@@ -26,7 +26,7 @@ title: "Project Title"
 logline: "Write a short description about your project."
 cta: "https://yourwebsite.tld/call-to-action"
 logo: /img/yourimage.svg
-category: amm, app, dapp
+category: amm, app
 status: building
 website: https://yourwebsite.tld/
 twitter: https://twitter.com/yourproject
@@ -61,7 +61,6 @@ Available classifications for projects are as follows:
 ```
 amm
 app
-dapp
 defi
 dex
 exchange
@@ -78,6 +77,7 @@ rpc
 sdk
 spl
 stablecoin
+stake-pool
 tools
 wallet
 ```
