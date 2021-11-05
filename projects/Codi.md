@@ -12,4 +12,4 @@ twitter: https://twitter.com/codi_finance
 discord: https://discord.gg/cMz7SBfq
 ---
 
-The key feature is the CODI IDO Launchpad. The CODI ecosystem aspires to be far broader, with the goal of developing a peer-to-peer NFT marketplace in add to a slew of additional Dapps.
+The key feature is the CODI IDO Launchpad. The CODI ecosystem aspires to be far broader, with the goal of developing a peer-to-peer NFT marketplace in add to a slew of additional apps.
