@@ -17,4 +17,4 @@ The key foundation of the Simplio ecosystem is its non-custodial wallet, where t
 
 These transactions will include any-to-any swaps and buying of crypto directly in-wallet with their own payment card, easily adding custom token wallets for unsupported coins, and also enjoying passive income through staking, all whilst removing the hassle of dealing directly with exchanges.
 
-Furthermore, Simplio is building complementary layers to drive the value of Simplio’s utility token and increase wallet functionality, including an NFT marketplace as well as asset tokenisation via Real Estate Staking Pools.
+Furthermore, Simplio is building complementary layers to drive the value of Simplio's utility token and increase wallet functionality, including an NFT marketplace as well as asset tokenisation via Real Estate Staking Pools.
