@@ -5,7 +5,7 @@ title: "GrumpyGrandpas"
 logline: "10,000 Unique Grumpy Grandpas Retired to the Solana blockchain"
 cta: "https://grumpygrandpasnft.com"
 logo: /img/grumpygrandpasnft.jpg
-category:nft
+category: nft
 status: building
 website: https://grumpygrandpasnft.com
 twitter: https://twitter.com/GrumpyGrandpas
