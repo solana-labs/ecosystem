@@ -7,6 +7,10 @@ cta: "https://sollotto.io/"
 logo: /img/sollotto.svg
 category: app, defi
 status: building
+website: https://sollotto.io
+twitter: https://twitter.com/TeamSolLotto
+telegram: https://t.me/joinchat/Dj3oGbIKRlA5M2Fh
+discord: https://discord.gg/SolLotto
 ---
 
 A decentralized lottery platform enabling effective altruism
