@@ -12,6 +12,6 @@ twitter: "https://solex.finance/"
 
 One decentralized and permissionless platform for you to swap, stake, and invest with the low-cost, high efficiency and ultimate experience.
 
-*Website*: https://solex.finance/
+_Website_: https://solex.finance/
 
-*Twitter*: https://twitter.com/SolexFinance
+_Twitter_: https://twitter.com/SolexFinance

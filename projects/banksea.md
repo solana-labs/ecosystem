@@ -13,6 +13,6 @@ telegram: https://t.me/banksea_finance
 discord: https://discord.gg/NdRGt4BDFe
 ---
 
-Banksea works to address issues in NFT collateral lending, such as a lack of reliable NFT valuation mechanisms, low utilization of NFT holders' funds, 
-and low security of lending funds. Banksea develops the NFT Price Discovery Protocol to evaluate a reasonable price for NFT. 
+Banksea works to address issues in NFT collateral lending, such as a lack of reliable NFT valuation mechanisms, low utilization of NFT holders' funds,
+and low security of lending funds. Banksea develops the NFT Price Discovery Protocol to evaluate a reasonable price for NFT.
 Banksea aims to build an innovated, secure, and efficient NFT pool-based lending hub
