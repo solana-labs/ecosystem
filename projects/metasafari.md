@@ -7,7 +7,7 @@ logline: >-
   physical worlds, and gamifying hybrid finance (HyFi).
 cta: "https://metasafari.world/"
 logo: /img/metasafari.svg
-category: "dapp, defi, metaplex, nft"
+category: "app, defi, metaplex, nft"
 status: building
 twitter: "https://twitter.com/metasafari"
 ---

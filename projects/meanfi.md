@@ -5,7 +5,7 @@ title: "MeanFi"
 logline: "MeanFi gives users the most amazing and simple DeFi experience on Solana."
 cta: "https://meanfi.com"
 logo: /img/meanfi.svg
-category: defi, amm, dex, exchange, app, dapp, governance, sdk
+category: defi, amm, dex, exchange, app, governance, sdk
 twitter: https://twitter.com/meanfinance/
 discord: https://discord.meanfi.com
 status: live

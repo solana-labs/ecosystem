@@ -12,5 +12,5 @@ twitter: https://twitter.com/JupiterExchange
 discord: https://discord.com/invite/WBSDXjYGR3
 ---
 
-Jupiter Aggregator goal is to provide the best rates by routing across all major liquidity markets, 
+Jupiter Aggregator goal is to provide the best rates by routing across all major liquidity markets,
 while giving users and developers the best swapping experience in all of DeFi.
