@@ -12,4 +12,4 @@ twitter: https://twitter.com/interSOLarNFT
 discord: https://discord.com/invite/XBGb9rhG4h
 ---
 
-Intersolar is more than fancy images. Every Intersolar NFT has a unique position in our NFT universe. You will travel from planet to planet, mine resources and build your space empire. 
+Intersolar is more than fancy images. Every Intersolar NFT has a unique position in our NFT universe. You will travel from planet to planet, mine resources and build your space empire.
