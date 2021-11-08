@@ -14,7 +14,7 @@ discord: https://discord.gg/nyanheroes
 ---
 
 Nekovia was once the greatest civilization in the metaverse. After centuries of peace, wealth and technological advancement, its citizens, the Nyans, began to believe themselves to be Gods in their own right.
-At the top of the evolutionary food chain, they eventually saw fit to mold the world to suit their needs, rather than respect the laws of nature. They denounced their ancestors, 
+At the top of the evolutionary food chain, they eventually saw fit to mold the world to suit their needs, rather than respect the laws of nature. They denounced their ancestors,
 their religions, and their cultures, and in doing so ruined their world.
 
 By unlocking their secrets with blockchain technology and cryptography, you adventurers have given the Nyans a new power that is limitless in its potential.
