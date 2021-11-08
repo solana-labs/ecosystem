@@ -5,7 +5,7 @@ title: "Scallop"
 logline: "Scallop is a no loss lottery on Solana. Stake to win tokens and NFTs✨!"
 cta: "https://www.scallop.io/"
 logo: /img/scallop.svg
-category: defi, app, NFT
+category: defi, game, app, NFT
 status: building
 website: https://www.scallop.io/
 twitter: https://twitter.com/Scallop_io
