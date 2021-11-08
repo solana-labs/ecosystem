@@ -5,7 +5,7 @@ title: "GoldenDogeSolana"
 logline: "GDoge is community meme coin on solana ecosystem."
 cta: "http://goldsoldoge.com"
 logo: /img/GoldDoge.png
-category: dex, defi, spl, community
+category: dex, defi, spl
 status: building
 website: http://goldsoldoge.com
 twitter: https://twitter.com/GoldSolDoge
