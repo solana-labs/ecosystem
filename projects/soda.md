@@ -5,7 +5,7 @@ title: "Soda"
 logline: "A lending platform with on-chain credit system"
 cta: "https://sodaprotocol.com"
 logo: /img/soda.svg
-category: "defi, dapp, tools"
+category: "defi, app, tools"
 status: building
 website: https://sodaprotocol.com
 twitter: https://twitter.com/SodaProtocol

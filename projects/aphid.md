@@ -5,7 +5,7 @@ title: Aphid
 logline: The Aphid ecosystem utilizes the aBion token on Solana to power digital bots to work tasks to earn money for people.
 cta: "https://aphid.io/abion/"
 logo: /img/aphid.png
-category: dapp
+category: app
 status: building
 twitter: "https://twitter.com/AphidAI"
 ---

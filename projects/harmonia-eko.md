@@ -5,7 +5,7 @@ title: "harmonia-eko"
 logline: "harmonia-eko is the decentralized NFT x CO2 offset marketplace."
 cta: "https://harmonia-eko.ghost.io"
 logo: /img/harmonia-eko.png
-category: NFT, dapp
+category: NFT, app
 status: building
 website: "https://www.harmonia-eko.ghost.io"
 discord: "https://discord.com/invite/Vh84sw3B"
