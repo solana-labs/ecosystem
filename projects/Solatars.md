@@ -12,4 +12,4 @@ discord: http://discord.gg/solatars
 status: live
 ---
 
-Solatars is a deflationary NFT collection on the Solana Blockchain that fuses two NFTs to create one rarer.
+Solatars is a deflationary NFT collection of 4,000 unique Borgs Soldiers that can be fused into 500 Borgs Captains.
