@@ -8,7 +8,7 @@ logo: /img/AstraPad.png
 category: nft, dex, fund
 status: building
 website: https://astrapad.io/
-twitter: https://twitter.com/AstraPad
+twitter: https://twitter.com/astrapadio
 telegram: https://t.me/AstraPadANN
 ---
 
