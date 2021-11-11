@@ -7,7 +7,7 @@ cta: "https://www.terrestrialtrexclub.com/"
 logo: /img/terrestrialtrexclub.png
 category: nft
 status: building
-website: cta: "https://www.terrestrialtrexclub.com/"
+website: https://www.terrestrialtrexclub.com/
 twitter: https://twitter.com/Trex_Club
 discord: https://discord.gg/AbUshnpjQJ
 ---
