@@ -5,10 +5,11 @@ title: "CrazyDice"
 logline: "A fair crypto dice game on Solana"
 cta: "https://www.crazydice.app/"
 logo: /img/crazydice.svg
-category: game
+category: game, spl
 status: live
 website: https://www.crazydice.app/
-telegram: https://t.me/crazydiceofficial
+website: https://twitter.com/crazydiceapp
+telegram: https://t.me/crazydiceapp
 ---
 
 CrazyDice is a decentralized game designed on Solana. You can easily play by simply placing Solana.
