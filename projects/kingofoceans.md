@@ -5,7 +5,7 @@ title: "King Of Oceans"
 logline: "King Of Oceans is an NFT-powered RPG game built natively on the Solana blockchain."
 cta: "https://kingofoceans.com/"
 logo: /img/kingofoceans.svg
-category: nft,dapp
+category: nft, app
 status: building
 website: https://kingofoceans.com/
 twitter: https://twitter.com/KingOfOceansNFT
