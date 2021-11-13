@@ -4,7 +4,7 @@ date: "2021-11-13"
 title: "Nitropunk"
 logline: "Enter the Nitroverse - Classic arcade racing NFTs on Solana with 10,000 unique animated cars."
 cta: "https://nitropunk.io/"
-logo: /img/yourimage.svg
+logo: /img/nitropunk.png
 category: game, nft
 status: building
 website: https://nitropunk.io/
