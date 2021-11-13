@@ -8,6 +8,7 @@ logo: /img/velas.svg
 category: infra
 status: live
 website: https://velas.com/
+Discord: https://discord.com/invite/CTcKpPc
 twitter: https://twitter.com/VelasBlockchain
 telegram: https://t.me/velascommunity
 ---
