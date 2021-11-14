@@ -4,7 +4,7 @@ date: "2021-11-14"
 title: "Squirrelz"
 logline: "NFT project - Squirrel Planet on Solana blockchain."
 cta: "https://squirrelz.io/"
-logo: /img/yourimage.svg
+logo: /img/squirrelz.jpg
 category: game, nft
 status: building
 website: https://squirrelz.io/
