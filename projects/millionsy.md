@@ -5,7 +5,7 @@ title: "MILLIONSY"
 logline: "The first Lottery platform and Game Launchpad on Solana. Buy, be cool and rich."
 cta: "https://www.millionsy.io/"
 logo: /img/millionsy.jpg
-category: game, app
+category: defi, nft
 status: live
 website: https://www.millionsy.io/
 twitter: https://twitter.com/MILLIONSYio
