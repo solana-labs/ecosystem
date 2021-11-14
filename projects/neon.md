@@ -13,15 +13,16 @@ discord: https://discord.com/invite/7b7RpfurPV
 ---
 
 Virtual machine from Ethereum. Scalability and liquidity from Solana.
+
 - Scalability Benefits:
-Enjoy low gas fees and high transaction speed on Solana
+  Enjoy low gas fees and high transaction speed on Solana
 - Minimal Contract Changes:
-Deploy Ethereum dApps without any reconfigurations to smart contracts
+  Deploy Ethereum dApps without any reconfigurations to smart contracts
 - Growing Solana Market:
-Get access to SOL, native Solana assets, and other bridged assets
+  Get access to SOL, native Solana assets, and other bridged assets
 - Familiar Languages:
-Write your dApps in languages you know, like Solidity and Vyper
+  Write your dApps in languages you know, like Solidity and Vyper
 - Tools You Know:
-Use Ethereum-based tools you know and love like MetaMask and Truffle
+  Use Ethereum-based tools you know and love like MetaMask and Truffle
 - Attractive Solana Ecosystem:
-Enjoy first-mover advantage and reach new customers
+  Enjoy first-mover advantage and reach new customers
