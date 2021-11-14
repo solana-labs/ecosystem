@@ -1,8 +1,8 @@
 
 ---
 slug: "solkitty"
-date: "2021-10-04"
-title: "SOLKITTY.IO NFT Social Network"
+date: "2021-09-01"
+title: "1st Social NFT App SolKitty"
 logline: "SOLKITTY.IO is the first ever fully developed NFT Social Network launched on September 1, 2021."
 cta: "https://solkitty.io/"
 logo: /img/solkitty.png
