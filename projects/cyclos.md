@@ -5,7 +5,7 @@ title: "Cyclos"
 logline: "Cyclos is a concentrated liquidity AMM built on Solana and Serum"
 cta: "https://cyclos.io/"
 logo: /img/cyclos.svg
-category: amm, app, dapp, defi, dex, exchange, nft
+category: amm, app, defi, dex, exchange, nft
 status: live
 website: https://cyclos.io/
 twitter: https://twitter.com/cyclosfi

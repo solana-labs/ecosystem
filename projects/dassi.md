@@ -4,7 +4,7 @@ title: "Dassi Finance"
 date: "2021-10-05"
 logline: "Dassi provides Decentralized peer to peer Banking for Everyone"
 cta: https://dassi.finance/
-category: defi, fund, app, dapp, nft, stablecoin
+category: defi, fund, app, nft, stablecoin
 logo: /img/dassi.svg
 status: Building
 website: https://dassi.finance/

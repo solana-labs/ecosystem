@@ -8,6 +8,8 @@ logo: /img/ius.png
 category: app,nft,game
 status: live
 website: theislanduniverse.com
+status: building
+website: isLanduniverse.cn
 twitter: https://twitter.com/hpetkhtqbdq
 telegram: https://0.plus/IUSAIUNGT
 discord: ---
