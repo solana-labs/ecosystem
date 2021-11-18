@@ -10,7 +10,7 @@ status: building
 website: https://www.solguin.com/
 twitter: https://twitter.com/nftsolguin
 telegram: 
-discord: https://discord.com/invite/cV6nTwuE
+discord: https://discord.gg/q4krdHUZry
 ---
 
 SolGuin brings you 9,999 cool Penguins that could breed into new ones, to the holders. Cool Penguins of the #Solana chain. 
