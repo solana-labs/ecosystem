@@ -6,7 +6,7 @@ cta: "https://hubble.markets"
 logo: /img/hubble.svg
 category: DeFi, stablecoin
 status: building
-website: https://https://hubble.markets
+website: https://hubble.markets
 twitter: https://twitter.com/HubbleProtocol
 telegram: https://t.me/hubbleprotocol
 discord: https://discord.gg/6fm9f2bYG7
