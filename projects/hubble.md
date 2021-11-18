@@ -4,7 +4,7 @@ title: "Hubble Protocol"
 logline: "All things DeFi on Solana. Supercharge your liquidity with Hubble Borrowing Protocol and Solana Native Stablecoin"
 cta: "https://hubble.markets"
 logo: /img/hubble.svg
-category: DeFi, stablecoin
+category: defi, stablecoin
 status: building
 website: https://hubble.markets
 twitter: https://twitter.com/HubbleProtocol
