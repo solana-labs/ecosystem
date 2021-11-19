@@ -13,4 +13,4 @@ discord: https://discord.com/invite/dSbEq6fBA2
 ---
 
 Panzerdogs is a Solana NFT gaming project where users can own each in-game asset and use them to battle against each other in tanks. Think Brawl Stars, but with tanks and play to earn mechanics.
-Our focus is game first, then blockchain. By using blockchain technology, we believe players of Panzerdogs will have a new way of interactions with gaming.  Together with the community we are building a game that is accessible for a wide audience and fun to play.
+Our focus is game first, then blockchain. By using blockchain technology, we believe players of Panzerdogs will have a new way of interactions with gaming. Together with the community we are building a game that is accessible for a wide audience and fun to play.
