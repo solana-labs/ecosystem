@@ -12,5 +12,5 @@ twitter: https://twitter.com/antiartistclub
 discord: https://discord.gg/C7Ru7G8Tv8
 ---
 
-Anti artists have been crafted with a lot of thought with smooth animations for hair as well as bling and some other attributes. 
+Anti artists have been crafted with a lot of thought with smooth animations for hair as well as bling and some other attributes.
 This isnt just another crypto pixel character clone.
