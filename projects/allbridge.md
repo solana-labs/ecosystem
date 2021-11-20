@@ -7,6 +7,8 @@ cta: https://allbridge.io/
 logo: /img/allbridge.svg
 category: infra
 status: live
+Twitter: https://twitter.com/Allbridge_io
+Telegram: https://t.me/allbridge_official
 ---
 
 Allbridge is a simple, modern, and reliable way to transfer assets between networks. It's a decentralized, modular, and expanding token bridge with on-chain consensus. Transfer ERC20, SPL, and many more tokens in a few clicks

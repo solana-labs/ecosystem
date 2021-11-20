@@ -8,6 +8,7 @@ category: defi, stablecoin
 logo: /img/zerointerestprotocol.svg
 status: Building
 website: https://www.zeropercenter.org/
+Discord: https://discord.com/invite/UFCJTTAdWa
 twitter: https://twitter.com/zerointerestfi
 telegram: https://t.me/zerointerest
 ---

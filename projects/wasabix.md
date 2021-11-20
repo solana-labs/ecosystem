@@ -7,6 +7,8 @@ cta: "https://wasabix.finance/"
 category: defi
 logo: /img/wasabix.svg
 status: Live
+Telegram: https://t.me/WasabixFinance
+Discord: https://discord.com/invite/Wyd4t2qzHH
 twitter: https://twitter.com/WasabixFinance
 ---
 
