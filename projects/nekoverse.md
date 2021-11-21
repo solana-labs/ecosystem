@@ -4,7 +4,7 @@ date: "2021-11-21"
 title: "Nekoverse"
 logline: "Mass multiplayer community driven game built on Solana."
 cta: "https://nekoverse.net"
-logo: /img/yourimage.svg
+logo: /img/nekoverse.jpg
 category: game, nft
 status: building
 website: https://nekoverse.net
