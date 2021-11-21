@@ -4,7 +4,7 @@ date: "2021-11-21"
 title: "Somethings Fishy"
 logline: "8888 mobster fishes on the Solana blockchain. Become a boss and earn passive income."
 cta: "https://mintafish.com/"
-logo: somethingsfishy.jpg
+logo: /img/somethingsfishy.jpg
 category: game, nft
 status: building
 website: https://somethingsfishy.art/
