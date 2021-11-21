@@ -5,7 +5,7 @@ title: SolBunny
 logline: SolBunny combine its engaging community with strong fundamentals in DeFi
 cta: http://solbunny.io
 logo: /img/SolBunny.svg
-category: amm, app, defi, dex, exchange, governance, stake-pool, game, fund
+category: amm, app, defi, dex, exchange, governance, game, fund
 status: live
 website: http://solbunny.io
 twitter: https://twitter.com/SolanaBunny
