@@ -7,7 +7,7 @@ cta: https://http://solbunny.io.tld/call-to-action
 logo: /img/SolBunny.svg
 category: amm, app, defi, dex, exchange, governance, stake-pool, game, fund
 status: live
-website: https://http://solbunny.io.tld/
+website: http://solbunny.io.tld/
 twitter: https://twitter.com/SolanaBunny
 telegram: https://t.me/joinchat/PvezmzKCNRowN2Fk
 discord: https://discord.gg/6nQHqF8s
