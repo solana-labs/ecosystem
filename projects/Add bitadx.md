@@ -18,7 +18,7 @@
 <p class="p1"><span class="s1">title: “Bitadx“</span></p>
 <p class="p1"><span class="s1">logline: “Creating an exchange and Auto-market maker on Solana blockchain.”</span></p>
 <p class="p1"><span class="s1">cta: "https://www.bitadx.com/“register</span></p>
-<p class="p1"><span class="s1">logo: img/Bitadx Logo.png</span></p>
+<p class="p1"><span class="s1">logo: https://github.com/bitadx/bitadx/blob/main/Logo.png</span></p>
 <p class="p1"><span class="s1">category: AMM, exchange, LP</span></p>
 <p class="p1"><span class="s1">status: building</span></p>
 <p class="p1"><span class="s1">website: https://www.bitadx.com/</span></p>
