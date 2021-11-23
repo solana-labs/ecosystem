@@ -2,8 +2,8 @@
 slug: "phantasia"
 date: "2021-10-03"
 title: "Phantasia"
-logline: "Fantasy Sports Platform built on Solana."
-cta: "https://phantasia.app/"
+logline: "Phantasia is a fantasy sports platform leveraging blockchain technology. The application allows users to play their favorite fantasy sports games while betting against their friends."
+cta: "https://www.phantasia.digital/"
 logo: /img/phantasia.jpg
 category: app, tools
 status: building
@@ -12,4 +12,4 @@ twitter: https://twitter.com/PhantasiaSports
 discord: https://discord.com/invite/RHh5EDcxvs
 ---
 
-Phantasia is the first of its kind Fantasy Sports Platform that leverages blockchain technology to bring the benefits of blockchain to sports fantasy players fans. The application allows users to compete in their favorite fantasy sports contests against their friends without a centralized middle-man.
+Phantasia is a fantasy sports platform leveraging blockchain technology. The application allows users to play their favorite fantasy sports games while betting against their friends.

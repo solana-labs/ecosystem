@@ -2,7 +2,7 @@
 slug: "soldate"
 date: "2021-10-03"
 title: "SolDate"
-logline: "Powered by Solana, SolDate is the first decentralized, community-owned dating service."
+logline: "Make love happen on blockchain. Receive rewards on finding a match"
 cta: "https://www.soldate.org"
 logo: /img/soldate.svg
 category: app

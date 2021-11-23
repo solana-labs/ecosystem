@@ -2,7 +2,7 @@
 slug: "parrot"
 date: "2021-03-22"
 title: "Parrot"
-logline: "Parrot is a liquidity Network for Lending & Borrowing on Solana."
+logline: "Parrot is a liquidity network for lending and borrowing on Solana."
 cta: https://github.com/defactojob/partyparrot
 logo: /img/parrot.svg
 category: DeFi
@@ -13,4 +13,4 @@ discord: https://discord.com/invite/gopartyparrot
 status: live
 ---
 
-The Parrot Protocol is a DeFi network built on Solana that will include the stablecoin PAI, a non-custodial lending market, and a margin trading vAMM.
+The Parrot Protocol is a DeFi network built on Solana that includes the stablecoin PAI, a non-custodial lending market, and a margin trading vAMM.
