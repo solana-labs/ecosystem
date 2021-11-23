@@ -10,11 +10,11 @@ status: building
 website: https://www.millionsy.io/
 twitter: https://twitter.com/MILLIONSYio
 telegram: https://t.me/MILLIONSYofficialchat
-discord: 
+discord:
 ---
 
-MILLIONSY is the first cross-chain lottery platform based on Solana. 
+MILLIONSY is the first cross-chain lottery platform based on Solana.
 We aim to be the biggest lottery platform ever, not only in the blockchain system.
-People can purchase lottery by visa, paypal,... in the future. 
-Furthermore, Millionsy will also build more lottery and boardgame programs. 
+People can purchase lottery by visa, paypal,... in the future.
+Furthermore, Millionsy will also build more lottery and boardgame programs.
 Our next big ambition is to release MILLIPAD - a platform which uses lottery PRIZE POOL to become an IDO model and partner with potential projects.
