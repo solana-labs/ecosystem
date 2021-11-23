@@ -2,7 +2,7 @@
 slug: "waves"
 date: "2020-04-03"
 title: "Waves"
-logline: "Waves is the fastest blockchain platform with real-world solutions. Solana will be the first external addition to Waves’ roadmap to achieving mass adoption of inter-chain DeFi through the Gravity interoperability protocol. "
+logline: "Waves is the fastest blockchain platform with real-world solutions. Solana will be the first external addition to Waves’ roadmap to achieving mass adoption of inter-chain DeFi through the Gravity interoperability protocol."
 cta: "https://gravity.tech/"
 logo: /img/waves.svg
 category: infra
