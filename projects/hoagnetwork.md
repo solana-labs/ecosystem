@@ -14,5 +14,5 @@ discord: https://discord.gg/QeyPpjfbrH
 
 Hoag Network is A self-hosted video platform for creators to run their own censorship resistant Twitch. The code is open source and was the latest Solana Hackathon winner on Media Prize.
 
-Hoag PlayDAO is a decentralized media network that creates and distributes content. HOAG Play uses HOAG Networks‘ code and guarantees its development. 
-Munk is a Solana NFT and the main host of “This is f* advice” talk show.  There are a total of 5000 Munk Solana NFTs.
+Hoag PlayDAO is a decentralized media network that creates and distributes content. HOAG Play uses HOAG Networks‘ code and guarantees its development.
+Munk is a Solana NFT and the main host of “This is f\* advice” talk show. There are a total of 5000 Munk Solana NFTs.
