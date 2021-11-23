@@ -1,12 +1,15 @@
 ---
-slug: "steakwallet"
+slug: steakwallet
 date: "2021-08-17"
-title: "Steakwallet"
-logline: "Steakwallet is multi chain cryptocurrency staking wallet that supports SOL and many other SPL tokens"
+title: Steakwallet
+logline: >-
+  Steakwallet is multi chain cryptocurrency staking wallet that supports SOL and
+  many other SPL tokens
 cta: "https://steakwallet.fi"
 logo: /img/steakwallet.svg
 category: wallet
-Status: live
+status: live
+twitter: "https://twitter.com/steakwallet"
 ---
 
 Steakwallet launched with multi-currency support for three blockchains in mid 2021, adding support for SOL and staking by August.

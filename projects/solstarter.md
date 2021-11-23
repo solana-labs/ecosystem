@@ -6,9 +6,10 @@ logline: "Solstarter is the first IDO platform for Solana - empowering launchpad
 cta: "https://solstarter.org/"
 logo: /img/solstarter.svg
 category: app
-Website: https://solstarter.org/
-Twitter: https://twitter.com/solstarterorg
-Telegram: https://t.me/solstarter
+website: https://solstarter.org/
+twitter: https://twitter.com/solstarterorg
+telegram: https://t.me/solstarter
+status: building
 ---
 
 Solstarter is the first IDO platform for Solana. It empowers launchpad projects to raise liquidity in a fair & decentralized manner.

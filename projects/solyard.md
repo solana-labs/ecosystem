@@ -1,12 +1,15 @@
 ---
-slug: "Solyard"
+slug: Solyard
 date: "2020-04-30"
-title: "Solyard"
-logline: "SolYard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard provides yield enhancement strategies for your Solana crypto assets."
+title: Solyard
+logline: >-
+  SolYard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard
+  provides yield enhancement strategies for your Solana crypto assets.
 cta: "https://Solyard.finance/"
 logo: /img/solyard.svg
-category: defi, amm
+category: "defi, amm"
 status: live
+twitter: "https://twitter.com/SolyardFinance"
 ---
 
 - Solyard is a new Yield Farming Aggregator for the Solana Ecosystem. SolYard provides yield enhancement strategies for your Solana crypto assets.
@@ -23,4 +26,4 @@ status: live
 
 **GitHub**: https://github.com/SolyardFinance
 
-**Discord**: https://discord.gg/solyardfinance
+**Discord**: https://discord.com/invite/GxRj6nrX26

@@ -7,6 +7,7 @@ cta: "https://www.bithumb.pro/en-us/spot/trade?q=SOL-USDT"
 logo: /img/bithumb.svg
 category: exchange
 status: live
+twitter: https://twitter.com/bithumbglobal
 ---
 
 Bithumb Global (www.bithumb.pro) is an innovative trading platform launched by Bithumb, Korea’s largest digital asset trading platform.

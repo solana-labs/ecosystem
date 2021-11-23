@@ -6,10 +6,10 @@ logline: "OpenOcean is the first DeFi & CeFi full aggregator. It finds the best 
 logo: /img/openocean.svg
 status: live
 category: DEX
-Website: https://openocean.finance/
-Twitter: https://twitter.com/OpenOceanGlobal
-Telegram: http://t.me/OOFinance
-Discord: https://discord.com/invite/cxK6CCYcGp
+website: https://openocean.finance/
+twitter: https://twitter.com/OpenOceanGlobal
+telegram: http://t.me/OOFinance
+discord: https://discord.com/invite/cxK6CCYcGp
 ---
 
 OpenOcean is the world’s first leading full aggregator which provides the entrance to crypto trading and pools liquidity from both the DeFi and CeFi. OpenOcean now offers crypto traders the best possible price with lowest slippage. Our protocol utilizes an optimized version of the Dijkstra algorithm called D-star, which splits routing between different protocols for better rates. OpenOcean then compares the best prices on DEXs and CEXs before empowering users to have their order executed at the best possible rate.

@@ -2,13 +2,15 @@
 slug: "solpad"
 date: "2021-05-11"
 title: "SolPAD"
-logline: "SolPAD is a launchpad built for the Solana Ecosystem."
+logline: "SOLPAD is the first Multichain IDO platform for Solana"
 cta: "https://www.solpad.finance/"
 category: app
 logo: /img/solpad.svg
-Website: https://www.solpad.finance/
-Twitter: https://twitter.com/FinanceSolpad
-Telegram: https://t.me/solpadfinance_chat
+website: https://www.solpad.finance/
+twitter: https://twitter.com/FinanceSolpad
+telegram: https://t.me/solpadfinance_chat
+status: building
 ---
 
-SolPAD is a decentralized IDO platform for the Solana Ecosystem.
+SOLPAD is the first Multichain IDO platform for Solana
+Enabling projects to raise capital on a decentralized platform, based on Solana.
