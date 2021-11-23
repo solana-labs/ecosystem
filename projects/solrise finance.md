@@ -13,4 +13,4 @@ discord: https://discord.com/invite/xNbGgMUJfU
 status: building
 ---
 
-We have built a decentralized fund management and investment protocol on Solana. On-chain asset swapping, price discovery and oracles made this a pretty natural idea to implement.
+We have built a decentralized fund management and investment protocol on Solana. On-chain asset swapping, price discovery, and oracles made this a natural idea to implement.

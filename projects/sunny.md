@@ -12,4 +12,4 @@ Twitter: https://twitter.com/SunnyAggregator
 Discord: https://discord.com/invite/dvXuvN9KeP
 ---
 
-Sunny is Solana’s first composable DeFi yield aggregator. The Sunny Aggregator protocol is a decentralized protocol governed by the Sunny DAO. The Sunny Governance Token (“SUNNY”) will be used to make decisions about the future of the protocol.
+Sunny is Solana’s first composable DeFi yield aggregator. The Sunny Aggregator protocol is a decentralized protocol governed by the Sunny DAO. “SUNNY” is a governance token and will be used to make decisions about the future of the protocol.

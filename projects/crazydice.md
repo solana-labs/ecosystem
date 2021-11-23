@@ -8,7 +8,8 @@ logo: /img/crazydice.svg
 category: game
 status: live
 website: https://www.crazydice.app/
-telegram: https://t.me/crazydiceofficial
+twitter: https://twitter.com/CrazyDiceApp
+telegram: https://t.me/crazydiceapp
 ---
 
 CrazyDice is a decentralized game designed on Solana. You can easily play by simply placing Solana.
