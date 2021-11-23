@@ -2,7 +2,7 @@
 slug: "turtles"
 date: "2021-10-03"
 title: "Turtles on Solana"
-logline: "Turtles on Solana is a collection of 3,333 Turtles that are each one-of-a-kind, algorithmically generated, strong, and collectible."
+logline: "Turtles is a collection of 3,333 Turtles that are one-of-a-kind, algorithmically generated, strong, and collectible. Available on Solana."
 cta: "https://www.turtles.com/"
 logo: /img/turtles.png
 category: nft
@@ -12,4 +12,4 @@ twitter: https://twitter.com/TurtlesNFT
 discord: https://discord.com/invite/turtles
 ---
 
-Turtles on Solana is a collection of 3,333 Turtles that are each one-of-a-kind, algorithmically generated, strong, and collectible.
+Turtles is a collection of 3,333 Turtles that are one-of-a-kind, algorithmically generated, strong, and collectible. Available on Solana.

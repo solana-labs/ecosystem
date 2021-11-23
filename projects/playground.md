@@ -2,7 +2,7 @@
 slug: "playground"
 date: "2021-10-01"
 title: "Playground"
-logline: "Generative Artwork Immutably Stored on the Solana Blockchain."
+logline: "Generative artwork immutably stored on the Solana blockchain."
 cta: "https://www.playground.ink/"
 logo: /img/playground.png
 category: nft
@@ -12,4 +12,4 @@ twitter: https://twitter.com/playground_sol
 discord: https://discord.com/invite/9gzHXgZKUK
 ---
 
-Generative Artwork Immutably Stored on the Solana Blockchain.
+Generative artwork immutably stored on the Solana blockchain.

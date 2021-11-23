@@ -10,4 +10,4 @@ status: live
 ---
 
 Solnet is Solana's .NET SDK to integrate with the .NET ecosystem.
-Whether you are developing for the web or desktop applications, Solnet can be used within .NET applications to integrate with Solana.
+Whether developing for the web or desktop applications, Solnet can be used within .NET applications to integrate with Solana.

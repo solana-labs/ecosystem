@@ -2,7 +2,7 @@
 slug: "solgis-breed-club"
 date: "2021-09-04"
 title: "Solgis Breed Club"
-logline: "Solgis Breed Club is a collection of the 10,000 cutest, randomly generated corgi NFTs on Solana"
+logline: "Solgis Breed Club is a collection of the 10,000 cutest, randomly generated corgi NFTs on Solana."
 cta: "https://twitter.com/Solgis_NFT"
 category: nft
 logo: /img/solgis.jpg
