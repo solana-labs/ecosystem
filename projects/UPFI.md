@@ -1,11 +1,11 @@
 ---
-slug: UPFI
-date: "2021-08-03"
-title: UPFI
-logline: UPFI is a stablecoin pegged to the U.S dollar built on Solana.
+slug: "UPFI"
+date: "2021-10-09"
+title: "UPFI"
+logline: "UPFI is a stablecoin pegged to the U.S dollar built on Solana."
 cta: "https://upfi.network"
 logo: /img/upfi.svg
-category: "stablecoin, defi, app"
+category: stablecoin, defi, app
 status: building
 website: https://upfi.network
 twitter: https://twitter.com/upfi_network
@@ -14,7 +14,6 @@ discord: https://discord.gg/nHMDdyAggx
 ---
 
 The ultimate objective of the UPFI is to replace fixed-supply digital assets with a highly scalable, decentralized, algorithmic money.
-
 The stablecoin protocol to implement design principles of both to create:
 
 1. High scalability
@@ -22,8 +21,4 @@ The stablecoin protocol to implement design principles of both to create:
 3. Permanent stability
 4. Pure on-chain money
 
-<b>Website</b>: https://upfi.network </br>
-<b>Twitter</b>: https://twitter.com/upfi_network </br>
-<b>Telegram</b>: https://t.me/upfinetworkchannel </br>
-<b>Discord</b>: https://discord.gg/nHMDdyAggx </br>
 <b>Medium</b>: https://upfinetwork.medium.com </br>

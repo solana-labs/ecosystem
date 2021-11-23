@@ -1,17 +1,17 @@
 ---
-slug: ChihuahuaSol
-date: "2021-08-22"
-title: ChihuahuaSol
+slug: "chihuahuasol"
+date: "2021-09-29"
+title: "ChihuahuaSol"
 logline: "Exclusive NFTs Built on #Solana"
-cta: "https://nft.chihuahuasol.com/"
+cta: "https://chihuahuasol.com/"
 logo: /img/ChihuahuaSol.svg
 category: nft
 status: live
-twitter: "https://twitter.com/ChihuahuaSol"
+website: https://chihuahuasol.com/
+twitter: https://twitter.com/ChihuahuaSol
+discord: https://discord.gg/cQMHepBqmc
 ---
 
-ChihuahuaSol: Exclusive NFTs Built on #Solana
+Get 1010 algorithmically generated, cute and collectible NFTs with proof of ownership stored on the Solana blockchain. Mint Price 1 SOL
 
-<b>Website</b>: https://chihuahuasol.com </br>
-<b>Twitter</b>: https://twitter.com/ChihuahuaSol </br>
-<b>NFT Marketplace</b>: https://nft.chihuahuasol.com/ </br>
+<b>NFT Marketplace</b>: https://nft.chihuahuasol.com/

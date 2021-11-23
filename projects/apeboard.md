@@ -1,16 +1,15 @@
 ---
 slug: "apeboard"
-date: "2021-05-11"
+date: "2021-10-09"
 title: "ApeBoard"
 logline: "ApeBoard is a cross-chain DeFi dashboard that supports Solana."
 cta: "https://apeboard.finance/"
 category: app
 logo: /img/apeboard.svg
 status: live
-twitter: "https://twitter.com/ape_board/"
-telegram: "https://t.me/apeboard"
+website: https://apeboard.finance
+twitter: https://twitter.com/ape_board/
+telegram: https://t.me/apeboard
 ---
 
-ApeBoard is a cross-chain DeFi dashboard that supports the Solana network.
-
-<b>twitter:</b>https://twitter.com/ape_board/
+Ape Board is Cross-chain DeFi Dashboard. We currently support Ethereum, Binance Smart Chain, Terra, Solana, Binance Exchange and Polygon. You can simply input your address and Ape Board will track and show all your DeFi activities across multiple chains. How simple is that!

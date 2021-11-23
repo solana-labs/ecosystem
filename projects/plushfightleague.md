@@ -1,15 +1,15 @@
 ---
 slug: "plushfightleague"
-date: "2021-10-25"
+date: "2021-10-24"
 title: "Plush Fight League"
-logline: "PvP fighting  #Game  backed by Solana"
-cta: "https://twitter.com/pfl_game"
-logo: /img/PlushFightLeague.jpg
-category: nft
-status: live
+logline: "PvP fighting Game backed by Solana."
+cta: "https://plushfightleague.com"
+logo: /img/plushfightleague.png
+category: game, nft
+status: building
+website: https://plushfightleague.com
 twitter: https://twitter.com/pfl_game
-telegram: https://t.me/yourproject
 discord: https://discord.com/invite/pfl
 ---
 
-PvP fighting #Game backed by Solana
+Plush Fight League is a PvP fighting game with the fighting record stored on chain. It will have Play-To-Earn mechanics and will be built on Solana due to fast and low fee transactions.
