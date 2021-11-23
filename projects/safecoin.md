@@ -1,3 +1,18 @@
+---
+slug: "safecoin"
+date: "2021-3-10"
+title: "SafeCoin"
+logline: "SafeCoin is a decentralized, fair-launch friendly fork of Solana, taking the industry-leading Solana Tech and making is accessible to all."
+cta: "https://safecoin.org/"
+logo: /img/safecoin.png
+category: infra, defi
+status: live
+website: https://safecoin.org/
+twitter: https://twitter.com/SafeCoins
+telegram: https://t.me/SafeCoinEN
+discord: https://discord.gg/PcdHkRn
+---
+
 SafeCoin is a lightning fast and efficient Proof-of-Stake blockchain
 network based on the Solana code base. Thanks to Solana’s unique
 multithreaded architecture and Proof of History protocol, the SafeCoin
