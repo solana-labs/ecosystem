@@ -11,4 +11,4 @@ website: https://snowflake.so/
 twitter: https://twitter.com/snowflake_sol
 ---
 
-Snowflake is the first on-chain automation platform built for Solana. We are committed to building the most user-friendly, yet sophisticated automation layer that helps to connect hundreds of smart contracts in one unified on-chain platform. 
+Snowflake is the first on-chain automation platform built for Solana. We are committed to building the most user-friendly, yet sophisticated automation layer that helps to connect hundreds of smart contracts in one unified on-chain platform.
