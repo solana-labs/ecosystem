@@ -6,7 +6,7 @@ logline: "Evernew Capital launched a $20 million Solana Ecosystem fund to suppor
 cta: "https://forms.gle/K2sgrjRCCHtdCfiz9"
 cta2: "https://blog.evernewcap.com/evernew-capital-launches-20-million-solana-ecosystem-fund-to-promote-development-of-decentralized-a289678a3923"
 cta2text: "Fund Announcement"
-logo: /img/evernew.svg
+logo: /img/evernew.png
 category: fund
 ctatext: "Apply Now"
 featuredPartnerImage: ../img/illustrations/evernew.png
