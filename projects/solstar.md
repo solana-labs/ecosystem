@@ -12,7 +12,7 @@ twitter: "https://twitter.com/SolStarFinance"
 
 SolStar is a platform for creating and organizing token-powered communities, powered by Solana.
 
-SolStar built an SPL token Discord tip bot, please reach out if you're interested in adding it to your server.
+Please reach out if you're interested in adding SolStar's SPL token Discord tip bot to your server.
 
 <b>Website</b>: https://solstar.finance</br>
 <b>Twitter</b>: https://twitter.com/SolStarFinance </br>

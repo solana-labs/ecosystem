@@ -2,7 +2,7 @@
 slug: "solstake"
 title: "Solstake"
 date: 2021-07-25
-logline: "Staking SOL should be easy."
+logline: "Solstake makes staking on Solana easier than ever."
 category: defi
 cta: https://twitter.com/solstakeio
 logo: /img/solstake.svg
@@ -12,4 +12,4 @@ twitter: https://twitter.com/solstakeio
 discord: https://discord.com/invite/W8MSvXtfjG
 ---
 
-Solstake makes staking on Solana easier than ever - no matter what wallet you’re using. Stake your SOL, manage accounts and earn rewards all in a single and easy-to-use app.
+Solstake makes staking on Solana easier than ever, no matter the wallet in use. Stake SOL, manage accounts, and earn rewards all in a single easy-to-use app.

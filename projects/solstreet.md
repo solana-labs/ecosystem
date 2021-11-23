@@ -4,7 +4,7 @@ date: "2021-07-16"
 title: SolStreet
 logline: >-
   SolStreet is a Solana-based, non-custodial asset management and investment
-  protocol that allows anyone to launch a decentralized hedge fund directly to
+  protocol allowing anyone to launch a decentralized hedge fund directly to
   market.
 cta: "https://solstreet.finance/"
 logo: /img/solstreet.svg
@@ -13,11 +13,11 @@ twitter: "https://twitter.com/SolStreetFin"
 status: live
 ---
 
-SolStreet is a Solana-based, non-custodial asset management and investment protocol that aims to solve the problems inherent to traditional finance by allowing anyone to launch a decentralized fund directly to market, with negligible up-front or ongoing costs. All trades and assets remain verifiably secure, on-chain.
+SolStreet is a Solana-based, non-custodial asset management and investment protocol that aims to solve inherent problems in traditional finance by allowing anyone to launch a decentralized fund directly to market, with negligible up-front or ongoing costs. All trades and assets remain verifiably secure and on-chain.
 
-Anybody can directly launch, or invest into, a decentralized, non-custodial fund. All trades and assets remain verifiably on-chain via the use of the Serum DEX. The protocol facilitates subscriptions and redemptions to and from investment funds seamlessly and at near-zero cost.
+Anybody can directly launch, or invest into, a decentralized, non-custodial fund. All trades and assets remain verifiably on-chain via the Serum DEX. The protocol facilitates subscriptions and redemptions to and from investment funds seamlessly and at near-zero cost.
 
-The founding team’s expertise goes beyond just operating investment funds, and extends into making successful seed investments into groundbreaking disruptors in finance and tech.
+The founding team’s expertise goes beyond just operating investment funds, and extends to making successful seed investments into groundbreaking disruptors in finance and tech.
 
 <b>Website</b>: https://solstreet.finance </br>
 <b>Discord</b>: https://discord.gg/vgBsD2Fckv </br>

@@ -2,7 +2,7 @@
 slug: "wormhole"
 date: "2020-04-03"
 title: "Wormhole"
-logline: "Wormhole builds bridges between chains, facilitating fast transfer of any kind of information from one chain to another."
+logline: "Wormhole builds bridges between chains, facilitating transfers of any kind of information from one chain to another."
 cta: "https://wormholenetwork.com/"
 logo: /img/wormhole.svg
 category: infra
@@ -13,6 +13,4 @@ discord: https://discord.com/invite/TsjcDtTPVp
 status: live
 ---
 
-Wormhole is a communication bridge between Solana and other top decentralized finance (DeFi) networks. Wormhole allows existing projects, platforms, and communities to move tokenized assets seamlessly across blockchains to benefit from Solana’s high speed and low cost.
-
-Wormhole builds bridges between chains, facilitating fast transfer of any kind of information from one chain to another.
+Wormhole is a communication bridge between Solana and other top decentralized finance (DeFi) networks. Existing projects, platforms, and communities are able to move tokenized assets seamlessly across blockchains and benefit from Solana’s high speed and low cost.

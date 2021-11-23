@@ -11,4 +11,4 @@ status: live
 twitter: https://twitter.com/stackedcrypto
 ---
 
-Stacked Crypto is a cryptocurrency investment platform. Manage your assets & instantly invest in pre-built portfolios and strategies from leading hedge funds and traders. Stacked is the easiest way to run a trading strategy without any technical experience. Stacked uses encrypted API to send instructions to your exchange account to execute trades. Stacked allows you to manage all of your crypto on one secure platform. Stacked makes it easy to manage all of your accounts in one place.
+Stacked Crypto is a cryptocurrency investment platform. Manage assets and instantly invest in pre-built portfolios and strategies from leading hedge funds and traders. Stacked is the easiest way to run a trading strategy without any technical experience. An encrypted API sends instructions to exchange accounts to execute trades. Manage all of your crypto on one secure platform.
