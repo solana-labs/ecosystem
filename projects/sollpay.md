@@ -9,4 +9,5 @@ category: DeFi, tools
 status: building
 ---
 
-Sollpay enables recurring Payments or subscriptions with the ability to periodically claim approved tokens by specified in plan amount and interval.
+Sollpay enables recurring payments or subscriptions with the ability to periodically claim approved tokens by specified in plan amount and interval.
+
