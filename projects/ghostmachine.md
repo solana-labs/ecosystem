@@ -4,8 +4,8 @@ date: "2021-09-30"
 title: "Ghost Machine"
 logline: "Generative AI NFTs on Solana."
 cta: "https://www.ghostmachine.ai"
-logo: /img/ghost-machine-logo.svg
-category: nft, DAO, AI, artwork
+logo: /img/gm-logo.svg
+category: nft
 status: Live
 website: https://www.ghostmachine.ai
 twitter: https://mobile.twitter.com/ghostartmachine
