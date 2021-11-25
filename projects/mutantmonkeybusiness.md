@@ -12,7 +12,5 @@ twitter: https://twitter.com/SolanaMMB
 discord: https://discord.gg/SolanaMMB
 ---
 
-Mutant Monkey Business are a collection of 5000 science experiments gone wrong, who have escaped the laboratory and are making their way onto the Solana block chain. 
+Mutant Monkey Business are a collection of 5000 science experiments gone wrong, who have escaped the laboratory and are making their way onto the Solana block chain.
 If you manage to capture or befriend a monkey you will soon be rewarded, turns out they decided to take most of the $potions with them when they escaped.
-
-
