@@ -5,7 +5,7 @@ title: "NextMindCoin"
 logline: "NextMindCoin develop Dapps through an EEG headset (BCI) that allows to interact with machines by thought."
 cta: "https://nextmindcoin.com/"
 logo: /img/NXMC.png
-category: gaming, dapp, bci
+category: game, dapp
 status: live
 website: https://nextmindcoin.com/
 twitter: https://twitter.com/NextMindCoin
