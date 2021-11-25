@@ -1,13 +1,16 @@
 ---
 slug: "arweave"
-date: "2020-04-03"
+date: "2021-10-10"
 title: "Arweave"
 logline: "Arweave and Solana partnered to provide a decentralised permanent data storage solution of ledger data, ensuring the data can be always retrieved as required."
 cta: "https://www.arweave.org/"
-logo: /img/arweave.svg
+logo: /img/arweave.png
 category: Infra
 status: building
-twitter: https://twitter.com/arweaveteam
+website: https://www.arweave.org/
+twitter: https://twitter.com/ArweaveTeam
+telegram: https://t.me/arweavers
+discord: https://discord.gg/3Dad8J7
 ---
 
 Arweave is a new type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to truly store data forever – for the very first time.

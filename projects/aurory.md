@@ -6,7 +6,7 @@ logline: "Aurory is a gaming project powered by Solana and Serum."
 cta: "https://twitter.com/AuroryProject"
 category: app
 logo: /img/aurory.svg
-status: building
+status: live
 website: https://aurory.io/
 twitter: https://twitter.com/AuroryProject
 telegram: https://t.me/aurory_project

@@ -5,7 +5,7 @@ title: "Chikin"
 logline: "Disrupting the chicken society through decentralization."
 cta: "https://chikin.run/"
 logo: /img/chikin.svg
-category: dapp, exchange, nft
+category: app, exchange, nft
 status: live
 website: https://chikin.run/
 twitter: https://twitter.com/chikindev

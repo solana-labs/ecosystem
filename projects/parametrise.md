@@ -2,7 +2,7 @@
 slug: "parametrise"
 date: "2021-09-29"
 title: "Parametrise"
-logline: "Growing Library of Parametric NFT Collections"
+logline: "A growing library of parametric NFT collections."
 cta: "https://parametrise.com/"
 logo: /img/parametrise.png
 category: nft

@@ -12,5 +12,5 @@ twitter: https://twitter.com/WaveTheVoiceNFT
 telegram: https://t.me/WaveTheVoiceNFT
 ---
 
-Welcome to WaveTheVoice, the tool that generates NFT waves images from your audio records. 
+Welcome to WaveTheVoice, the tool that generates NFT waves images from your audio records.
 It respects the uniqueness of each voice and word and allows you customize it even more with colors and gradients.

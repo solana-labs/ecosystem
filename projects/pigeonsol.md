@@ -2,7 +2,7 @@
 slug: "pigeonsol"
 date: "2021-05-16"
 title: "PigeonSol"
-logline: "PigeonSol($PGNT) is a Decentralized exchange and NFT marketplace."
+logline: "PigeonSol($PGNT) is a DEX and NFT marketplace."
 cta: "https://twitter.com/PigeonSol"
 logo: /img/pigeonsol.svg
 category: dex,metaplex
@@ -12,4 +12,4 @@ Twitter: https://twitter.com/PigeonSol
 Discord: https://discord.com/invite/KHZGhJktYm
 ---
 
-PigeonSol is deflationary token powered by Solana with a user friendly decentralized exchange and NFT marketplace.
+PigeonSol is a deflationary token powered by Solana with a user friendly DEX and NFT marketplace.

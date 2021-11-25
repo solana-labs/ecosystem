@@ -11,4 +11,4 @@ twitter: https://twitter.com/thugbirdz
 discord: https://discord.com/invite/thugdao
 ---
 
-A collection of 3,333 uniquely generated, tough and collectible thugbirdz 
+A collection of 3,333 uniquely generated, tough and collectible thugbirdz

@@ -2,7 +2,7 @@
 slug: "switchboard"
 title: "Switchboard"
 date: "2021-05-28"
-logline: "Switchboard is a community curated oracle network on Solana."
+logline: "Switchboard is a community-curated oracle network on Solana."
 cta: https://twitter.com/switchboardxyz
 category: oracle, infra, tools, spl, defi, app
 logo: /img/switchboard.svg
@@ -13,8 +13,8 @@ telegram: https://t.me/switchboardxyz
 discord: https://discord.com/invite/sNeGymrabT
 ---
 
-Switchboard is a generalized, community curated oracle network designed
+Switchboard is a generalized, community-curated oracle network designed
 to incentivize bringing the long tail of data on-chain. Harnessing the
-wisdom of crowds, Switchboard creates a market of curators incentivized
-to organize unique off-chain data sources and publishers to decentralize
+wisdom of crowds, Switchboard appeals to a market of curators incentivized
+to organize unique off-chain data sources and publishers raring to decentralize
 quantitative data feeds.

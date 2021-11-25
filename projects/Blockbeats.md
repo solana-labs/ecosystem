@@ -1,14 +1,16 @@
 ---
 slug: "blockbeats"
-date: "2021-06-01"
+date: "2021-09-28"
 title: "Blockbeats"
-logline: "Produced and visualized for the new wave of music entertainment."
-cta: "https://twitter.com/blockbeatsnft"
-logo: /img/Blockbeats.svg
+logline: "Blockbeats is a music platform on Solana using NFTs to distribute unique licensing rights with expansive web3 capabilities."
+cta: "https://blockbeats.app"
+logo: /img/blockbeats.png
 category: metaplex, nft
 status: live
+website: https://anchorprotocol.com/
 twitter: https://twitter.com/blockbeatsnft
 telegram: https://t.me/blockbeatsclub
+discord: https://discord.com/invite/blockbeats
 ---
 
-Produced and visualized for the new wave of music entertainment. Building a unique sound experience powered by Solana.
+Blockbeats is a web3 music platform. Our goal is to build new opportunities for artists and for users to experience enhanced utility and entertainment across the Solana and Ethereum ecosystems.
