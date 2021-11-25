@@ -2,7 +2,7 @@
 slug: "AnchorPy"
 date: "2021-11-25"
 title: "AnchorPy"
-logline: "The Anchor Python client."
+logline: "The Anchor Python client"
 cta: "https://github.com/kevinheavey/anchorpy"
 logo: /img/anchorpy.png
 category: sdk
