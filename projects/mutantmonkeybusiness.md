@@ -4,7 +4,7 @@ date: "2021-11-09"
 title: "MutantMonkeyBusiness"
 logline: "5000 Mutated Monkes on Solana."
 cta: "https://mutantmonkey.business"
-logo: /mutantmonkeybusiness.jpg
+logo: /img/mutantmonkeybusiness.jpg
 category: nft
 status: live
 website: https://mutantmonkey.business
