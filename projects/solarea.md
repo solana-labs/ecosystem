@@ -2,9 +2,7 @@
 slug: solarea
 date: "2021-07-28"
 title: Solarea
-logline: >-
-  Solarea is a dApps composer and community-driven blockchain
-  explorer based on Solana.
+logline: Solarea is a dApps composer and community-driven blockchain explorer based on Solana.
 cta: "https://solarea.io/"
 logo: /img/solarea.svg
 category: "explorer, infra"

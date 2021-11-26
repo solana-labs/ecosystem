@@ -2,10 +2,7 @@
 slug: solstreet
 date: "2021-07-16"
 title: SolStreet
-logline: >-
-  SolStreet is a Solana-based, non-custodial asset management and investment
-  protocol allowing anyone to launch a decentralized hedge fund directly to
-  market.
+logline: SolStreet is a Solana-based, non-custodial asset management and investment   protocol allowing anyone to launch a decentralized hedge fund directly to market.
 cta: "https://solstreet.finance/"
 logo: /img/solstreet.svg
 category: DeFi

@@ -2,9 +2,7 @@
 slug: riskswap
 date: "2021-07-27"
 title: Riskswap
-logline: >-
-  RiskSwap is the first decentralized trading platform built on Solana allowing for both futures
-  and options trading.
+logline: RiskSwap is the first decentralized trading platform built on Solana allowing for both futures and options trading.
 cta: "https://riskswap.com"
 logo: /img/riskswap.svg
 category: defi

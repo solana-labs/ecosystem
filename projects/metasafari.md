@@ -2,9 +2,7 @@
 slug: metasafari
 date: "2021-08-28"
 title: MetaSafari
-logline: >-
-  We’re a multi-chain, multi-tribe NFT based MetaVerse bridging digital and
-  physical worlds, and gamifying hybrid finance (HyFi).
+logline: We’re a multi-chain, multi-tribe NFT based MetaVerse bridging digital and physical worlds, and gamifying hybrid finance (HyFi).
 cta: "https://metasafari.world/"
 logo: /img/metasafari.svg
 category: "app, defi, metaplex, nft"

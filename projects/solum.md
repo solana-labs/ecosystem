@@ -2,8 +2,7 @@
 slug: Solum
 date: "2021-10-13"
 title: Solum
-logline: >-
-Solum is Solana-based DeFi. Cheap and easy, Farming/Staking is only a few clicks behind.
+logline: Solum is Solana-based DeFi. Cheap and easy, Farming/Staking is only a few clicks behind.
 cta: "https://solum.finance/"
 logo: /img/solum.png
 category: "amm, dex, exchange, tools, nft"

@@ -2,9 +2,7 @@
 slug: ninjaprotocol
 date: "2021-08-22"
 title: Ninja Protocol
-logline: >-
-  Ninja Protocol is an ecosystem product developed on the Solana blockchain
-  with a focus on gaming & NFTs.
+logline: Ninja Protocol is an ecosystem product developed on the Solana blockchain with a focus on gaming & NFTs.
 cta: "https://ninjaprotocol.io/"
 logo: /img/ninjaprotocol.svg
 category: "dex, nft, app"

@@ -2,9 +2,7 @@
 slug: cryptomafia
 date: "2021-08-31"
 title: Cryptomafia
-logline: >-
-  The world's favorite party game meets Solana. Reimagine classic Mafia with
-  real stakes games and exclusive NFT minting events.
+logline: The world's favorite party game meets Solana. Reimagine classic Mafia with   real stakes games and exclusive NFT minting events.
 cta: "https://cryptomafia.gg"
 logo: /img/cryptomafia.svg
 category: "app, nft"
