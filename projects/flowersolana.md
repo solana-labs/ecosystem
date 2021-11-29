@@ -5,7 +5,7 @@ title: "Flower Solana"
 logline: "Metaverse is Life"
 cta: "https://flowersolana.com/"
 logo: /img/flowersolana.png
-category: SPL, DEX, NFTs
+category: SPL, DEX
 status: building
 website: https://flowersolana.com/
 twitter: https://twitter.com/FlowerSolana
