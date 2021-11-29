@@ -1,11 +1,11 @@
 ---
-slug: "flowersolana"
+slug: "flower"
 date: "2021-11-28"
 title: "Flower Solana"
 logline: "Metaverse is Life"
 cta: "https://flowersolana.com/"
-logo: /img/flowersolanalogo.png
-category: spl, dex, nft
+logo: /img/flowersolana.png
+category: SPL, DEX, NFTs
 status: building
 website: https://flowersolana.com/
 twitter: https://twitter.com/FlowerSolana
