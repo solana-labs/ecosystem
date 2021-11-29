@@ -5,7 +5,7 @@ title: "trush"
 logline: "The first DeFi banking protocol dedicated to speed, transparency, intelligence and simplicity"
 cta: "https://www.trush.io/"
 logo: /img/trush.png
-category: defi, app, fund, stablecoin, stake-pool, tools, wallet
+category: defi, app, fund, stablecoin, tools, wallet
 status: building
 website: https://www.trush.io/
 twitter: https://twitter.com/Trush_io?s=20
