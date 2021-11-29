@@ -4,7 +4,7 @@ date: "2021-11-28"
 title: "Flower Solana"
 logline: "MetaVerse is Life"
 cta: "https://flowersolana.com/call-to-action"
-logo: /img/flowersolana.svg
+logo: /img/flowersolana.png
 category: spl, nft
 status: building
 website: https://flowersolana.com/
