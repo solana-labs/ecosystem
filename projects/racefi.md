@@ -17,4 +17,3 @@ telegram: https://t.me/racefi_io
 
 PLAY-AND-EARN, ANYWHERE
 RaceFi is the first AI/ML car racing game on Solana
-
