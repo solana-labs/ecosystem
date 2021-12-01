@@ -10,10 +10,7 @@ status: building
 website: https://racefi.io
 twitter: https://twitter.com/racefi_io
 discord: https://discord.gg/rDX8uwd2sg
-telegram: https://t.me/racefi_io
+telegram: 
 ---
 
-**RaceFi is the first AI/ML car racing game on Solana.**
-
-PLAY-AND-EARN, ANYWHERE
 RaceFi is the first AI/ML car racing game on Solana
