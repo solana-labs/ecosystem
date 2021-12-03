@@ -5,7 +5,7 @@ title: "nanoX"
 logline: "A Decentralized Ecosystem that ignites Financial Awareness among Kids, to Bridge the gap between Adults/Parents and Children on the Solana Blockchain"
 cta: "https://nanox.finance/"
 logo: /img/nanox.png
-category: app, defi, dex, nft, game, stake-pool
+category: app, defi, dex, nft, game
 status: building
 website: https://nanox.finance/
 twitter: https://twitter.com/nanoX_finance
