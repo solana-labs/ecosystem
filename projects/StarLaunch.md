@@ -5,7 +5,7 @@ title: "StarLaunch"
 logline: "The first insured IDO launchpad for SOLANA"
 cta: "https://www.starlaunch.com"
 logo: /img/starlaunch.svg
-category: app, stake-pool 
+category: app 
 status: live
 website: https://www.starlaunch.com
 twitter: https://twitter.com/StarLaunchSOL
