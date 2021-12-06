@@ -1,6 +1,6 @@
 ---
 slug: "AnchorPy"
-date: "2021-11-25"
+date: "2021-12-06"
 title: "AnchorPy"
 logline: "The Anchor Python client"
 cta: "https://github.com/kevinheavey/anchorpy"
