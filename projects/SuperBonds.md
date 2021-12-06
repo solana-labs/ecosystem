@@ -3,8 +3,8 @@ slug: "superbonds"
 date: "2020-12-06"
 title: "SuperBonds"
 logline: "DeFi’s first bond market through financial NFTs"
-cta: "https://superbonds.finance/#/"
-logo: /img/SuperBonds.svg
+cta: "https://superbonds.finance"
+logo: /img/SuperBonds.png
 category: defi, nft
 status: building
 website: https://superbonds.finance/#/
