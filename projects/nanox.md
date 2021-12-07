@@ -6,7 +6,7 @@ logline: "A Decentralized Ecosystem that ignites Financial Awareness among Kids,
 cta: "https://nanox.finance/"
 logo: /img/nanox.png
 category: app, defi, dex, nft, game
-status: building
+status: live
 website: https://nanox.finance/
 twitter: https://twitter.com/nanoX_finance
 telegram: https://t.me/nanoXspace
