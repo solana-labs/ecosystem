@@ -9,7 +9,6 @@ category: "defi"
 status: building
 website: https://www.orphic.finance/
 twitter: https://twitter.com/FinanceOrphic
-telegram: 
 discord: https://discord.gg/ETMpa6B72P
 ---
 
