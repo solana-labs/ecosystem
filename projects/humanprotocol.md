@@ -6,8 +6,12 @@ logline: "The HUMAN Protocol is a broadly applicable approach to organizing, eva
 cta: "https://hmt.ai/"
 logo: /img/human.svg
 category: app
+status: live
+website: https://www.humanprotocol.org/
+twitter: https://twitter.com/human_protocol
+telegram: http://hmt.ai/telegram
 ---
 
-Human Protocol helps machines learn. It does this by soliciting people to perform so-called labeling tasks—identifying raw data, such as videos, images, and text. That, in turn, provides meaningful information and context for machine learning to improve tasks such as speech and visual recognition.
+Human Protocol helps machines learn by soliciting real people to perform "labeling tasks"—identifying raw data, such as videos, images, and text. That, in turn, provides meaningful information for machine learning to improve tasks such as visual or vocal recognition.
 
-The Singapore-based company is integrating with Solana because scalability is crucial to equipping developers and organizations with additional resources to execute task labeling.
+The Singapore-based company is integrating with Solana as scalability is crucial to equipping developers and organizations with additional resources to execute task labeling.

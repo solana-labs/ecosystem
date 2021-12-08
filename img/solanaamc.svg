@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0cf1a7"/>
+      <stop offset="1" stop-color="#d822fd"/>
+    </linearGradient>
+  </defs>
+  <g id="round_icon_100x100" transform="translate(-233 -303)">
+    <g id="circle_icon" transform="translate(233 303)">
+      <g id="monero">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="50" cy="50" r="50" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="increase-up-profit" transform="translate(247.749 333.635)">
+      <path id="Path_1" data-name="Path 1" d="M1.174,32.745A3.888,3.888,0,1,0,6.6,38.318l16.018-15.63L36.008,35.612a3.889,3.889,0,0,0,5.5-.1l21.88-22.141V24.53a3.9,3.9,0,0,0,7.8,0V3.89h-.012A3.88,3.88,0,0,0,67.041.014H47.733a3.9,3.9,0,0,0,0,7.8H57.946L38.638,27.346,25.3,14.468a3.883,3.883,0,0,0-5.4.017L1.174,32.745Z" transform="translate(0.004 -0.006)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

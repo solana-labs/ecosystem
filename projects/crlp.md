@@ -6,6 +6,7 @@ logline: CRLP is a proof of concept of a cross-chain credit risk and lending pro
 cta: https://github.com/sidthekidder/solana-hackathon
 logo: /img/crlp.svg
 category: DeFi
+status: closed
 ---
 
 POC of a cross-chain credit risk and lending protocol for under-collateralized, fixed rate and term loans, without KYC.

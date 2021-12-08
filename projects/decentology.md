@@ -6,6 +6,7 @@ logline: "Decentology is a platform that simplifies decentralized app creation. 
 cta: "https://www.decentology.com/"
 logo: /img/decentology.svg
 category: infra
+status: live
 ---
 
-Decentology, formerly known as TryCrypto, builds DappStarter, a blockchain-agnostic platform for building full-stack, customizable blockchain apps. They've reduced the time to build Solana blockchain apps from weeks to under 15 minutes.
+Decentology built DappStarter, a blockchain-agnostic platform for building full-stack, customizable blockchain apps. We've reduced application build time on Solana from weeks to under fifteen minutes.
