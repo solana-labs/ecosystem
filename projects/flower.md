@@ -10,5 +10,4 @@ status: building
 website: https://flowersolana.com/
 twitter: https://twitter.com/flowersolana
 ---
-
 We stand on the strength of the Community, which wants to generate a true MetaVerse in Solana. From Community, By Community, For Community we Are Strong together.
