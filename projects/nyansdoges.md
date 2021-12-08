@@ -5,7 +5,7 @@ title: "Nyans Doges"
 logline: "We Are NyansDoges A collection of 999 pixel dogs that symbolize a “freedom” on Solana Blockchain"
 cta: "https://nyansdoges.com/"
 logo: /img/nyansdoges.png
-category: nft,metaplex,candymachine
+category: nft,metaplex
 status: live
 website: https://nyansdoges.com/
 twitter: https://twitter.com/NyansDoges/
