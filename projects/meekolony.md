@@ -4,7 +4,7 @@ date: "2021-12-09"
 title: "Meekolony"
 logline: "Meekolony is a series of 10,000 unique character avatar NFTs for Tatsumeeko - A P2E metaverse RPG built on Solana accessible on Discord, web, and mobile!"
 cta: https://twitter.com/meekolony
-logo: /img/meekolony.png
+logo: /img/meekolony.jpg
 category: nft, game
 status: building
 website: https://meekolony.com/
