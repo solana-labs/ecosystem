@@ -16,4 +16,4 @@ discord: https://discord.gg/yCWKEcxKAe
 The SuperBonds platform employs financial NFTs (Non-Fungible Tokens) to facilitate DeFi’s first bond market. 
 Traders can buy fixed yield bonds as financial NFTs that are redeemable anytime. These bonds can be self-custodied. 
 LPs (Liquidity Providers), who will underwrite the bonds, will have access to multiple revenue streams via the SuperBond 
-platform to incentivise bond creation. 
+platform to incentivise bond creation.
