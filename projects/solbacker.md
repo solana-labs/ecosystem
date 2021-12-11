@@ -4,7 +4,7 @@ title: "Solbacker"
 date: "2021-12-11"
 logline: "Solbacker Is A Decentralized Fundraising Platform."
 cta: https://twitter.com/solbacker_io
-category: DeFi, Investment fund
+category: defi, investmentfund
 logo: /img/solbacker.png
 status: building
 website: https://www.solbacker.io/
