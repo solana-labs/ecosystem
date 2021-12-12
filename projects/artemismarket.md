@@ -10,6 +10,7 @@ status: building
 website: http://www.artemismarket.io
 twitter: https://twitter.com/Artemis_Market
 telegram: https://t.me/ArtemisMarketOfficial
+discord: https://discord.gg/artemis-market
 ---
 
 Artemis is reinventing the way we interact with NFTs by building the world’s first decentralized mobile-focused social NFT platform. 
