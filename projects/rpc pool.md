@@ -4,7 +4,7 @@ title: "Triton One | RPC Pool"
 date: 2021-12-14
 logline: "Fast and Reliable Solana RPC"
 website: "https://triton.one/"
-category: infra, rpc
+category: infra
 cta: "https://triton.one/"
 logo: /img/triton-one-logo.png
 status: live
