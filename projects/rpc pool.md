@@ -1,16 +1,15 @@
 ---
-slug: "rpcpool"
-title: "rpc pool"
-date: 2021-07-25
-logline: "Fast and reliable Solana RPC"
-website: "https://www.rpcpool.com/"
-category: infra, rpc
-cta: "https://www.rpcpool.com/"
-logo: /img/rpcpool.svg
+slug: "triton-one-rpcpool"
+title: "Triton One | RPC Pool"
+date: 2021-12-14
+logline: "Fast and Reliable Solana RPC"
+website: "https://triton.one/"
+category: infra
+cta: "https://triton.one/"
+logo: /img/triton-one-logo.png
 status: live
-twitter: https://twitter.com/rpcpool
+twitter: https://twitter.com/triton_one
 telegram: https://t.me/joinchat/K0ONdq7fE4s0Mjdl
 ---
 
-Each region has multiple servers for redundancy with customized health checking that automatically routes traffic to servers which can provide correct answers.
-With operators in Asia, EU and US we can provide 24/7 support, ensuring high uptime.
+We specialize in custom dedicated RPC services for apps that need more than plain vanilla RPC. Custom AccountsDB plugins? No problem! Custom indexing? No problem! Global deployments? No problem! We have been part of the Solana community from the early days as validators and app developers. We're always available on the Solana discord and on Telegram, so feel free to reach out.
