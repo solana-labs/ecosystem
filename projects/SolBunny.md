@@ -10,7 +10,7 @@ status: live
 website: http://solbunny.io
 twitter: https://twitter.com/SolanaBunny
 telegram: https://t.me/joinchat/PvezmzKCNRowN2Fk
-discord: https://discord.gg/6nQHqF8s
+discord: https://discord.gg/uWCfmp6daq
 ---
 
 This project will look nicely on the ecosystem page and very much advance
