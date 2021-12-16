@@ -1,5 +1,5 @@
 ---
-# NOTE: This repository will soon be deprecated and replaced with a web-based form to submit project information.
+# NOTE: This repository is deprecated. To submit your project info, please visit https://solana.com/ecosystem/submit-project.
 ---
 
 # Solana Ecosystem
