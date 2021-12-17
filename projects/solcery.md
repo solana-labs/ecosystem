@@ -1,20 +1,16 @@
 ---
-slug: solcery
-date: "2020-08-11"
-title: Solcery
-logline: Solcery is a decentralized game hub on Solana, where users can create, publish, and play blockchain games all in one place.
-cta: "https://solcery.xyz/"
-logo: /img/solcery.svg
-category: "game, app, nft, metaplex"
+slug: 'solcery'
+date: '2020-12-14'
+title: 'Solcery'
+logline: 'Solcery is a Zero-code on-chain game engine on Solana.'
+cta: 'https://solcery.xyz/'
+logo: /img/solcery.png
+category: game, app, nft
 status: building
-twitter: "https://twitter.com/SolceryGames"
+website: https://solcery.xyz/
+twitter: 'https://twitter.com/SolceryGames'
+telegram: https://t.me/solcery_games
+discord: https://discord.com/invite/Yk9GEpPTA7
 ---
 
-Solcery is a decentralized game hub on Solana, where you can create, publish, and play blockchain games. On-board any NFTs on Solana into the Solcery Ecosystem and make it a unique Metaplex-compatible game asset supported by all Solcery games.
-
-<b>Website</b>: https://solcery.xyz </br>
-<b>Gitbook</b>: https://solcery.gitbook.io/solcery </br>
-<b>Twitter</b>: https://twitter.com/SolceryGames </br>
-<b>Medium</b>: https://medium.com/@solcery </br>
-<b>Discord</b>: https://discord.gg/Yk9GEpPTA7 </br>
-<b>Github</b>: https://github.com/solcery </br>
+Solcery is a zero-code on-chain game engine on Solana that gives its users a quick and easy way to create blockchain game experiences, instant access to an ever-growing library of games, and an ability to turn any NFTs they own into unique in-game assets.
